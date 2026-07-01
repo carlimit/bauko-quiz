@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="Lastarten auf einem Balken">
+  <rect width="420" height="320" fill="#f7f4ee"/>
+  <text x="210" y="26" text-anchor="middle" font-family="system-ui,Arial" font-size="17" font-weight="700" fill="#243b53">Lastarten (Einwirkungen)</text>
+  <defs>
+    <marker id="ar" markerWidth="8" markerHeight="8" refX="4" refY="7" orient="auto">
+      <path d="M0,0 L4,7 L8,0 Z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <!-- Einzellast -->
+  <g>
+    <line x1="60" y1="55" x2="60" y2="82" stroke="#c0392b" stroke-width="3" marker-end="url(#ar)"/>
+    <rect x="40" y="86" width="120" height="10" fill="#6b8cae"/>
+    <polygon points="45,96 55,110 35,110" fill="#4a4a4a"/><polygon points="155,96 165,110 145,110" fill="#4a4a4a"/>
+    <text x="185" y="80" font-family="system-ui,Arial" font-size="12" fill="#243b53">Einzellast F [kN]</text>
+  </g>
+  <!-- Gleichstreckenlast -->
+  <g>
+    <g stroke="#c0392b" stroke-width="2.5" marker-end="url(#ar)">
+      <line x1="45" y1="150" x2="45" y2="176"/><line x1="70" y1="150" x2="70" y2="176"/><line x1="95" y1="150" x2="95" y2="176"/>
+      <line x1="120" y1="150" x2="120" y2="176"/><line x1="145" y1="150" x2="145" y2="176"/>
+    </g>
+    <line x1="42" y1="149" x2="158" y2="149" stroke="#c0392b" stroke-width="2"/>
+    <rect x="40" y="180" width="120" height="10" fill="#6b8cae"/>
+    <polygon points="45,190 55,204 35,204" fill="#4a4a4a"/><polygon points="155,190 165,204 145,204" fill="#4a4a4a"/>
+    <text x="185" y="174" font-family="system-ui,Arial" font-size="12" fill="#243b53">Gleichstreckenlast q [kN/m]</text>
+  </g>
+  <!-- Dreieckslast -->
+  <g>
+    <g stroke="#c0392b" stroke-width="2.5" marker-end="url(#ar)">
+      <line x1="45" y1="262" x2="45" y2="270"/><line x1="70" y1="252" x2="70" y2="270"/><line x1="95" y1="242" x2="95" y2="270"/>
+      <line x1="120" y1="232" x2="120" y2="270"/><line x1="145" y1="222" x2="145" y2="270"/>
+    </g>
+    <line x1="45" y1="262" x2="145" y2="221" stroke="#c0392b" stroke-width="2"/>
+    <rect x="40" y="274" width="120" height="10" fill="#6b8cae"/>
+    <polygon points="45,284 55,298 35,298" fill="#4a4a4a"/><polygon points="155,284 165,298 145,298" fill="#4a4a4a"/>
+    <text x="185" y="258" font-family="system-ui,Arial" font-size="12" fill="#243b53">Dreieckslast (veränderlich)</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" role="img" aria-label="Pfosten-Riegel-Fassade">
+  <rect width="420" height="300" fill="#f7f4ee"/>
+  <text x="210" y="26" text-anchor="middle" font-family="system-ui,Arial" font-size="17" font-weight="700" fill="#243b53">Pfosten-Riegel-Fassade</text>
+  <!-- Glasfelder -->
+  <g fill="#cfe6ef" stroke="#9fc6d6" stroke-width="1">
+    <rect x="70" y="55" width="90" height="80"/><rect x="170" y="55" width="90" height="80"/><rect x="270" y="55" width="90" height="80"/>
+    <rect x="70" y="145" width="90" height="80"/><rect x="170" y="145" width="90" height="80"/><rect x="270" y="145" width="90" height="80"/>
+  </g>
+  <!-- Pfosten (vertikal, tragend) -->
+  <g fill="#6b7a8f">
+    <rect x="60" y="50" width="12" height="185"/><rect x="158" y="50" width="12" height="185"/>
+    <rect x="258" y="50" width="12" height="185"/><rect x="358" y="50" width="12" height="185"/>
+  </g>
+  <!-- Riegel (horizontal) -->
+  <g fill="#9aa7b5">
+    <rect x="60" y="50" width="310" height="9"/><rect x="60" y="140" width="310" height="9"/><rect x="60" y="226" width="310" height="9"/>
+  </g>
+  <text x="66" y="255" font-family="system-ui,Arial" font-size="12" fill="#243b53">Pfosten (vertikal, tragend)</text>
+  <text x="230" y="255" font-family="system-ui,Arial" font-size="12" fill="#243b53">Riegel (horizontal)</text>
+  <line x1="120" y1="248" x2="66" y2="238" stroke="#243b53" stroke-width="1"/>
+  <line x1="260" y1="248" x2="300" y2="230" stroke="#243b53" stroke-width="1"/>
+  <text x="210" y="285" text-anchor="middle" font-family="system-ui,Arial" font-size="12" fill="#6b5a45">Rasterkonstruktion aus Profilen, Felder mit Glas gefüllt</text>
+</svg>

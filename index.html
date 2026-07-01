@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0f1b2d">
+  <title>BauKo II · Lernquiz</title>
+  <meta name="description" content="Quiz und Lernkarten zur Baukonstruktion II – mit globaler Bestenliste.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- ============ START ============ -->
+  <section id="home" class="screen active">
+    <header class="hero">
+      <div class="hero-grid" aria-hidden="true"></div>
+      <div class="eyebrow">Baukonstruktion II · DHBW</div>
+      <h1>BauKo&nbsp;II<span class="accent">.</span></h1>
+      <p class="sub">Quiz &amp; Lernkarten — bis alles sitzt.</p>
+    </header>
+
+    <div class="stat-strip" id="homeStats"></div>
+
+    <div class="panel">
+      <div class="field">
+        <label>Modus</label>
+        <div class="segmented" id="modeToggle">
+          <button class="seg active" data-mode="quiz">Quiz</button>
+          <button class="seg" data-mode="flash">Lernkarten</button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>Themen</label>
+        <div class="chips" id="topicChips"></div>
+      </div>
+
+      <div class="field">
+        <label>Umfang</label>
+        <div class="segmented" id="lenChips"></div>
+      </div>
+    </div>
+
+    <button class="btn primary block" id="startBtn">Starten</button>
+    <p class="hint" id="startHint"></p>
+
+    <div class="home-foot">
+      <button class="btn ghost" id="openBoard">🏆 Bestenliste</button>
+      <button class="btn ghost subtle" id="resetBtn">Fortschritt zurücksetzen</button>
+    </div>
+  </section>
+
+  <!-- ============ QUIZ ============ -->
+  <section id="quiz" class="screen">
+    <div class="topbar">
+      <button class="icon-btn" id="quizBack" aria-label="Runde abbrechen">✕</button>
+      <div class="dimline"><span class="dl-tick"></span><div class="dl-fill" id="quizProgress"></div><span class="dl-tick"></span></div>
+      <div class="counter mono" id="quizCounter"></div>
+    </div>
+    <div class="qhead">
+      <span class="tag" id="quizTopic"></span>
+      <span class="mono score" id="quizScore">0</span>
+    </div>
+    <div class="panel question-card">
+      <img id="quizImg" class="qimg" alt="" hidden>
+      <h2 id="quizQuestion"></h2>
+      <div class="options" id="quizOptions"></div>
+      <div class="explain" id="quizExplain" hidden></div>
+    </div>
+    <button class="btn primary block" id="quizNext" hidden>Weiter</button>
+  </section>
+
+  <!-- ============ LERNKARTEN ============ -->
+  <section id="flash" class="screen">
+    <div class="topbar">
+      <button class="icon-btn" id="flashClose" aria-label="Runde abbrechen">✕</button>
+      <div class="dimline"><span class="dl-tick"></span><div class="dl-fill" id="flashProgress"></div><span class="dl-tick"></span></div>
+      <div class="counter mono" id="flashCounter"></div>
+    </div>
+    <div class="qhead"><span class="tag" id="flashTopic"></span></div>
+    <div class="flashcard" id="flashcard">
+      <div class="flash-inner" id="flashInner">
+        <div class="flash-face flash-front">
+          <span class="face-label">Frage</span>
+          <img class="qimg" id="flashImgF" alt="" hidden>
+          <p id="flashFront"></p>
+          <span class="flip-hint">Tippen zum Umdrehen</span>
+        </div>
+        <div class="flash-face flash-back">
+          <span class="face-label">Antwort</span>
+          <img class="qimg" id="flashImgB" alt="" hidden>
+          <p id="flashBack"></p>
+        </div>
+      </div>
+    </div>
+    <div class="assess" id="flashAssess" hidden>
+      <button class="btn assess-no" id="flashNo">Nicht gewusst</button>
+      <button class="btn assess-yes" id="flashYes">Gewusst</button>
+    </div>
+    <button class="btn secondary block" id="flashFlip">Umdrehen</button>
+  </section>
+
+  <!-- ============ ERGEBNIS ============ -->
+  <section id="result" class="screen">
+    <div class="topbar solo"><button class="icon-btn" id="resultClose" aria-label="Zurück">✕</button></div>
+    <div class="result-hero">
+      <div class="big-score mono" id="resultPct"></div>
+      <div class="result-line" id="resultLine"></div>
+    </div>
+
+    <div class="panel" id="submitBlock" hidden>
+      <label class="block-label">In die Bestenliste eintragen</label>
+      <div class="submit-row">
+        <input type="text" id="nameInput" maxlength="24" placeholder="Dein Name" autocomplete="name">
+        <button class="btn primary" id="submitScore">Eintragen</button>
+      </div>
+      <p class="hint left" id="submitMsg"></p>
+    </div>
+
+    <div class="panel" id="resultBreakdown"></div>
+    <div class="panel" id="resultWrong"></div>
+
+    <div class="result-actions">
+      <button class="btn primary block" id="resultRepeatWrong" hidden>Nur falsche wiederholen</button>
+      <button class="btn secondary block" id="resultRestart">Nochmal</button>
+      <button class="btn ghost block" id="resultBoard">🏆 Bestenliste</button>
+      <button class="btn ghost block subtle" id="resultHome">Zurück zum Start</button>
+    </div>
+  </section>
+
+  <!-- ============ BESTENLISTE ============ -->
+  <section id="board" class="screen">
+    <div class="topbar solo">
+      <button class="icon-btn" id="boardClose" aria-label="Zurück">✕</button>
+      <h2 class="topbar-title">Bestenliste</h2>
+      <button class="icon-btn" id="boardReload" aria-label="Neu laden">↺</button>
+    </div>
+    <p class="board-note mono" id="boardNote"></p>
+    <div id="boardList"></div>
+  </section>
+
+</div>
+
+<script src="js/config.js"></script>
+<script src="js/data.js"></script>
+<script src="js/media.js"></script>
+<script src="js/leaderboard.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

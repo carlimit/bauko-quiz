@@ -1,0 +1,180 @@
+/* ============================================================
+   BauKo II · Lernquiz  —  „Konstruktionsplan"
+   clean & modern, technisch geerdet
+   ============================================================ */
+:root{
+  --paper:#f4f6f9; --surface:#ffffff; --ink:#0f1b2d; --ink-soft:#5a6b82;
+  --line:#e4e8ef; --grid:rgba(47,90,224,.10);
+  --blue:#2f5ae0; --blue-ink:#1e3fa8; --amber:#d98a1f;
+  --good:#17915a; --good-bg:#e7f5ee; --bad:#d8453d; --bad-bg:#fbeceb;
+  --shadow:0 1px 2px rgba(15,27,45,.05), 0 6px 22px rgba(15,27,45,.05);
+  --font-display:"Space Grotesk",system-ui,sans-serif;
+  --font-body:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --font-mono:"Space Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --paper:#0e1622; --surface:#16202f; --ink:#eaf0fa; --ink-soft:#93a2bb;
+    --line:#263447; --grid:rgba(91,134,245,.12);
+    --blue:#5b86f5; --blue-ink:#9db8ff; --amber:#efb457;
+    --good:#31c07e; --good-bg:#10331f; --bad:#ff6f66; --bad-bg:#361718;
+    --shadow:0 1px 2px rgba(0,0,0,.3), 0 6px 22px rgba(0,0,0,.28);
+  }
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{
+  background:var(--paper); color:var(--ink); font-family:var(--font-body);
+  font-size:17px; line-height:1.5; -webkit-font-smoothing:antialiased;
+  padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+#app{max-width:680px; margin:0 auto; padding:16px 16px 48px}
+.mono{font-family:var(--font-mono)}
+
+/* Screens */
+.screen{display:none; animation:rise .28s ease}
+.screen.active{display:block}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* ---------- Hero + Blueprint-Raster (Signatur) ---------- */
+.hero{position:relative; overflow:hidden; text-align:center; padding:36px 16px 24px; margin:-16px -16px 4px}
+.hero-grid{position:absolute; inset:-2px; background-image:
+  linear-gradient(var(--grid) 1px,transparent 1px),
+  linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:26px 26px;
+  -webkit-mask-image:radial-gradient(120% 90% at 50% -10%,#000 35%,transparent 75%);
+  mask-image:radial-gradient(120% 90% at 50% -10%,#000 35%,transparent 75%);}
+.eyebrow{position:relative; font-family:var(--font-mono); font-size:.7rem; letter-spacing:.16em; text-transform:uppercase; color:var(--blue)}
+.hero h1{position:relative; font-family:var(--font-display); font-weight:700; font-size:2.7rem; letter-spacing:-.03em; margin:.08em 0 .04em}
+.hero h1 .accent{color:var(--blue)}
+.hero .sub{position:relative; color:var(--ink-soft); margin:0; font-size:1.02rem}
+
+/* ---------- Stat-Strip ---------- */
+.stat-strip{display:flex; gap:10px; margin:10px 0 4px}
+.stat{flex:1; background:var(--surface); border:1px solid var(--line); border-radius:14px; padding:12px 14px; box-shadow:var(--shadow)}
+.stat b{display:block; font-family:var(--font-mono); font-size:1.35rem; font-weight:700}
+.stat span{font-size:.73rem; color:var(--ink-soft)}
+
+/* ---------- Panel / Felder ---------- */
+.panel{background:var(--surface); border:1px solid var(--line); border-radius:18px; padding:18px; margin:14px 0; box-shadow:var(--shadow)}
+.field{margin-bottom:18px}
+.field:last-child{margin-bottom:0}
+.field>label,.block-label{display:block; font-family:var(--font-mono); font-size:.7rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-soft); margin-bottom:9px}
+
+/* ---------- Segmented control ---------- */
+.segmented{display:flex; gap:4px; background:var(--paper); border:1px solid var(--line); border-radius:13px; padding:4px}
+.seg{flex:1; border:none; background:transparent; color:var(--ink-soft); font-family:var(--font-body); font-weight:600; font-size:.95rem; padding:11px 8px; border-radius:9px; cursor:pointer; transition:.15s}
+.seg.active{background:var(--blue); color:#fff}
+
+/* ---------- Chips ---------- */
+.chips{display:flex; flex-wrap:wrap; gap:8px}
+.chip{border:1px solid var(--line); background:var(--surface); color:var(--ink); border-radius:11px; padding:9px 13px; font-family:var(--font-body); font-size:.9rem; font-weight:500; cursor:pointer; transition:.13s}
+.chip .c-n{font-family:var(--font-mono); font-size:.78em; color:var(--ink-soft); margin-left:5px}
+.chip.on{border-color:var(--blue); background:color-mix(in srgb,var(--blue) 10%,var(--surface)); color:var(--blue-ink)}
+.chip.on .c-n{color:var(--blue-ink)}
+
+/* ---------- Buttons ---------- */
+.btn{font-family:var(--font-body); font-weight:600; font-size:1rem; border:1px solid transparent; border-radius:13px; padding:13px 16px; cursor:pointer; transition:.13s}
+.btn.block{display:block; width:100%; margin-top:12px}
+.btn.primary{background:var(--blue); color:#fff}
+.btn.primary:hover{background:var(--blue-ink)}
+.btn.primary:disabled{opacity:.45; cursor:default}
+.btn.secondary{background:var(--surface); color:var(--ink); border-color:var(--line)}
+.btn.secondary:hover{border-color:var(--blue)}
+.btn.ghost{background:transparent; color:var(--ink-soft)}
+.btn.ghost:hover{color:var(--ink)}
+.btn.ghost.subtle{font-weight:500; font-size:.85rem}
+.hint{text-align:center; color:var(--ink-soft); font-size:.85rem; min-height:1.2em; margin:8px 0 0}
+.hint.left{text-align:left}
+.home-foot{display:flex; flex-direction:column; align-items:center; gap:2px; margin-top:16px}
+
+/* ---------- Topbar + Bemaßungs-Fortschritt (Signatur) ---------- */
+.topbar{display:flex; align-items:center; gap:14px; padding:4px 0; margin-bottom:8px}
+.topbar.solo{justify-content:space-between}
+.topbar-title{font-family:var(--font-display); font-size:1.15rem; margin:0}
+.icon-btn{flex:none; width:42px; height:42px; border-radius:12px; border:1px solid var(--line); background:var(--surface); color:var(--ink); font-size:1.1rem; cursor:pointer}
+.icon-btn:hover{border-color:var(--blue)}
+.counter{color:var(--ink-soft); font-size:.9rem; min-width:58px; text-align:right}
+.dimline{flex:1; height:14px; position:relative; display:flex; align-items:center}
+.dimline::before{content:""; position:absolute; left:0; right:0; top:50%; height:2px; background:var(--line); transform:translateY(-50%)}
+.dl-tick{width:2px; height:12px; background:var(--ink-soft); position:relative; z-index:1}
+.dl-tick:last-child{margin-left:auto}
+.dl-fill{position:absolute; left:0; top:50%; height:2px; width:0; background:var(--blue); transform:translateY(-50%); transition:width .35s ease}
+.dl-fill::after{content:""; position:absolute; right:0; top:-5px; width:2px; height:12px; background:var(--blue)}
+
+.qhead{display:flex; justify-content:space-between; align-items:center; margin:2px 2px 12px}
+.tag{font-family:var(--font-mono); font-size:.68rem; letter-spacing:.04em; text-transform:uppercase; color:var(--blue-ink);
+  background:color-mix(in srgb,var(--blue) 9%,var(--surface)); border:1px solid color-mix(in srgb,var(--blue) 22%,transparent); padding:5px 10px; border-radius:8px}
+.score{font-family:var(--font-mono); font-size:1.15rem; font-weight:700; color:var(--blue)}
+
+/* ---------- Frage / Optionen ---------- */
+.question-card h2{font-family:var(--font-display); font-weight:600; font-size:1.3rem; line-height:1.32; margin:2px 0 18px}
+.qimg{display:block; width:100%; max-height:300px; object-fit:contain; background:#fff; border:1px solid var(--line); border-radius:12px; margin-bottom:14px}
+.options{display:flex; flex-direction:column; gap:10px}
+.opt{display:flex; align-items:center; gap:12px; text-align:left; width:100%; background:var(--surface); color:var(--ink);
+  border:1.5px solid var(--line); border-radius:13px; padding:14px 15px; font-family:var(--font-body); font-size:1.02rem; cursor:pointer; transition:.12s}
+.opt .key{flex:none; width:27px; height:27px; border-radius:8px; border:1px solid var(--line); display:grid; place-items:center; font-family:var(--font-mono); font-size:.82rem; color:var(--ink-soft)}
+.opt:not([disabled]):hover{border-color:var(--blue)}
+.opt:active{transform:scale(.995)}
+.opt.correct{border-color:var(--good); background:var(--good-bg)}
+.opt.correct .key{background:var(--good); color:#fff; border-color:var(--good)}
+.opt.wrong{border-color:var(--bad); background:var(--bad-bg)}
+.opt.wrong .key{background:var(--bad); color:#fff; border-color:var(--bad)}
+.opt.dim{opacity:.5}
+.explain{margin-top:15px; padding:14px; border-radius:12px; font-size:.95rem; background:var(--good-bg); border:1px solid color-mix(in srgb,var(--good) 35%,transparent)}
+.explain.err{background:var(--bad-bg); border-color:color-mix(in srgb,var(--bad) 35%,transparent)}
+.explain b{display:block; margin-bottom:4px}
+
+/* ---------- Lernkarten ---------- */
+.flashcard{perspective:1600px; margin:4px 0; cursor:pointer}
+.flash-inner{position:relative; width:100%; min-height:360px; transition:transform .55s cubic-bezier(.4,.2,.2,1); transform-style:preserve-3d}
+.flash-inner.flipped{transform:rotateY(180deg)}
+.flash-face{position:absolute; inset:0; backface-visibility:hidden; -webkit-backface-visibility:hidden; display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center;
+  background:var(--surface); border:1px solid var(--line); border-radius:18px; box-shadow:var(--shadow); padding:26px}
+.flash-front{font-family:var(--font-display); font-weight:600; font-size:1.35rem}
+.flash-back{transform:rotateY(180deg); font-size:1.08rem; line-height:1.55}
+.flash-face p{margin:8px 0}
+.face-label{position:absolute; top:14px; left:16px; font-family:var(--font-mono); font-size:.66rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-soft)}
+.flip-hint{position:absolute; bottom:16px; color:var(--ink-soft); font-size:.78rem; font-family:var(--font-body); font-weight:400}
+.assess{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:12px}
+.assess-no,.assess-yes{padding:15px; font-weight:600; border-radius:13px; border:1.5px solid; cursor:pointer}
+.assess-no{color:var(--bad); border-color:var(--bad); background:var(--bad-bg)}
+.assess-yes{color:var(--good); border-color:var(--good); background:var(--good-bg)}
+
+/* ---------- Ergebnis ---------- */
+.result-hero{text-align:center; padding:22px 0 4px}
+.big-score{font-size:3.6rem; font-weight:700; color:var(--blue); line-height:1}
+.result-line{color:var(--ink-soft); margin-top:6px}
+.submit-row{display:flex; gap:8px}
+#nameInput{flex:1; min-width:0; padding:12px 14px; border:1.5px solid var(--line); border-radius:12px; background:var(--paper); color:var(--ink); font-family:var(--font-body); font-size:1rem}
+#nameInput:focus{outline:none; border-color:var(--blue)}
+.bd-row{display:flex; align-items:center; gap:10px; margin:9px 0}
+.bd-row .lbl{flex:1; font-size:.92rem}
+.bd-row .bar{flex:none; width:84px; height:7px; background:var(--line); border-radius:99px; overflow:hidden}
+.bd-row .bar i{display:block; height:100%; background:var(--blue)}
+.bd-row .num{flex:none; width:56px; text-align:right; font-family:var(--font-mono); font-size:.82rem; color:var(--ink-soft)}
+.panel h2{font-family:var(--font-display); font-size:1.05rem; margin:0 0 8px}
+.wrong-item{padding:11px 0; border-bottom:1px solid var(--line)}
+.wrong-item:last-child{border-bottom:none}
+.wrong-item .q{font-weight:600; margin-bottom:4px}
+.wrong-item .a{font-size:.9rem}
+.wrong-item .a.you{color:var(--bad)}
+.wrong-item .a.sol{color:var(--good)}
+.result-actions{margin-top:6px}
+.ok-badge{color:var(--good); font-weight:700}
+
+/* ---------- Bestenliste ---------- */
+.board-note{color:var(--ink-soft); font-size:.8rem; text-align:center; margin:2px 0 14px}
+.board-row{display:flex; align-items:center; gap:12px; background:var(--surface); border:1px solid var(--line); border-radius:13px; padding:13px 15px; margin-bottom:9px}
+.board-row .rank{flex:none; width:34px; font-family:var(--font-mono); font-weight:700; font-size:1.05rem; color:var(--ink-soft)}
+.board-row .bname{flex:1; font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.board-row .bscore{font-family:var(--font-mono); font-weight:700}
+.board-row .bpct{font-family:var(--font-mono); font-size:.82rem; color:var(--ink-soft); margin-left:8px}
+.board-row.top1{border-color:var(--amber)}
+.board-row.top1 .rank,.board-row.top2 .rank,.board-row.top3 .rank{color:var(--amber)}
+.board-row.me{border-color:var(--blue); background:color-mix(in srgb,var(--blue) 8%,var(--surface))}
+.board-empty{text-align:center; color:var(--ink-soft); padding:30px 10px}
+
+/* Fokus-Sichtbarkeit */
+:focus-visible{outline:2px solid var(--blue); outline-offset:2px}
