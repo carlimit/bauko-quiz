@@ -1,14 +1,15 @@
 # BauKo II · Lernquiz
 
-Ein Quiz + Lernkarten-Web-App zur **Baukonstruktion II** (DHBW Mosbach, Prof. Dr.-Ing. Reiner Hofmann), erzeugt aus den Vorlesungs- und Übungsskripten.
+Ein Quiz + Lernkarten-Web-App zur **Baukonstruktion II** (DHBW Mosbach, Prof. Dr.-Ing. Reiner Hofmann), erzeugt **direkt aus der Zusammenfassung** (BauKo2, Schneider + Fassaden).
 
-- **233 Quizfragen** (Single-Choice, mit Sofort-Feedback & Erklärung)
-- **274 Lernkarten** (umdrehen, selbst „Gewusst / Nicht gewusst" bewerten)
-- Themen: Einwirkungen (Grundlagen · Schnee/Wind/Lastkombination), Holzbau & Brettsperrholz (CLT), Flachdach, Fenster & Fassaden, Verbundträger & Tragwerk
-- Bilder: reale Fotos (Blockbau, Skelettbau, Fachwerk, Glasfassade) + selbst erstellte Diagramme (CLT-Aufbau, Lastarten, Pfosten-Riegel, Verbundträger, Warm-/Kaltdach)
-- Läuft auf **Handy, iPad und PC**, hell/dunkel automatisch, komplett **offline**, Fortschritt wird lokal im Browser gespeichert
+- **196 Quizfragen** (Single-Choice, mit Sofort-Feedback & Erklärung)
+- **140 Lernkarten** (nur antippen zum Umdrehen, dann selbst mit ✓ / ✕ bewerten)
+- Themen: Holzbausysteme, Deckenkonstruktionen, Dachkonstruktionen, Einwirkungen & Bemessung, Flachdach, Treppen, Fenster & Fassaden
+- Bilder: echte Diagramme **direkt aus der Zusammenfassung** (Dachformen, Sparren-/Pfettendach, Balkenanordnung, Stahlbeton-Decken, Kaltdach, Verbindungsmittel, Pfosten-Riegel-Systeme …)
+- Globale **Bestenliste** mit Namenseingabe (Supabase)
+- Läuft auf **Handy, iPad und PC**, hell/dunkel automatisch, Fortschritt wird lokal im Browser gespeichert
 
-> **Hinweis zum Lernen:** Die Fragen sind bewusst **konzeptorientiert** – konkrete Zahlen/Normwerte muss man nicht auswendig können. Inhalte wurden automatisch aus den Skripten erzeugt; bei Zweifeln im Skript gegenprüfen.
+> **Hinweis zum Lernen:** Die Fragen sind bewusst **konzeptorientiert** – konkrete Zahlen/Normwerte muss man nicht auswendig können. Inhalte wurden aus der Zusammenfassung erzeugt; bei Zweifeln dort gegenprüfen.
 
 ## Sofort benutzen (lokal)
 

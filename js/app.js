@@ -278,16 +278,15 @@
     $("flashBack").textContent = card.back;
     setImg($("flashImgF"), card.image, card.topic);
     setImg($("flashImgB"), card.image, card.topic);
-    $("flashAssess").hidden = true; $("flashFlip").hidden = false;
+    $("flashAssess").hidden = true;
   }
   function flipCard() {
     const s = state.session; if (!s || s.queue.length === 0) return;
     s.flipped = !s.flipped;
     $("flashInner").classList.toggle("flipped", s.flipped);
-    $("flashAssess").hidden = !s.flipped; $("flashFlip").hidden = s.flipped;
+    $("flashAssess").hidden = !s.flipped;
   }
   $("flashcard").addEventListener("click", flipCard);
-  $("flashFlip").addEventListener("click", flipCard);
 
   function assess(known) {
     const s = state.session, card = s.queue.shift();

@@ -30,6 +30,8 @@ body{
 }
 #app{max-width:680px; margin:0 auto; padding:16px 16px 48px}
 .mono{font-family:var(--font-mono)}
+/* hidden-Attribut muss Klassen-display-Regeln immer schlagen */
+[hidden]{display:none!important}
 
 /* Screens */
 .screen{display:none; animation:rise .28s ease}
@@ -138,7 +140,9 @@ body{
 .face-label{position:absolute; top:14px; left:16px; font-family:var(--font-mono); font-size:.66rem; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-soft)}
 .flip-hint{position:absolute; bottom:16px; color:var(--ink-soft); font-size:.78rem; font-family:var(--font-body); font-weight:400}
 .assess{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-top:12px}
-.assess-no,.assess-yes{padding:15px; font-weight:600; border-radius:13px; border:1.5px solid; cursor:pointer}
+.assess-no,.assess-yes{display:flex; flex-direction:column; align-items:center; gap:3px; padding:14px; border-radius:14px; border:1.5px solid; cursor:pointer; font-family:var(--font-body)}
+.assess .ax{font-size:1.9rem; line-height:1; font-weight:700}
+.assess small{font-size:.78rem; font-weight:600}
 .assess-no{color:var(--bad); border-color:var(--bad); background:var(--bad-bg)}
 .assess-yes{color:var(--good); border-color:var(--good); background:var(--good-bg)}
 
