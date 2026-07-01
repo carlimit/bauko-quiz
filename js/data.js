@@ -13,3110 +13,2873 @@ window.BAUKO_DATA = {
   {
    "id": 1,
    "topic": "Holzbausysteme",
-   "q": "Wodurch unterscheiden sich Wandbauweisen grundsätzlich von Skelettbauweisen?",
+   "q": "Welche Bauweise zählt NICHT zu den Wandbauweisen?",
    "options": [
-    "Wandbauweisen bestehen aus ebenen, flächigen Bauteilen, Skelettbauweisen aus stabförmigen Einzelbauteilen",
-    "Wandbauweisen benötigen immer Stahlteile, Skelettbauweisen nie",
-    "Wandbauweisen können keine vertikalen Lasten abtragen, Skelettbauweisen schon",
-    "Wandbauweisen sind stabförmig, Skelettbauweisen flächig"
+    "Blockbau",
+    "Fachwerkbau",
+    "Holzskelettbauweise",
+    "Holztafelbauweise"
    ],
-   "answer": 0,
-   "explanation": "Wandbauweisen sind ebene, flächige Bauteile, während Skelettbauweisen aus stabförmigen Einzelbauteilen bestehen."
+   "answer": 2,
+   "explanation": "Die Holzskelettbauweise ist eine Skelettbauweise, keine Wandbauweise."
   },
   {
    "id": 2,
    "topic": "Holzbausysteme",
-   "q": "Wie verhält sich eine Wandbauweise beim Abtrag von Lasten in Dickenrichtung?",
+   "q": "Welche beiden Bauweisen zählen zu den Massivholzbauweisen?",
    "options": [
-    "Diese Lasten werden am besten abgetragen",
-    "Diese Lasten können nur eingeschränkt abgetragen werden",
-    "Diese Lasten werden wie vertikale Lasten gut abgetragen",
-    "Diese Lasten sind nur bei Scheibenwirkung abtragbar"
+    "Brettstapel und Brettsperrholz",
+    "Blockbau und Fachwerkbau",
+    "Balloon und Platform Frame",
+    "Holzrahmen und Holztafel"
    ],
-   "answer": 1,
-   "explanation": "Lasten in Dickenrichtung können bei Wandbauweisen nur eingeschränkt abgetragen werden."
+   "answer": 0,
+   "explanation": "Zu den Massivholzbauweisen zählen Brettstapel und Brettsperrholz."
   },
   {
    "id": 3,
    "topic": "Holzbausysteme",
-   "q": "Unter welcher Bedingung werden horizontale Lasten bei einer Wandbauweise gut abgetragen?",
+   "q": "Wie werden Lasten in Dickenrichtung bei einer Wandbauweise abgetragen?",
    "options": [
-    "Nur bei sehr großer Wanddicke",
-    "Nur wenn Stützen und Pfosten vorhanden sind",
-    "Bei vorhandener Scheibenwirkung",
-    "Nur entlang der Stabachse"
+    "Sehr gut",
+    "Nur eingeschränkt",
+    "Gar nicht",
+    "Nur bei Scheibenwirkung"
    ],
-   "answer": 2,
-   "explanation": "Horizontale Lasten werden bei Wandbauweisen bei vorhandener Scheibenwirkung gut abgetragen."
+   "answer": 1,
+   "explanation": "Bei Wandbauweisen können Lasten in Dickenrichtung nur eingeschränkt abgetragen werden."
   },
   {
    "id": 4,
    "topic": "Holzbausysteme",
-   "q": "Welche Bauweisen gehören laut Zusammenfassung zu den Wandbauweisen?",
+   "q": "Wodurch werden horizontale Lasten bei einer Wand gut abgetragen?",
    "options": [
-    "Nur die Holzskelettbauweise",
-    "Träger-auf-Stütze, Riegel- und Zangenkonstruktion",
-    "Ausschließlich Brettstapel und Brettsperrholz",
-    "Blockbau, Fachwerkbau, Holzrahmenbau, Holztafelbau, Massivholzbauweisen"
+    "Durch die Dickenrichtung",
+    "Bei vorhandener Scheibenwirkung",
+    "Durch Pfetten",
+    "Durch Aufschieblinge"
    ],
-   "answer": 3,
-   "explanation": "Zu den Wandbauweisen zählen Blockbau, Fachwerkbau, Holzrahmenbau, Holztafelbauweise und die Massivholzbauweisen."
+   "answer": 1,
+   "explanation": "Horizontale Lasten werden bei vorhandener Scheibenwirkung gut abgetragen."
   },
   {
    "id": 5,
    "topic": "Holzbausysteme",
-   "q": "Wie werden bei Skelettbauweisen vertikale bzw. horizontale Lasten getragen?",
+   "q": "Was kennzeichnet die Skelettbauweise?",
    "options": [
-    "Vertikal durch Stützen/Pfosten, horizontal durch Balken/Träger",
-    "Vertikal durch Balken, horizontal durch Stützen",
-    "Beides ausschließlich durch flächige Scheiben",
-    "Vertikal durch Diagonalen, horizontal durch Schwellen"
+    "Ebene, flächige Bauteile",
+    "Stabförmige Einzelbauteile",
+    "Liegende Kanthölzer",
+    "Kreuzweise verklebte Brettlagen"
    ],
-   "answer": 0,
-   "explanation": "Bei Skelettbauweisen tragen Stützen und Pfosten die vertikalen und Balken bzw. Träger die horizontalen Lasten."
+   "answer": 1,
+   "explanation": "Die Skelettbauweise besteht aus stabförmigen Einzelbauteilen."
   },
   {
    "id": 6,
    "topic": "Holzbausysteme",
-   "q": "Warum sind bei Skelettbauweisen zusätzliche Bauteile notwendig?",
+   "q": "Welche Bauteile dienen bei der Skelettbauweise als vertikale Tragglieder?",
    "options": [
-    "Zum Abtrag der vertikalen Lasten, den die Stützen nicht schaffen",
-    "Für die Aussteifung sowie für Raumabschluss und Gebäudehülle",
-    "Weil die Stäbe keine Lasten entlang der Stabachse tragen können",
-    "Ausschließlich zur Fugenabdichtung"
+    "Balken und Träger",
+    "Stützen und Pfosten",
+    "Streben und Diagonalen",
+    "Schwelle und Rähm"
    ],
    "answer": 1,
-   "explanation": "Bei Skelettbauweisen sind weitere Bauteile zur Aussteifung nötig, und Raumabschluss sowie Gebäudehülle erfolgen durch nachgeordnete Bauteile."
+   "explanation": "Vertikale Tragglieder der Skelettbauweise sind Stützen und Pfosten."
   },
   {
    "id": 7,
    "topic": "Holzbausysteme",
-   "q": "Wie wird eine Blockbauwand grundsätzlich hergestellt?",
+   "q": "Wofür steht die Abkürzung GL bei Brettschichtholz?",
    "options": [
-    "Durch senkrecht stehende Ständer mit Beplankung",
-    "Durch kreuzweise verklebte Brettlagen",
-    "Durch Schichten liegender Rund- oder Kanthölzer zu einem Wandelement",
-    "Durch Stützen mit aufgelegten Trägern"
+    "Glasschichtholz",
+    "GlueLam (Leimholz)",
+    "Glattlamelle",
+    "Gebälklage"
    ],
-   "answer": 2,
-   "explanation": "Beim Blockbau werden liegende Rund- oder Kanthölzer (Blockbohlen) zu einem Wandelement geschichtet."
+   "answer": 1,
+   "explanation": "GL steht für GlueLam (Leimholz)."
   },
   {
    "id": 8,
    "topic": "Holzbausysteme",
-   "q": "Wodurch wird die Blockbauwand schubfest?",
+   "q": "Wodurch werden die Ecken bei der Blockbauweise schubfest ausgeführt?",
    "options": [
-    "Durch kreuzweise Verklebung der Bohlen",
-    "Durch eine Beplankung aus Plattenmaterial",
-    "Durch eingelassene Stahlwinkel in der Wandmitte",
-    "Durch Verblattung bzw. Verzapfung an den Ecken"
+    "Durch Beplankung",
+    "Durch Verblattung / Verzapfung",
+    "Durch Stahlwinkel",
+    "Durch kreuzweise Verklebung"
    ],
-   "answer": 3,
-   "explanation": "Die Schubfestigkeit der Blockbauwand entsteht durch Verblattung oder Verzapfung an den Ecken."
+   "answer": 1,
+   "explanation": "Bei der Blockbauweise werden die Ecken durch Verblattung / Verzapfung schubfest gemacht."
   },
   {
    "id": 9,
    "topic": "Holzbausysteme",
-   "q": "Welcher Nachteil ist typisch für die Blockbauweise?",
+   "q": "Was ist KEIN Nachteil der Blockbauweise?",
    "options": [
-    "Starrer Grundriss mit wenig Möglichkeiten der Raumaufteilung",
-    "Sehr geringer Materialverbrauch",
-    "Keine Notwendigkeit einer Fugenabdichtung",
-    "Freie, flexible Grundrissgestaltung"
+    "Hoher Materialverbrauch",
+    "Schwinden und Quellen",
+    "Starrer Grundriss",
+    "Notwendigkeit von Stahlteilen"
    ],
-   "answer": 0,
-   "explanation": "Ein Nachteil der Blockbauweise ist der starre Grundriss mit wenig Möglichkeiten der Raumaufteilung."
+   "answer": 3,
+   "explanation": "Nachteile sind hoher Materialverbrauch, Schwinden/Quellen, Fugenabdichtung und starrer Grundriss; Stahlteile gehören nicht dazu."
   },
   {
    "id": 10,
    "topic": "Holzbausysteme",
-   "q": "Wie begegnet man beim Blockbau dem Schwinden und Quellen des Holzes?",
+   "q": "Womit wird das Gefach bei der Fachwerkbauweise gefüllt?",
    "options": [
-    "Durch kreuzweise Verklebung",
-    "Durch Verwendung gleitender Verbindungen",
-    "Durch Beplankung aus Plattenmaterial",
-    "Durch geschossweise Aussteifung"
+    "Beton",
+    "Holzgeflecht / Lehm",
+    "Plattenmaterial",
+    "Brettstapel"
    ],
    "answer": 1,
-   "explanation": "Um Schwinden und Quellen auszugleichen, werden beim Blockbau gleitende Verbindungen genutzt."
+   "explanation": "Das Gefach wird mit Holzgeflecht / Lehm gefüllt, wodurch eine Wandscheibe entsteht."
   },
   {
    "id": 11,
    "topic": "Holzbausysteme",
-   "q": "Wie entsteht bei der Fachwerkbauweise eine Wandscheibe im Gefach?",
+   "q": "Welche Grundelemente bilden bei der Fachwerkbauweise den unteren bzw. oberen Abschluss eines Wandfeldes?",
    "options": [
-    "Durch kreuzweise verklebtes Brettsperrholz",
-    "Durch aufgeschichtete Blockbohlen",
-    "Durch Füllung des Gefachs mit Holzgeflecht bzw. Lehm",
-    "Durch großformatige Stahlplatten"
+    "Ständer und Stiele",
+    "Schwelle und Rähm",
+    "Streben und Diagonalen",
+    "Sparren und Pfette"
    ],
-   "answer": 2,
-   "explanation": "Im Fachwerkbau wird das Gefach mit Holzgeflecht oder Lehm gefüllt, wodurch eine Wandscheibe entsteht."
+   "answer": 1,
+   "explanation": "Die Schwelle bildet den unteren, das Rähm den oberen Abschluss eines Wandfeldes."
   },
   {
    "id": 12,
    "topic": "Holzbausysteme",
-   "q": "Welche Grundelemente übernehmen bei der Fachwerkbauweise die Aussteifung und die Ableitung der Windkräfte?",
+   "q": "Welches Bauteil dient im Fachwerk als Verlängerung des Sparrens für einen größeren Dachüberstand?",
    "options": [
-    "Deckenbalken",
-    "Schwelle und Rähm",
-    "Steinsockel",
-    "Streben bzw. Diagonalen"
+    "Aufschiebling",
+    "Pfette",
+    "Gebälk",
+    "Fensterriegel"
    ],
-   "answer": 3,
-   "explanation": "Streben (Diagonalen) dienen im Fachwerkbau der Aussteifung und leiten Windkräfte in die Schwellen ab."
+   "answer": 0,
+   "explanation": "Der Aufschiebling ist die Verlängerung des Sparrens für einen größeren Dachüberstand."
   },
   {
    "id": 13,
    "topic": "Holzbausysteme",
-   "q": "Welche Funktion haben Schwelle und Rähm im Fachwerkbau?",
+   "q": "Welches Bauteil trägt die Dachkonstruktion und sorgt für Lastverteilung?",
    "options": [
-    "Sie bilden den unteren bzw. oberen Abschluss eines Wandfeldes",
-    "Sie sind die vertikalen Tragglieder der Wand",
-    "Sie füllen das Gefach aus",
-    "Sie tragen ausschließlich die Dachdeckung"
+    "Sparren",
+    "Aufschiebling",
+    "Pfette",
+    "Steinsockel"
    ],
-   "answer": 0,
-   "explanation": "Die Schwelle bildet den unteren, das Rähm den oberen Abschluss eines Wandfeldes."
+   "answer": 2,
+   "explanation": "Die Pfette trägt die Dachkonstruktion und sorgt für Lastverteilung."
   },
   {
    "id": 14,
    "topic": "Holzbausysteme",
-   "q": "Welche Aufgabe hat der Aufschiebling in der Fachwerkkonstruktion?",
+   "q": "Was ist die Aufgabe der Strebe (Diagonale) im Fachwerk?",
    "options": [
-    "Ableitung der Lasten ins Fundament",
-    "Verlängerung des Sparrens für einen größeren Dachüberstand",
-    "Begrenzung der Fensteröffnung",
-    "Trägt die Deckenbalken als oberer Abschluss"
+    "Auflage für Ausfachungen",
+    "Aussteifung und Ableitung von Windkräften",
+    "Schutz vor Feuchtigkeit",
+    "Tragen der Decke"
    ],
    "answer": 1,
-   "explanation": "Der Aufschiebling verlängert den Sparren und ermöglicht so einen größeren Dachüberstand."
+   "explanation": "Die Strebe/Diagonale dient der Aussteifung und Ableitung von Windkräften in die Schwellen."
   },
   {
    "id": 15,
    "topic": "Holzbausysteme",
-   "q": "Wie werden Lasten bei der Holzrahmenbauweise abgetragen?",
+   "q": "Welches Fachwerk-Bauteil dient als Fundament und Schutz vor Feuchtigkeit?",
    "options": [
-    "Vertikal über Blockbohlen, horizontal über Verzapfung",
-    "Ausschließlich über flächige Massivholzträger",
-    "Vertikal über eng stehende Ständer, horizontal über Scheibenwirkung der Beplankung",
-    "Vertikal über Diagonalen, horizontal über Pfetten"
+    "Gebälk",
+    "Riegel",
+    "Steinsockel",
+    "Pfosten"
    ],
    "answer": 2,
-   "explanation": "Bei der Holzrahmenbauweise tragen eng stehende Ständer die Vertikallasten, während die Beplankung durch Scheibenwirkung die Aussteifung übernimmt."
+   "explanation": "Der Steinsockel bildet das Fundament und schützt vor Feuchtigkeit."
   },
   {
    "id": 16,
    "topic": "Holzbausysteme",
-   "q": "Worin unterscheiden sich Balloon Frame und Platform Frame?",
+   "q": "Was kennzeichnet das Balloon Frame gegenüber dem Platform Frame?",
    "options": [
-    "Der Balloon Frame wird geschossweise aufgebaut, der Platform Frame durchlaufend",
-    "Der Platform Frame verwendet keine Ständer",
-    "Der Balloon Frame nutzt kreuzweise verklebte Brettlagen",
-    "Beim Balloon Frame laufen die Ständer über zwei Geschosse, beim Platform Frame nur über ein Geschoss"
+    "Ständer über 2 Geschosse",
+    "Geschossweiser Aufbau",
+    "Ständer über 1 Geschoss",
+    "Ständer aus Brettsperrholz"
    ],
-   "answer": 3,
-   "explanation": "Beim Balloon Frame reichen die Ständer über zwei Geschosse mit eingelassenen Querriegeln, beim Platform Frame nur über ein Geschoss (geschossweiser Aufbau)."
+   "answer": 0,
+   "explanation": "Beim Balloon Frame laufen die Ständer über 2 Geschosse, mit in die Ständer eingelassenen Querriegeln."
   },
   {
    "id": 17,
    "topic": "Holzbausysteme",
-   "q": "Wie ist die Holztafelbauweise einzuordnen?",
+   "q": "Was kennzeichnet das Platform Frame?",
    "options": [
-    "Als Weiterentwicklung der Holzrahmenbauweise mit vorgefertigten Elementen",
-    "Als Sonderform des Blockbaus",
-    "Als reine Skelettbauweise ohne Beplankung",
-    "Als Massivholzbauweise aus Brettsperrholz"
+    "Ständer über 2 Geschosse",
+    "Geschossweiser Aufbau, Ständer über 1 Geschoss",
+    "Querriegel in Ständer eingelassen",
+    "Liegende Blockbohlen"
    ],
-   "answer": 0,
-   "explanation": "Die Holztafelbauweise ist eine Weiterentwicklung der Holzrahmenbauweise mit vorgefertigten Wand- und Deckenelementen aus Ständern und Rähm mit Beplankung."
+   "answer": 1,
+   "explanation": "Beim Platform Frame erfolgt ein geschossweiser Aufbau mit Ständern über jeweils 1 Geschoss."
   },
   {
    "id": 18,
    "topic": "Holzbausysteme",
-   "q": "Wie erfolgt bei der Holztafelbauweise die Krafteinleitung und -übertragung?",
+   "q": "Als Weiterentwicklung welcher Bauweise gilt die Holztafelbauweise?",
    "options": [
-    "Krafteinleitung über die Fußrippe, Übertragung nach oben zur Kopfrippe",
-    "Krafteinleitung über die Kopfrippe (Biegemoment), Übertragung über Innenrippen zu den Fußrippen",
-    "Ausschließlich über Verzapfung an den Ecken",
-    "Über gleitende Verbindungen zwischen den Blockbohlen"
+    "Blockbauweise",
+    "Holzrahmenbauweise",
+    "Skelettbauweise",
+    "Massivholzbauweise"
    ],
    "answer": 1,
-   "explanation": "Die Kraft wird über die Kopfrippe (Biegemoment) eingeleitet und über die Innenrippen zu den Fußrippen übertragen."
+   "explanation": "Die Holztafelbauweise ist eine Weiterentwicklung der Holzrahmenbauweise."
   },
   {
    "id": 19,
    "topic": "Holzbausysteme",
-   "q": "Welches Prinzip kennzeichnet die Holzskelettbauweise?",
+   "q": "Was ist ein zentrales Merkmal der Holzskelettbauweise?",
    "options": [
-    "Das Schichten liegender Blockbohlen",
-    "Die Füllung von Gefachen mit Lehm",
-    "Die Trennung von Tragwerk, Hülle und Ausbaustruktur",
-    "Die vollflächige Verklebung von Brettlagen"
+    "Liegende Kanthölzer",
+    "Trennung von Tragwerk, Hülle und Ausbaustruktur",
+    "Kreuzweise verklebte Brettlagen",
+    "Gefach mit Lehmfüllung"
    ],
-   "answer": 2,
-   "explanation": "Die Holzskelettbauweise ist durch die Trennung von Tragwerk, Hülle und Ausbaustruktur gekennzeichnet."
+   "answer": 1,
+   "explanation": "Die Holzskelettbauweise trennt Tragwerk, Hülle und Ausbaustruktur."
   },
   {
    "id": 20,
    "topic": "Holzbausysteme",
-   "q": "Wie wird die Holzskelettbauweise ausgesteift?",
+   "q": "Welche Konstruktionsart der Holzskelettbauweise ist eine ungerichtete (mehrachsige/flächige) Tragstruktur?",
    "options": [
-    "Durch Verzapfung an den Ecken",
-    "Durch Füllung der Gefache mit Holzgeflecht",
-    "Durch Schwinden und Quellen des Holzes",
-    "Durch Dach- und Wandverbände, die Scheiben ausbilden"
+    "Träger auf Stütze",
+    "Riegelkonstruktion",
+    "Zangenkonstruktion",
+    "Blockkonstruktion"
    ],
-   "answer": 3,
-   "explanation": "Die Aussteifung der Holzskelettbauweise erfolgt durch Dach- und Wandverbände, die Scheiben ausbilden."
+   "answer": 1,
+   "explanation": "Die Riegelkonstruktion ist eine ungerichtete (mehrachsige/flächige) Tragstruktur."
   },
   {
    "id": 21,
    "topic": "Holzbausysteme",
-   "q": "Was zeichnet die Riegelkonstruktion als Tragstruktur der Holzskelettbauweise aus?",
+   "q": "Bei welcher Konstruktionsart der Holzskelettbauweise sind Auskragungen fast nicht möglich?",
    "options": [
-    "Sie ist ungerichtet (mehrachsig/flächig), Auskragungen sind fast nicht möglich",
-    "Sie ist gerichtet (einachsig) mit gut möglichen Auskragungen",
-    "Sie besteht aus geteilten Trägern und Stützen",
-    "Sie eignet sich nur für eingeschossige Bauwerke mit Träger auf Stütze"
+    "Träger auf Stütze",
+    "Zangenkonstruktion",
+    "Riegelkonstruktion",
+    "Massivholzkonstruktion"
    ],
-   "answer": 0,
-   "explanation": "Die Riegelkonstruktion ist eine ungerichtete (mehrachsige/flächige) Tragstruktur, bei der Auskragungen fast nicht möglich sind."
+   "answer": 2,
+   "explanation": "Bei der Riegelkonstruktion ist eine Auskragung fast nicht möglich."
   },
   {
    "id": 22,
    "topic": "Holzbausysteme",
-   "q": "Welche Skelettkonstruktion ermöglicht Auskragungen?",
+   "q": "Welche Konstruktionsart der Holzskelettbauweise arbeitet mit geteilten Trägern/Stützen und ermöglicht Auskragungen?",
    "options": [
-    "Die Riegelkonstruktion",
-    "Die Zangenkonstruktion mit geteilten Trägern/Stützen",
-    "Die Träger-auf-Stütze-Konstruktion",
-    "Die Blockbaukonstruktion"
+    "Zangenkonstruktion",
+    "Riegelkonstruktion",
+    "Träger auf Stütze",
+    "Fachwerkkonstruktion"
    ],
-   "answer": 1,
-   "explanation": "Bei der Zangenkonstruktion mit geteilten Trägern und Stützen sind Auskragungen möglich."
+   "answer": 0,
+   "explanation": "Die Zangenkonstruktion nutzt geteilte Träger/Stützen und ermöglicht Auskragungen."
   },
   {
    "id": 23,
    "topic": "Holzbausysteme",
-   "q": "Was kennzeichnet die Konstruktion 'Träger auf Stütze'?",
+   "q": "Wie ist Brettsperrholz definiert?",
    "options": [
-    "Eine ungerichtete, flächige Tragstruktur ohne Auskragung",
-    "Geteilte Träger, die seitlich an der Stütze liegen",
-    "Eine gerichtete (einachsige) Tragstruktur mit einfachem Prinzip für eingeschossige Bauwerke",
-    "Ausschließlich mehrgeschossige Bauwerke mit stirnseitigem Anschluss"
+    "Hochkant verklebte Bretter",
+    "Min. 3 rechtwinklig (kreuzweise) verklebte Brettlagen aus Nadelholz",
+    "Liegende Kanthölzer",
+    "Vorgefertigte Wandelemente mit Beplankung"
    ],
-   "answer": 2,
-   "explanation": "Träger auf Stütze ist eine gerichtete (einachsige) Tragstruktur mit einfachem Konstruktionsprinzip für eingeschossige Bauwerke."
+   "answer": 1,
+   "explanation": "Brettsperrholz besteht aus min. 3 rechtwinklig (kreuzweise) verklebten Brettlagen aus Nadelholz."
   },
   {
    "id": 24,
    "topic": "Holzbausysteme",
-   "q": "Was ist charakteristisch für die Massivholzbauweise?",
+   "q": "Wie ist Brettstapel definiert?",
    "options": [
-    "Stabförmige Einzelbauteile bilden ein ausgesteiftes Skelett",
-    "Liegende Blockbohlen werden verzapft",
-    "Gefache werden mit Lehm ausgefüllt",
-    "Flächige, massive Holzprodukte werden als Träger eingesetzt"
+    "Kreuzweise verklebte Brettlagen",
+    "Hochkant verklebte / verdübelte Bretter aus Nadelschnittholz",
+    "Liegende Blockbohlen",
+    "Ständer mit Beplankung"
    ],
-   "answer": 3,
-   "explanation": "Bei der Massivholzbauweise kommen flächige, massive Holzprodukte als Träger zum Einsatz."
+   "answer": 1,
+   "explanation": "Brettstapel besteht aus hochkant verklebten / verdübelten Brettern aus Nadelschnittholz."
   },
   {
    "id": 25,
    "topic": "Holzbausysteme",
-   "q": "Wie ist Brettsperrholz aufgebaut und warum ist es stabil?",
+   "q": "Womit wird bei der Massivholzbauweise die Verbindung mit der Decke hergestellt?",
    "options": [
-    "Aus mindestens 3 rechtwinklig (kreuzweise) verklebten Brettlagen aus Nadelholz, wodurch es sehr stabil ist",
-    "Aus liegenden, verzapften Kanthölzern",
-    "Aus hochkant verdübelten Brettern ohne Verklebung",
-    "Aus mit Lehm gefüllten Gefachen"
+    "Schubverbinder (Stahlwinkel)",
+    "Verblattung",
+    "Kopfrippe",
+    "Holzgeflecht"
    ],
    "answer": 0,
-   "explanation": "Brettsperrholz besteht aus mindestens drei rechtwinklig kreuzweise verklebten Nadelholz-Brettlagen und ist durch diese Verklebung sehr stabil."
+   "explanation": "Die Verbindung mit der Decke erfolgt über Schubverbinder (Stahlwinkel)."
   },
   {
    "id": 26,
    "topic": "Holzbausysteme",
-   "q": "Wodurch unterscheidet sich Brettstapel von Brettsperrholz?",
+   "q": "In welche zwei Ausführungen wird der Brettstapel unterschieden?",
    "options": [
-    "Brettstapel wird kreuzweise verklebt, Brettsperrholz hochkant verdübelt",
-    "Brettstapel besteht aus hochkant verklebten/verdübelten Brettern, Brettsperrholz aus kreuzweise verklebten Lagen",
-    "Brettstapel besteht aus Lehmgefachen, Brettsperrholz aus Nadelholz",
-    "Beide sind identisch aufgebaut"
+    "Scharfkantig (gerade) und gefast (mit Einkerbung)",
+    "Balloon und Platform",
+    "Gerichtet und ungerichtet",
+    "Verblattet und verzapft"
    ],
-   "answer": 1,
-   "explanation": "Brettstapel besteht aus hochkant verklebten oder verdübelten Brettern aus Nadelschnittholz, während Brettsperrholz aus kreuzweise verklebten Brettlagen besteht."
+   "answer": 0,
+   "explanation": "Brettstapel gibt es scharfkantig (gerade) und gefast (mit Einkerbung)."
   },
   {
    "id": 27,
-   "topic": "Holzbausysteme",
-   "q": "Womit wird bei der Massivholzbauweise die Verbindung zur Decke hergestellt?",
+   "topic": "Deckenkonstruktionen",
+   "q": "Was ist eine Decke laut Definition?",
    "options": [
-    "Mit gleitenden Blockbohlen-Verbindungen",
-    "Durch Verzapfung an den Ecken",
-    "Mit Schubverbindern (Stahlwinkeln)",
-    "Über die Kopfrippe der Tafeln"
+    "Ein flächenförmiges Bauteil bzw. Tragwerk",
+    "Ein stabförmiges Bauteil zur Lastableitung",
+    "Ein punktförmiges Auflagerelement",
+    "Ein aussteifendes Wandbauteil"
    ],
-   "answer": 2,
-   "explanation": "Bei der Massivholzbauweise erfolgt die Verbindung mit der Decke über Schubverbinder in Form von Stahlwinkeln."
+   "answer": 0,
+   "explanation": "Eine Decke ist ein flächenförmiges Bauteil bzw. Tragwerk."
   },
   {
    "id": 28,
    "topic": "Deckenkonstruktionen",
-   "q": "Was ist eine Decke im bautechnischen Sinne grundsätzlich?",
+   "q": "Welches Bauteil dient bei Decken zur Aussteifung (Belastung in der Ebene)?",
    "options": [
-    "Ein flächenförmiges Bauteil bzw. Tragwerk",
-    "Ein linienförmiges Zugglied",
-    "Ein punktförmig gelagertes Fundament",
-    "Ein ausschließlich auf Druck beanspruchter Bogen"
+    "Die Scheibe",
+    "Der Balken",
+    "Die Stütze",
+    "Der Kopfbolzen"
    ],
    "answer": 0,
-   "explanation": "Eine Decke ist ein flächenförmiges Bauteil/Tragwerk."
+   "explanation": "Zur Aussteifung wirkt die Scheibe mit Belastung in der Ebene."
   },
   {
    "id": 29,
    "topic": "Deckenkonstruktionen",
-   "q": "Welche Funktion übernimmt eine Decke als Scheibe zur Aussteifung?",
+   "q": "Welche Lastabtragungen werden bei Decken unterschieden?",
    "options": [
-    "Sie leitet Belastungen in ihrer Ebene ab",
-    "Sie überträgt Lasten nur senkrecht zur Ebene",
-    "Sie dient ausschließlich der Wärmedämmung",
-    "Sie verhindert jede Biegebeanspruchung der Platte"
+    "Einachsiger oder zweiachsiger Lastabtrag",
+    "Nur zweiachsiger Lastabtrag",
+    "Diagonaler oder radialer Lastabtrag",
+    "Nur punktförmiger Lastabtrag"
    ],
    "answer": 0,
-   "explanation": "Zur Aussteifung wirkt die Decke als Scheibe mit Belastung in ihrer Ebene."
+   "explanation": "Decken tragen die Last einachsig oder zweiachsig ab."
   },
   {
    "id": 30,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie kann der Lastabtrag einer Decke prinzipiell erfolgen?",
+   "q": "Wie wird die Gewölbedecke auch genannt?",
    "options": [
-    "Einachsig oder zweiachsig",
-    "Ausschließlich einachsig",
-    "Ausschließlich über Torsion",
-    "Nur über die auflagernden Stützen ohne Plattenwirkung"
+    "Kappendecke",
+    "Ackermann-Decke",
+    "Rippendecke",
+    "Brettstapeldecke"
    ],
    "answer": 0,
-   "explanation": "Der Lastabtrag kann einachsig oder zweiachsig erfolgen, die Lastführung geschieht über Biegung der Platte."
+   "explanation": "Die Gewölbedecke wird auch als Kappendecke bezeichnet."
   },
   {
    "id": 31,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie spannt sich die Kappendecke (Gewölbedecke) konstruktiv?",
+   "q": "Wie ist die Gewölbedecke (Kappendecke) konstruktiv aufgebaut?",
    "options": [
-    "Als Ziegelgewölbe zwischen zwei Stahlträgern",
-    "Als vorgespannte Hohlplatte zwischen Betonwänden",
-    "Als frei tragende Holzschalung ohne Auflager",
-    "Als Stahlprofilblech mit Aufbeton"
+    "Ein Ziegelgewölbe spannt sich zwischen zwei Stahlträgern",
+    "Speziell geformte Hohlziegel mit Rundstahlbewehrung",
+    "Hochkant nebeneinander liegende Bretter",
+    "Stahl-Profilbleche mit Aufbetonschicht"
    ],
    "answer": 0,
-   "explanation": "Bei der Kappendecke spannt sich ein Ziegelgewölbe mit kleinen Spannweiten zwischen zwei Stahlträgern."
+   "explanation": "Bei der Kappendecke spannt sich ein Ziegelgewölbe zwischen zwei Stahlträgern."
   },
   {
    "id": 32,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie werden die Stahlträger einer Kappendecke in den letzten Deckenfeldern rückverankert?",
+   "q": "Wie wird die Stahlsteindecke auch genannt?",
    "options": [
-    "Durch Schließen",
-    "Durch Kopfbolzen",
-    "Durch Gitterträger",
-    "Durch Vorspannung"
+    "Ackermann-Decke",
+    "Kappendecke",
+    "Pilzdecke",
+    "Plattenbalkendecke"
    ],
    "answer": 0,
-   "explanation": "Die Rückverankerung der Stahlträger in den letzten Deckenfeldern erfolgt durch Schließen."
+   "explanation": "Die Stahlsteindecke wird auch als Ackermann-Decke bezeichnet."
   },
   {
    "id": 33,
    "topic": "Deckenkonstruktionen",
-   "q": "Woraus besteht eine Stahlsteindecke (Ackermann-Decke)?",
+   "q": "Woraus besteht die Stahlsteindecke (Ackermann-Decke)?",
    "options": [
-    "Speziell geformten Hohlziegeln und Bewehrung aus Rundstahl",
-    "Hochkant verleimten Brettern",
-    "Stahlprofilblechen mit Aufbetonschicht",
-    "Vorgespannten Hohlkörpern aus Beton"
+    "Speziell geformte Hohlziegel und Bewehrung aus Rundstahl",
+    "Rechteckige Hölzer mit Holzschalung",
+    "Vorgespannte Hohlkörper aus Beton",
+    "Stahlträger mit Ziegelgewölbe"
    ],
    "answer": 0,
-   "explanation": "Die Stahlsteindecke besteht aus speziell geformten Hohlziegeln plus einer Bewehrung aus Rundstahl."
+   "explanation": "Die Ackermann-Decke besteht aus speziell geformten Hohlziegeln und einer Bewehrung aus Rundstahl."
   },
   {
    "id": 34,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie wird bei der Holzbalkendecke der Balkenabstand festgelegt?",
+   "q": "Wie ist die Holzbalkendecke grundsätzlich aufgebaut?",
    "options": [
-    "Er wird mit Lastannahmen berechnet",
-    "Er ist unabhängig von der Belastung genormt festgelegt",
-    "Er ergibt sich allein aus der Beplankungsbreite",
-    "Er wird über die Vorspannkraft bestimmt"
+    "Rechteckige Hölzer werden auf tragende Wände aufgelegt und beplankt",
+    "Hochkant nebeneinander liegende, verleimte Bretter",
+    "Vorgespannte Hohlkörper zwischen Stahlträgern",
+    "Profilbleche mit einer Aufbetonschicht"
    ],
    "answer": 0,
-   "explanation": "Der Balkenabstand der Holzbalkendecke wird mit Lastannahmen berechnet."
+   "explanation": "Bei der Holzbalkendecke werden rechteckige Hölzer auf tragende Wände aufgelegt und mit Holzschalung oder Platten beplankt."
   },
   {
    "id": 35,
    "topic": "Deckenkonstruktionen",
-   "q": "Was zählt zu den Vorteilen der Holzbalkendecke?",
+   "q": "Welches ist ein Vorteil der Holzbalkendecke?",
    "options": [
-    "Gutes Verhältnis von Eigengewicht zu Tragfähigkeit und schnelle Bauweise",
-    "Sehr hohe Schalldämmung und geringe Schwingungsanfälligkeit",
-    "Automatisch hohe Brandwiderstandsklasse",
-    "Zweiachsiger Lastabtrag ohne Bewehrung"
+    "Gutes Verhältnis von Eigengewicht zu Tragfähigkeit",
+    "Hohe Schalldämmung",
+    "Geringe Schwingungsanfälligkeit",
+    "Hoher Brandwiderstand ohne Zusatzmaßnahmen"
    ],
    "answer": 0,
-   "explanation": "Vorteile sind ein gutes Verhältnis Eigengewicht zu Tragfähigkeit, schnelle Bauweise ohne Stützen/Gerüste und ein einfaches Konstruktionsprinzip."
+   "explanation": "Ein Vorteil der Holzbalkendecke ist das gute Verhältnis von Eigengewicht zu Tragfähigkeit."
   },
   {
    "id": 36,
    "topic": "Deckenkonstruktionen",
-   "q": "Welche Nachteile weist die Holzbalkendecke auf?",
+   "q": "Welches ist ein Nachteil der Holzbalkendecke?",
    "options": [
-    "Geringe Schalldämmung und hohe Schwingungsanfälligkeit",
-    "Hohes Eigengewicht bei geringer Tragfähigkeit",
-    "Lange Bauzeit durch aufwändige Schalung",
-    "Fehlende Möglichkeit der Beplankung"
+    "Geringe Schalldämmung",
+    "Hohes Eigengewicht",
+    "Langsame Bauweise mit Stützen und Gerüsten",
+    "Kompliziertes Konstruktionsprinzip"
    ],
    "answer": 0,
-   "explanation": "Nachteile der Holzbalkendecke sind eine geringe Schalldämmung und eine hohe Schwingungsanfälligkeit."
+   "explanation": "Nachteile der Holzbalkendecke sind geringe Schalldämmung und hohe Schwingungsanfälligkeit."
   },
   {
    "id": 37,
    "topic": "Deckenkonstruktionen",
-   "q": "Warum wird eine Holzbalkendecke häufig überdimensioniert?",
-   "options": [
-    "Zum Erreichen der erforderlichen Brandwiderstandsklassen",
-    "Um zweiachsigen Lastabtrag zu ermöglichen",
-    "Um die Vorspannkraft aufzunehmen",
-    "Um die Verbundsicherung zu gewährleisten"
-   ],
-   "answer": 0,
-   "explanation": "Eine Überdimensionierung dient dem Erreichen der erforderlichen Brandwiderstandsklassen."
-  },
-  {
-   "id": 38,
-   "topic": "Deckenkonstruktionen",
    "q": "Wie ist die Brettstapeldecke aufgebaut?",
    "options": [
-    "Aus hochkant nebeneinander liegenden, meist verleimten Brettern",
-    "Aus kreuzweise verleimten Brettsperrholzlagen",
-    "Aus Hohlziegeln mit Rundstahlbewehrung",
-    "Aus Stahlträgern mit Ziegelgewölbe"
+    "Hochkant nebeneinander liegende, meist verleimte Bretter",
+    "Rechteckige Hölzer auf tragenden Wänden",
+    "Hohlziegel mit Rundstahlbewehrung",
+    "Kreuzweise verleimte Massivholzplatten"
    ],
    "answer": 0,
    "explanation": "Die Brettstapeldecke besteht aus hochkant nebeneinander liegenden Brettern, meist als vorgefertigte, mit Leim verbundene Elemente."
   },
   {
-   "id": 39,
+   "id": 38,
    "topic": "Deckenkonstruktionen",
-   "q": "Welchen Beitrag leisten die querlaufenden Brettlagen bei der Tragfähigkeit einer Brettsperrholzdecke?",
+   "q": "Welche Lastabtragung ist bei Brettsperrholzdecken (BSP) meistens gegeben?",
    "options": [
-    "Keinen Beitrag, sie werden nur auf Schub beansprucht",
-    "Sie tragen die Biegebelastung mit",
-    "Sie übernehmen die gesamte Zugkraft",
-    "Sie erhöhen die Vorspannkraft"
+    "Meistens einachsige, liegende Einspannung der Elemente",
+    "Immer zweiachsige Lastabtragung",
+    "Ausschließlich punktförmiger Lastabtrag",
+    "Grundsätzlich diagonale Lastabtragung"
    ],
    "answer": 0,
-   "explanation": "Querlaufende Brettlagen leisten keinen Tragbeitrag und werden nur auf Schub beansprucht."
+   "explanation": "Bei Brettsperrholzdecken herrscht meist eine einachsige, liegende Einspannung der BSP-Elemente vor; Sonderanwendungen ermöglichen zweiachsigen Lastabtrag."
+  },
+  {
+   "id": 39,
+   "topic": "Deckenkonstruktionen",
+   "q": "Welche Stoßarten werden bei der Brettsperrholzdecke unterschieden?",
+   "options": [
+    "Gelenkige und biegesteife Stöße",
+    "Druckfeste und zugfeste Stöße",
+    "Ein- und zweiachsige Stöße",
+    "Feld- und Stützstöße"
+   ],
+   "answer": 0,
+   "explanation": "Bei der Brettsperrholzdecke werden gelenkige und biegesteife Stöße unterschieden."
   },
   {
    "id": 40,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie erfolgt bei der Brettsperrholzdecke üblicherweise der Lastabtrag?",
+   "q": "Wodurch zeichnen sich Stahlbetondecken überwiegend aus?",
    "options": [
-    "Meist einachsig durch liegende Einspannung von BSP-Elementen",
-    "Grundsätzlich immer zweiachsig",
-    "Über Vorspannung der querlaufenden Lagen",
-    "Ausschließlich über Kopfbolzen"
-   ],
-   "answer": 0,
-   "explanation": "Meist erfolgt eine einachsige liegende Einspannung von BSP-Elementen; nur Sonderanwendungen ermöglichen zweiachsigen Lastabtrag."
-  },
-  {
-   "id": 41,
-   "topic": "Deckenkonstruktionen",
-   "q": "Wie verläuft der Bruch bei einem Schubversagen der Brettsperrholzdecke?",
-   "options": [
-    "Tangential zu den Jahrringflächen",
-    "Radial durch den Kern der Bretter",
-    "Senkrecht zur Deckenebene",
-    "Entlang der Leimfugen der Beplankung"
-   ],
-   "answer": 0,
-   "explanation": "Bei Schubversagen tritt der Bruch tangential zu den Jahrringflächen auf."
-  },
-  {
-   "id": 42,
-   "topic": "Deckenkonstruktionen",
-   "q": "Wie können Stöße bei Brettsperrholzdecken ausgeführt werden?",
-   "options": [
-    "Gelenkig oder biegesteif",
-    "Ausschließlich gelenkig",
-    "Ausschließlich vorgespannt",
-    "Nur über Kopfbolzen"
-   ],
-   "answer": 0,
-   "explanation": "Es gibt gelenkige Stöße (Schubkräfte werden entlang der Fugen übertragen) und biegesteife Stöße."
-  },
-  {
-   "id": 43,
-   "topic": "Deckenkonstruktionen",
-   "q": "Was ist ein wesentliches Merkmal von Stahlbetondecken?",
-   "options": [
-    "Sie sind in allen Lagerbedingungen und Spannrichtungen anpassbar",
-    "Sie tragen ausschließlich einachsig",
-    "Sie benötigen keine Schalung im Bauzustand",
-    "Sie sind nur für kleine Spannweiten geeignet"
+    "Es sind überwiegend Massivdecken, in allen Lagerbedingungen und Spannrichtungen anpassbar",
+    "Sie sind ausschließlich einachsig gespannte Fertigteile",
+    "Sie kommen ohne jegliche Schalung aus",
+    "Sie bestehen nur aus vorgespannten Hohlkörpern"
    ],
    "answer": 0,
    "explanation": "Stahlbetondecken sind überwiegend Massivdecken und in allen Lagerbedingungen und Spannrichtungen anpassbar."
   },
   {
-   "id": 44,
+   "id": 41,
    "topic": "Deckenkonstruktionen",
    "q": "Wozu dienen Halbfertigteildecken im Stahlbetonbau?",
    "options": [
     "Zur Reduktion des Schalungsaufwands",
+    "Zur Erhöhung des Eigengewichts",
     "Zur Vermeidung jeglicher Bewehrung",
-    "Zur Erhöhung der Vorspannkraft",
-    "Zur Ausbildung gelenkiger Stöße"
+    "Zur Aussteifung der Fassade"
    ],
    "answer": 0,
-   "explanation": "Halbfertigteildecken reduzieren den Schalungsaufwand; Halbfertigteil und Aufbeton wirken im Verbund als Gesamtquerschnitt."
+   "explanation": "Halbfertigteildecken reduzieren den Schalungsaufwand; Halbfertigteil und Aufbeton wirken als Gesamtquerschnitt im Verbund."
   },
   {
-   "id": 45,
+   "id": 42,
    "topic": "Deckenkonstruktionen",
-   "q": "Welches Bauteil verbindet bei Halbfertigteildecken das Halbfertigteil mit dem Aufbeton?",
+   "q": "Wofür steht die Abkürzung GT bei Halbfertigteildecken?",
    "options": [
-    "Der Gitterträger (GT)",
-    "Die Feldbewehrung (FB)",
-    "Die Stoßbewehrung (SB)",
-    "Der Kopfbolzen"
+    "Gitterträger (Verbindung von Halbfertigteil und Aufbeton)",
+    "Gesamttragwerk",
+    "Grundtraverse",
+    "Gelenkträger"
    ],
    "answer": 0,
-   "explanation": "Der Gitterträger (GT) stellt die Verbindung zwischen Halbfertigteil und Aufbeton her."
+   "explanation": "GT steht für Gitterträger, der Halbfertigteil und Aufbeton verbindet."
   },
   {
-   "id": 46,
-   "topic": "Deckenkonstruktionen",
-   "q": "Welche Spannweite ohne Unterstützung im Bauzustand ermöglichen Halbfertigteildecken mit Obergurt (Bewehrungsstab)?",
-   "options": [
-    "Bis 4,75 m",
-    "Bis 14 m",
-    "Bis 2,5 m",
-    "Bis 8 m"
-   ],
-   "answer": 0,
-   "explanation": "Halbfertigteildecken mit Obergurt als Bewehrungsstab erlauben Spannweiten bis 4,75 m ohne Unterstützung im Bauzustand."
-  },
-  {
-   "id": 47,
+   "id": 43,
    "topic": "Deckenkonstruktionen",
    "q": "Was ist ein Nachteil von Flach- und Pilzdecken?",
    "options": [
     "Bei zu hoher Last kann ein Deckendurchstoß auftreten",
-    "Sie sind nur einachsig tragfähig",
-    "Sie erfordern immer Vorspannung",
-    "Sie können nicht bewehrt werden"
+    "Sie benötigen zwingend Unterzüge",
+    "Sie sind nur einachsig spannbar",
+    "Sie erfordern ausschließlich Holzschalung"
    ],
    "answer": 0,
-   "explanation": "Nachteil von Flach- und Pilzdecken ist der Deckendurchstoß bei zu hoher Last."
+   "explanation": "Nachteil der Flach- und Pilzdecke ist der Deckendurchstoß bei zu hoher Last."
+  },
+  {
+   "id": 44,
+   "topic": "Deckenkonstruktionen",
+   "q": "Wie wirkt die Rippendecke statisch?",
+   "options": [
+    "Wie eine Plattenbalkendecke",
+    "Wie eine Flachdecke",
+    "Wie eine Gewölbedecke",
+    "Wie eine Hohlkörperdecke"
+   ],
+   "answer": 0,
+   "explanation": "Die Rippendecke ist eine rippenverstärkte Platte und wirkt statisch wie eine Plattenbalkendecke."
+  },
+  {
+   "id": 45,
+   "topic": "Deckenkonstruktionen",
+   "q": "Worin unterscheidet sich die Plattenbalkendecke von der Rippendecke?",
+   "options": [
+    "Es besteht mehr Abstand zwischen den Balken",
+    "Sie besitzt keine Bewehrung",
+    "Sie ist grundsätzlich vorgespannt",
+    "Sie kommt ohne Druckzone aus"
+   ],
+   "answer": 0,
+   "explanation": "Die Plattenbalkendecke ist wie eine Rippendecke aufgebaut, hat aber mehr Abstand zwischen den Balken."
+  },
+  {
+   "id": 46,
+   "topic": "Deckenkonstruktionen",
+   "q": "Welcher Deckentyp ist eine vorgespannte Hohlkörperdecke für mittlere Spannweiten?",
+   "options": [
+    "Spannbeton",
+    "Holzbalkendecke",
+    "Ackermann-Decke",
+    "Kappendecke"
+   ],
+   "answer": 0,
+   "explanation": "Spannbeton ist eine vorgespannte Hohlkörperdecke für mittlere Spannweiten (8-14 m)."
+  },
+  {
+   "id": 47,
+   "topic": "Deckenkonstruktionen",
+   "q": "Welche Befestigungen werden beim Spannbeton genannt?",
+   "options": [
+    "Bohrschablone und Hohldeckenanker",
+    "Kopfbolzen und Gitterträger",
+    "Stoßbewehrung und Feldbewehrung",
+    "Schließen und Rückverankerung"
+   ],
+   "answer": 0,
+   "explanation": "Als Befestigungen beim Spannbeton werden Bohrschablone und Hohldeckenanker genannt."
   },
   {
    "id": 48,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie wirken Rippendecken statisch?",
+   "q": "Was beschreibt der Stahl-Beton-Verbundbau grundsätzlich?",
    "options": [
-    "Wie Plattenbalkendecken",
-    "Wie reine Massivdecken",
-    "Wie Gewölbedecken",
-    "Wie vorgespannte Hohlkörperdecken"
+    "Verbund mehrerer Bauteile, die als ein Bauteil wirken",
+    "Trennung von Stahl und Beton in getrennten Ebenen",
+    "Ausschließliche Verwendung von vorgespanntem Beton",
+    "Rein hölzerne Tragkonstruktion"
    ],
    "answer": 0,
-   "explanation": "Rippendecken sind rippenverstärkte Platten für größere Spannweiten und wirken statisch wie Plattenbalkendecken."
+   "explanation": "Im Stahl-Beton-Verbundbau werden mehrere Bauteile so verbunden, dass sie als ein Bauteil wirken."
   },
   {
    "id": 49,
    "topic": "Deckenkonstruktionen",
-   "q": "Aus welchen Komponenten besteht das momentaufnehmende Kräftepaar einer Rippendecke?",
+   "q": "Welche Verbundmittel werden zur Verbundsicherung im Stahl-Beton-Verbundbau genannt?",
    "options": [
-    "Bewehrung in den Rippen und Druckzone in der Platte",
-    "Vorspannkabel und Hohlkörper",
-    "Kopfbolzen und Profilblech",
-    "Querlaufende Brettlagen und Leimfugen"
+    "Kopfbolzen und Bewehrungsstab",
+    "Gitterträger und Stoßbewehrung",
+    "Bohrschablone und Hohldeckenanker",
+    "Schließen und Rundstahl"
    ],
    "answer": 0,
-   "explanation": "Das momentaufnehmende Kräftepaar bilden die Bewehrung in den Rippen und die Druckzone in der Platte."
+   "explanation": "Zur Verbundsicherung dienen Kopfbolzen und Bewehrungsstab."
   },
   {
    "id": 50,
    "topic": "Deckenkonstruktionen",
-   "q": "Worin unterscheidet sich die Plattenbalkendecke von der Rippendecke?",
+   "q": "Wovon ist die Tragfähigkeit des Kopfbolzens abhängig?",
    "options": [
-    "Sie hat mehr Abstand zwischen den Balken",
-    "Sie hat keine Druckzone in der Platte",
-    "Sie ist nur einachsig gelagert",
-    "Sie kommt ohne Bewehrung aus"
+    "Von der Betondruckfestigkeit",
+    "Von der Holzfeuchte",
+    "Von der Spannweite der Decke",
+    "Von der Anzahl der Bewehrungslagen"
    ],
    "answer": 0,
-   "explanation": "Die Plattenbalkendecke funktioniert wie die Rippendecke, hat aber mehr Abstand zwischen den Balken."
+   "explanation": "Die Tragfähigkeit des Kopfbolzens ist von der Betondruckfestigkeit abhängig."
   },
   {
    "id": 51,
    "topic": "Deckenkonstruktionen",
-   "q": "Wie wirkt die Vorspannkraft bei einer Spannbetondecke?",
+   "q": "Wie werden bei der Holz-Beton-Verbunddecke die Materialien beansprucht?",
    "options": [
-    "Sie überdrückt den Beton, sodass bei Belastung keine Zuglasten im Beton entstehen",
-    "Sie erhöht die Zugbeanspruchung des Betons",
-    "Sie ersetzt die Druckzone der Platte",
-    "Sie verankert die Stahlträger im letzten Feld"
+    "Beton auf Druck, Holz auf Zug",
+    "Beton auf Zug, Holz auf Druck",
+    "Beide Materialien nur auf Druck",
+    "Beide Materialien nur auf Zug"
    ],
    "answer": 0,
-   "explanation": "Die Vorspannkraft überdrückt den Beton (Wölbung nach oben), sodass bei Belastung keine Zuglasten im Beton auftreten."
+   "explanation": "Bei der Holz-Beton-Verbunddecke wird der Beton auf Druck und das Holz auf Zug beansprucht."
   },
   {
    "id": 52,
    "topic": "Deckenkonstruktionen",
-   "q": "Für welchen Spannweitenbereich eignet sich Spannbeton laut Zusammenfassung?",
+   "q": "Welcher Vorteil der Holz-Beton-Verbunddecke wird gegenüber dem reinen Holzbau genannt?",
    "options": [
-    "Mittlere Spannweiten von 8 bis 14 m",
-    "Nur kleine Spannweiten unter 2 m",
-    "Ausschließlich Spannweiten bis 4,75 m",
-    "Beliebige Spannweiten ohne Begrenzung"
+    "Höhere Steifigkeit und Tragfähigkeit",
+    "Geringeres Eigengewicht",
+    "Vollständiger Verzicht auf Beton",
+    "Schnellere Aushärtung"
    ],
    "answer": 0,
-   "explanation": "Spannbeton (vorgespannte Hohlkörperdecke) eignet sich für mittlere Spannweiten von 8 bis 14 m."
+   "explanation": "Gegenüber dem Holzbau bietet die Holz-Beton-Verbunddecke höhere Steifigkeit, Tragfähigkeit sowie besseren Schall- und Brandschutz."
   },
   {
    "id": 53,
    "topic": "Deckenkonstruktionen",
-   "q": "Warum nimmt bei der π-Platte die Momenttragfähigkeit zu?",
+   "q": "Woraus besteht die Verbunddecke (Stahl-Profilblech-Decke)?",
    "options": [
-    "Durch den größeren Abstand zwischen Druck- und Zugkraft",
-    "Durch die querlaufenden Brettlagen",
-    "Durch den Wegfall der Vorspannung",
-    "Durch die gelenkigen Stöße"
+    "Stahl-Profilbleche mit einer Aufbetonschicht",
+    "Hohlziegel mit Rundstahl",
+    "Hochkant verleimte Bretter",
+    "Vorgespannte Hohlkörper"
    ],
    "answer": 0,
-   "explanation": "Bei der π-Platte vergrößert der größere Abstand zwischen Druck- und Zugkraft die Momenttragfähigkeit."
+   "explanation": "Die Verbunddecke besteht aus Stahl-Profilblechen und einer Aufbetonschicht."
   },
   {
    "id": 54,
    "topic": "Deckenkonstruktionen",
-   "q": "Warum kombiniert man beim Stahl-Beton-Verbundbau die beiden Materialien?",
+   "q": "Welche Funktion hat das Verbundblech bei der Verbunddecke?",
    "options": [
-    "Beton hat eine etwa 10-fach höhere Druckfestigkeit, Stahl ähnliche Druck- und Zugfestigkeit",
-    "Beton hat eine höhere Zugfestigkeit als Stahl",
-    "Stahl übernimmt ausschließlich die Druckkräfte",
-    "Beton dient nur der Schalung"
+    "Es übernimmt die Zugbelastung",
+    "Es übernimmt die Druckbelastung",
+    "Es dient nur der Aussteifung",
+    "Es wirkt ausschließlich als Wärmedämmung"
    ],
    "answer": 0,
-   "explanation": "Stahl hat ähnliche Druck- und Zugfestigkeit, Beton eine etwa 10-fach höhere Druckfestigkeit, weshalb sie als ein Bauteil zusammenwirken."
+   "explanation": "Bei der Verbunddecke übernimmt das Verbundblech die Zugbelastung und der Beton die Druckbelastung; das Blech dient beim Betonieren zugleich als Schalung."
   },
   {
    "id": 55,
-   "topic": "Deckenkonstruktionen",
-   "q": "Welche Elemente dienen der Verbundsicherung im Stahl-Beton-Verbundbau?",
+   "topic": "Dachkonstruktionen",
+   "q": "Wie ist die Grundkonstruktion des Sparrendachs beschrieben?",
    "options": [
-    "Kopfbolzen und Bewehrungsstab",
-    "Gitterträger und Hohldeckenanker",
-    "Bohrschablone und Schließen",
-    "Vorspannkabel und Hohlkörper"
+    "Sparren + Dachbalken mit Dreieck verbunden",
+    "Sparren auf durchlaufender Firstpfette gelagert",
+    "Bindersparren mit Pfosten und Kopfbändern",
+    "Kehlbalken zwischen zwei Fußpfetten gespannt"
    ],
    "answer": 0,
-   "explanation": "Die Verbundsicherung erfolgt über Kopfbolzen und Bewehrungsstab."
+   "explanation": "Laut Text ist die Grundkonstruktion des Sparrendachs: Sparren + Dachbalken mit Dreieck verbunden."
   },
   {
    "id": 56,
-   "topic": "Deckenkonstruktionen",
-   "q": "Wovon hängt die Tragfähigkeit eines Kopfbolzens ab?",
+   "topic": "Dachkonstruktionen",
+   "q": "Wie werden die Sparren beim Sparrendach beansprucht?",
    "options": [
-    "Von der Betondruckfestigkeit",
-    "Von der Zugfestigkeit des Holzes",
-    "Von der Vorspannkraft",
-    "Vom Balkenabstand"
+    "Nur auf Zug",
+    "Auf Biegung und Längskräfte auf Druck",
+    "Ausschließlich auf Torsion",
+    "Nur auf Längskräfte auf Zug"
    ],
-   "answer": 0,
-   "explanation": "Die Tragfähigkeit eines Kopfbolzens ist von der Betondruckfestigkeit abhängig."
+   "answer": 1,
+   "explanation": "Der Text nennt: Sparren auf Biegung und Längskräfte auf Druck beansprucht."
   },
   {
    "id": 57,
-   "topic": "Deckenkonstruktionen",
-   "q": "Wie werden die Materialien in einer Holz-Beton-Verbunddecke beansprucht?",
+   "topic": "Dachkonstruktionen",
+   "q": "Was gilt beim Sparrendach ohne Kehlbalken für die Giebelscheibe?",
    "options": [
-    "Beton auf Druck, Holz auf Zug",
-    "Beton auf Zug, Holz auf Druck",
-    "Beide Materialien nur auf Schub",
-    "Holz auf Druck, Stahl auf Zug"
+    "Sie übernimmt die gesamte Aussteifung",
+    "Sie ist Teil der tragenden Konstruktion",
+    "Sie ist nicht Teil der Konstruktion und muss mit einem Anker gegen Kippen gesichert werden",
+    "Sie wird durch Rispenbänder ersetzt"
    ],
-   "answer": 0,
-   "explanation": "In der Holz-Beton-Verbunddecke wird der Beton auf Druck und das Holz auf Zug beansprucht."
+   "answer": 2,
+   "explanation": "Ohne Kehlbalken ist die Giebelscheibe nicht Teil der Konstruktion und muss mit einem Anker gegen Kippen gesichert werden."
   },
   {
    "id": 58,
-   "topic": "Deckenkonstruktionen",
-   "q": "Welche Vorteile bietet die Holz-Beton-Verbunddecke gegenüber dem reinen Holzbau?",
+   "topic": "Dachkonstruktionen",
+   "q": "Wodurch wird beim Sparrendach mit Kehlbalken das Gespärre (über 6 m) ausgesteift?",
    "options": [
-    "Höhere Steifigkeit und Tragfähigkeit sowie besserer Schall- und Brandschutz",
-    "Geringeres Eigengewicht bei gleicher Tragfähigkeit",
-    "Vollständiger Verzicht auf Beton",
-    "Ausschließlich zweiachsiger Lastabtrag"
+    "Durch den Kehlbalken",
+    "Durch die Firstpfette",
+    "Durch Bugverbindungen",
+    "Durch die Fußpfette"
    ],
    "answer": 0,
-   "explanation": "Gegenüber dem Holzbau bietet sie höhere Steifigkeit und Tragfähigkeit, besseren Schall- und Brandschutz sowie holzbaugerechte Details."
+   "explanation": "Laut Text wird das Gespärre (über 6 m) durch den Kehlbalken ausgesteift."
   },
   {
    "id": 59,
-   "topic": "Deckenkonstruktionen",
-   "q": "Was ist ein Merkmal der Ziegeldecke unter den weiteren Deckenkonstruktionen?",
+   "topic": "Dachkonstruktionen",
+   "q": "Wie wird der Kehlbalken beim Sparrendach mit Kehlbalken beansprucht?",
    "options": [
-    "Sie ist ohne Schalung oder Stützung tragfähig",
-    "Sie benötigt zwingend eine Vorspannung",
-    "Sie besteht aus Stahlprofilblechen",
-    "Sie trägt nur im Verbund mit Kopfbolzen"
+    "Auf Zug quer zur Faser",
+    "Auf Biegung",
+    "Auf Druck längs zur Faser",
+    "Auf Torsion"
    ],
-   "answer": 0,
-   "explanation": "Die Ziegeldecke wird in unterschiedlichen Breiten vorgefertigt und ist ohne Schalung oder Stützung tragfähig."
+   "answer": 2,
+   "explanation": "Der Text nennt: Kehlbalken erhält Druck längs zur Faser."
   },
   {
    "id": 60,
-   "topic": "Deckenkonstruktionen",
-   "q": "Wie ist die Verbunddecke aus Stahlprofilblechen aufgebaut und beansprucht?",
+   "topic": "Dachkonstruktionen",
+   "q": "In welche zwei Arten des Dachstuhls wird das Pfettendach eingeteilt?",
    "options": [
-    "Verbundblech auf Zug, Beton auf Druck, das Blech dient beim Betonieren als Schalung",
-    "Verbundblech auf Druck, Beton auf Zug",
-    "Ausschließlich der Beton trägt, das Blech ist nur Dekor",
-    "Beide Komponenten werden nur auf Schub beansprucht"
+    "Verschieblicher und unverschieblicher Dachstuhl",
+    "Einfach stehender und zweifach stehender Dachstuhl",
+    "Liegender und hängender Dachstuhl",
+    "Offener und geschlossener Dachstuhl"
    ],
-   "answer": 0,
-   "explanation": "Bei der Verbunddecke übernimmt das Verbundblech die Zugbelastung, der Beton die Druckbelastung, und das Blech dient während des Betonierens als Deckenschalung."
+   "answer": 1,
+   "explanation": "Das Pfettendach gibt es mit einfach stehendem und mit zweifach stehendem Dachstuhl."
   },
   {
    "id": 61,
    "topic": "Dachkonstruktionen",
-   "q": "Wie ist die Grundkonstruktion eines Sparrendachs aufgebaut?",
+   "q": "Wie wird das Pfettendach im Text allgemein charakterisiert?",
    "options": [
-    "Sparren und Dachbalken sind zu einem Dreieck verbunden",
-    "Sparren werden von durchlaufenden Pfetten getragen",
-    "Zwei Pfosten stützen die Firstpfette ab",
-    "Kehlbalken tragen die gesamte Dachlast ab"
+    "Konstruktiv aufwendigste Form des Daches",
+    "Konstruktiv einfachste Form des Daches",
+    "Nur für unverschiebliche Kehlbalkendächer geeignet",
+    "Ausschließlich für kleine Spannweiten mit Zangen"
    ],
-   "answer": 0,
-   "explanation": "Beim Sparrendach bilden Sparren und Dachbalken ein statisch stabiles Dreieck."
+   "answer": 1,
+   "explanation": "Laut Text ist das Pfettendach die konstruktiv einfachste Form des Daches."
   },
   {
    "id": 62,
    "topic": "Dachkonstruktionen",
-   "q": "Wie werden die Sparren im Sparrendach statisch beansprucht?",
+   "q": "Wodurch ist das Pfettendach hinsichtlich der Spannweiten begrenzt?",
    "options": [
-    "Ausschließlich auf Zug",
-    "Auf Biegung sowie durch Längskräfte auf Druck",
-    "Nur auf Torsion",
-    "Auf Druck quer zur Faser"
+    "Durch die Länge der Firstpfette",
+    "Durch die Durchbiegung der Sparren",
+    "Durch das Kippen der Giebelscheibe",
+    "Durch die Zugkraft der Rispenbänder"
    ],
    "answer": 1,
-   "explanation": "Die Sparren werden auf Biegung und durch Längskräfte auf Druck beansprucht."
+   "explanation": "Der Text nennt eine Begrenzung hinsichtlich Spannweiten aufgrund Durchbiegung der Sparren."
   },
   {
    "id": 63,
    "topic": "Dachkonstruktionen",
-   "q": "Wie muss die Giebelscheibe bei einem Sparrendach ohne Kehlbalken gesichert werden?",
+   "q": "Welche Wirkung haben Bugverbindungen im Dachverband?",
    "options": [
-    "Durch eine zusätzliche Firstpfette",
-    "Durch diagonale Rispenbänder",
-    "Mit einem Anker gegen Kippen",
-    "Durch einen doppelt stehenden Dachstuhl"
+    "Sie versteifen den Dachverband in Längsrichtung",
+    "Sie sichern die Giebelscheibe gegen Kippen",
+    "Sie steifen das Gespärre über 6 m aus",
+    "Sie werden nur auf Zug beansprucht"
    ],
-   "answer": 2,
-   "explanation": "Die Giebelscheibe ist nicht Teil der Konstruktion und muss mit einem Anker gegen Kippen gesichert werden."
+   "answer": 0,
+   "explanation": "Bugverbindungen versteifen den Dachverband in Längsrichtung."
   },
   {
    "id": 64,
    "topic": "Dachkonstruktionen",
-   "q": "Welche Funktion hat der Kehlbalken beim Sparrendach mit Kehlbalken?",
+   "q": "Welchen Vorteil bieten Bugverbindungen?",
    "options": [
-    "Er steift das Gespärre (über 6 m) aus",
-    "Er trägt die Firstpfette",
-    "Er verbindet die Dachfläche mit dem Giebel",
-    "Er ersetzt den Dachbalken"
+    "Sie verlängern die Stützweite der Firstpfette",
+    "Pfosten- und Pfettenquerschnitt werden nicht geschwächt",
+    "Sie ersetzen die Aussteifung durch Bohlen",
+    "Sie werden ausschließlich verleimt"
    ],
-   "answer": 0,
-   "explanation": "Bei Gespärren über 6 m wird das Sparrendach durch den Kehlbalken ausgesteift."
+   "answer": 1,
+   "explanation": "Vorteil laut Text: Pfosten- und Pfettenquerschnitt werden nicht geschwächt."
   },
   {
    "id": 65,
    "topic": "Dachkonstruktionen",
-   "q": "Wie wird der Kehlbalken beim Sparrendach mit Kehlbalken beansprucht?",
+   "q": "Womit werden Bugverbindungen laut Text angeschlossen?",
    "options": [
-    "Auf Biegung quer zur Faser",
-    "Auf Druck längs zur Faser",
-    "Ausschließlich auf Zug",
-    "Auf Torsion"
+    "Mittels Rispenbändern",
+    "Mittels Ringdübeln",
+    "Mittels Laschen oder Versatz",
+    "Mittels Ankern"
    ],
-   "answer": 1,
-   "explanation": "Der Kehlbalken erhält Druck längs zur Faser."
+   "answer": 2,
+   "explanation": "Bugverbindungen werden mittels Laschen oder Versatz angeschlossen."
   },
   {
    "id": 66,
    "topic": "Dachkonstruktionen",
-   "q": "Welche Aussage über das Pfettendach trifft laut Zusammenfassung zu?",
+   "q": "Wie werden Bohlen zur Aussteifung angebracht?",
    "options": [
-    "Es kommt ohne jegliche Pfosten aus",
-    "Es ist die konstruktiv einfachste Form des Daches",
-    "Es benötigt zwingend einen Kehlbalken",
-    "Es bildet immer ein Sparren-Dachbalken-Dreieck"
+    "Auf der Oberseite der Sparren aufgenagelt",
+    "Diagonal in der Dachfläche unter die Sparren genagelt",
+    "Längs zur Firstpfette verleimt",
+    "Als Rispenbänder verschraubt"
    ],
    "answer": 1,
-   "explanation": "Das Pfettendach ist die konstruktiv einfachste Form des Daches."
+   "explanation": "Bohlen werden diagonal in der Dachfläche unter die Sparren genagelt."
   },
   {
    "id": 67,
    "topic": "Dachkonstruktionen",
-   "q": "Wodurch ist das Pfettendach hinsichtlich der Spannweiten begrenzt?",
+   "q": "Wie werden Rispenbänder zur Aussteifung angebracht und beansprucht?",
    "options": [
-    "Durch das Kippen der Giebelscheibe",
-    "Durch die Durchbiegung der Sparren",
-    "Durch die Zugbeanspruchung der Rispenbänder",
-    "Durch den Druck im Kehlbalken"
+    "Unter die Sparren genagelt, nur auf Druck beanspruchbar",
+    "Auf der Oberseite der Sparren angebracht, nur auf Zug beanspruchbar",
+    "Diagonal in der Dachfläche, auf Biegung beanspruchbar",
+    "Zwischen den Pfetten, nur auf Torsion beanspruchbar"
    ],
    "answer": 1,
-   "explanation": "Die Begrenzung der Spannweiten ergibt sich aus der Durchbiegung der Sparren."
+   "explanation": "Rispenbänder werden auf der Oberseite der Sparren angebracht und sind nur auf Zug beanspruchbar."
   },
   {
    "id": 68,
    "topic": "Dachkonstruktionen",
-   "q": "Welche Formen des Pfettendachs werden in der Zusammenfassung unterschieden?",
+   "q": "Welche der folgenden gehört zu den zimmermannsmäßigen (lösbaren) Verbindungen?",
    "options": [
-    "Mit unverschieblichem und verschieblichem Dachstuhl",
-    "Mit einfach stehendem und zweifach stehendem Dachstuhl",
-    "Mit Kehlbalken und ohne Kehlbalken",
-    "Mit Kniestock und mit Grabendach"
+    "Dübel",
+    "Schrauben",
+    "Versatz, Stoß, Blatt",
+    "Brettschichtholz"
    ],
-   "answer": 1,
-   "explanation": "Das Pfettendach wird mit einfach stehendem und mit zweifach stehendem Dachstuhl ausgeführt."
+   "answer": 2,
+   "explanation": "Zu den zimmermannsmäßigen Verbindungen zählen laut Text Versatz, Stoß und Blatt."
   },
   {
    "id": 69,
    "topic": "Dachkonstruktionen",
-   "q": "Welche Aufgabe erfüllen Bugverbindungen im Dachverband?",
+   "q": "Welche der folgenden gehört zu den ingenieurmäßigen (lösbaren) Verbindungen?",
    "options": [
-    "Sie sichern die Giebelscheibe gegen Kippen",
-    "Sie versteifen den Dachverband in Längsrichtung und verkürzen die Stützweite der Firstpfette",
-    "Sie übertragen die Dachlast auf den Kehlbalken",
-    "Sie verbinden die Sparren zum Dreieck mit dem Dachbalken"
+    "Versatz",
+    "Blatt",
+    "Dübel, Schrauben, Nägel",
+    "Sperrholz"
    ],
-   "answer": 1,
-   "explanation": "Bugverbindungen versteifen den Dachverband in Längsrichtung und verkürzen die Stützweite der Firstpfette."
+   "answer": 2,
+   "explanation": "Ingenieurmäßige Verbindungen sind laut Text Dübel, Schrauben und Nägel."
   },
   {
    "id": 70,
    "topic": "Dachkonstruktionen",
-   "q": "Womit werden Bugverbindungen angeschlossen?",
+   "q": "Welche Verbindung zählt der Text zu den unlösbaren Verbindungen?",
    "options": [
-    "Mittels Laschen oder Versatz",
-    "Ausschließlich mit Ringdübeln",
-    "Über Rispenbänder",
-    "Mittels Leimverbindung"
+    "Leimverbindungen, Brettschichtholz",
+    "Versatz und Stoß",
+    "Nägel und Schrauben",
+    "Stabdübel und Passbolzen"
    ],
    "answer": 0,
-   "explanation": "Bugverbindungen werden mittels Laschen oder Versatz angeschlossen."
+   "explanation": "Unlösbare Verbindungen sind laut Text u. a. verleimte Holzwerkstoffe, Sperrholz, Leimverbindungen und Brettschichtholz."
   },
   {
    "id": 71,
    "topic": "Dachkonstruktionen",
-   "q": "Was ist ein Vorteil der Bugverbindungen?",
+   "q": "Wofür werden laut Text Stabdübel und Passbolzen verwendet?",
    "options": [
-    "Sie erhöhen die Durchbiegung der Sparren",
-    "Pfosten- und Pfettenquerschnitt werden nicht geschwächt",
-    "Sie machen den Kehlbalken überflüssig",
-    "Sie ersetzen die Aussteifung durch Bohlen"
+    "Bei der Verbindung von Hölzern größerer Dimensionen",
+    "Zur Aussteifung der Dachfläche",
+    "Zum Anschluss von Rispenbändern",
+    "Als zimmermannsmäßige Verbindung"
    ],
-   "answer": 1,
-   "explanation": "Der Vorteil ist, dass Pfosten- und Pfettenquerschnitt nicht geschwächt werden."
+   "answer": 0,
+   "explanation": "Stabdübel und Passbolzen werden bei der Verbindung von Hölzern größerer Dimensionen eingesetzt."
   },
   {
    "id": 72,
    "topic": "Dachkonstruktionen",
-   "q": "Wie werden Bohlen zur Aussteifung des Daches eingebaut?",
+   "q": "Als was wird das Kehlbalkendach im Text bezeichnet?",
    "options": [
-    "Diagonal in der Dachfläche unter die Sparren genagelt",
-    "Waagerecht auf die Firstpfette gelegt",
-    "Senkrecht als Pfosten unter die Pfetten gestellt",
-    "Auf der Oberseite der Sparren nur auf Zug"
+    "Verschieblich",
+    "Unverschieblich",
+    "Einfach stehend",
+    "Zweifach stehend"
    ],
-   "answer": 0,
-   "explanation": "Bohlen werden diagonal in der Dachfläche unter die Sparren genagelt."
+   "answer": 1,
+   "explanation": "Der Text bezeichnet das Kehlbalkendach als unverschieblich."
   },
   {
    "id": 73,
-   "topic": "Dachkonstruktionen",
-   "q": "Welche Eigenschaft haben Rispenbänder zur Aussteifung?",
+   "topic": "Einwirkungen & Bemessung",
+   "q": "In welche drei Hauptarten werden Einwirkungen eingeteilt?",
    "options": [
-    "Sie werden unter die Sparren genagelt und wirken auf Druck",
-    "Sie sind auf der Oberseite der Sparren angebracht und nur auf Zug beanspruchbar",
-    "Sie ersetzen die Dachbalken im Sparrendach",
-    "Sie werden mittels Versatz an die Firstpfette angeschlossen"
+    "Ständige, veränderliche und außergewöhnliche Einwirkungen",
+    "Vertikale, horizontale und dynamische Einwirkungen",
+    "Ruhende, bewegte und ständige Einwirkungen",
+    "Charakteristische, Bemessungs- und Kombinationseinwirkungen"
    ],
-   "answer": 1,
-   "explanation": "Rispenbänder liegen auf der Oberseite der Sparren und sind nur auf Zug beanspruchbar."
+   "answer": 0,
+   "explanation": "Der Text unterscheidet ständige, veränderliche und außergewöhnliche Einwirkungen."
   },
   {
    "id": 74,
-   "topic": "Dachkonstruktionen",
-   "q": "Welche Verbindungen zählen zu den zimmermannsmäßigen Verbindungen?",
+   "topic": "Einwirkungen & Bemessung",
+   "q": "Welche Einwirkung wirkt während der gesamten Nutzungsdauer und hat nur geringe zeitliche Größenänderung?",
    "options": [
-    "Dübel, Schrauben und Nägel",
-    "Versatz, Stoß und Blatt",
-    "Sperrholz und Brettschichtholz",
-    "Leimverbindungen und verleimte Holzwerkstoffe"
+    "Ständige Einwirkung",
+    "Veränderliche Einwirkung",
+    "Außergewöhnliche Einwirkung",
+    "Nicht ruhende Einwirkung"
    ],
-   "answer": 1,
-   "explanation": "Versatz, Stoß und Blatt sind zimmermannsmäßige (lösbare) Verbindungen."
+   "answer": 0,
+   "explanation": "Ständige Einwirkungen wirken während der gesamten Nutzungsdauer mit geringer zeitlicher Größenänderung."
   },
   {
    "id": 75,
-   "topic": "Dachkonstruktionen",
-   "q": "Welche Verbindungen zählen laut Zusammenfassung zu den unlösbaren Verbindungen?",
+   "topic": "Einwirkungen & Bemessung",
+   "q": "Als was wird das Eigengewicht der Konstruktion (Wichte) eingeordnet?",
    "options": [
-    "Dübel und Schrauben",
-    "Versatz und Blatt",
-    "Leimverbindungen und Brettschichtholz",
-    "Nägel und Stabdübel"
+    "Ständige Einwirkung",
+    "Veränderliche Einwirkung",
+    "Außergewöhnliche Einwirkung",
+    "Nicht ruhende Nutzlast"
    ],
-   "answer": 2,
-   "explanation": "Verleimte Holzwerkstoffe wie Sperrholz und Brettschichtholz zählen zu den unlösbaren Verbindungen."
+   "answer": 0,
+   "explanation": "Das Eigengewicht der Konstruktion zählt zu den ständigen Einwirkungen."
   },
   {
    "id": 76,
-   "topic": "Dachkonstruktionen",
-   "q": "Für welchen Anwendungsfall werden Stabdübel und Passbolzen eingesetzt?",
+   "topic": "Einwirkungen & Bemessung",
+   "q": "Wie ist die Wichte laut Text definiert?",
    "options": [
-    "Bei der Verbindung von Hölzern größerer Dimensionen",
-    "Zur Aussteifung der Dachfläche auf Zug",
-    "Zum Anschluss der Giebelscheibe",
-    "Als lösbare zimmermannsmäßige Verbindung"
+    "Verhältnis von Gewichtskraft zu Volumen",
+    "Verhältnis von Masse zu Fläche",
+    "Verhältnis von Gewichtskraft zu Höhe",
+    "Verhältnis von Volumen zu Gewichtskraft"
    ],
    "answer": 0,
-   "explanation": "Stabdübel und Passbolzen werden bei der Verbindung von Hölzern größerer Dimensionen verwendet."
+   "explanation": "Die Wichte ist das Verhältnis von Gewichtskraft zu Volumen (in kN/m³)."
   },
   {
    "id": 77,
-   "topic": "Dachkonstruktionen",
-   "q": "Welche Ausführung der Nagelverbindung nennt die Zusammenfassung neben der reinen Holz-Holz-Verbindung?",
+   "topic": "Einwirkungen & Bemessung",
+   "q": "Welche Einwirkungsart hat eine nicht vernachlässigbare zeitliche Größenänderung, die nicht immer in gleiche Richtung stattfindet?",
    "options": [
-    "Nagelverbindung mittels Stahlblechformteile",
-    "Nagelverbindung mit Ringdübeln",
-    "Nagelverbindung mit Versatz",
-    "Nagelverbindung mit Leim"
+    "Veränderliche Einwirkung",
+    "Ständige Einwirkung",
+    "Außergewöhnliche Einwirkung",
+    "Eigengewichtseinwirkung"
    ],
    "answer": 0,
-   "explanation": "Neben der Holz-Holz-Nagelverbindung gibt es die Nagelverbindung mittels Stahlblechformteile."
+   "explanation": "Veränderliche Einwirkungen zeigen eine nicht vernachlässigbare zeitliche Größenänderung."
   },
   {
    "id": 78,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wodurch zeichnen sich ständige Einwirkungen aus?",
+   "q": "Wie werden stoßende oder sich häufig wiederholende Lasten (z.B. Kran, Gabelstapler) bezeichnet?",
    "options": [
-    "Sie wirken während der gesamten Nutzungsdauer und haben nur geringe zeitliche Größenänderung",
-    "Sie treten nur bei Extremereignissen auf",
-    "Ihre zeitliche Größenänderung ist nicht vernachlässigbar",
-    "Sie sind ausschließlich stoßende Lasten"
+    "Vorwiegend nicht ruhende Einwirkungen",
+    "Vorwiegend ruhende Einwirkungen",
+    "Ständige Einwirkungen",
+    "Außergewöhnliche Einwirkungen"
    ],
    "answer": 0,
-   "explanation": "Ständige Einwirkungen wirken über die gesamte Nutzungsdauer und ändern sich zeitlich nur geringfügig, z.B. das Eigengewicht der Konstruktion."
+   "explanation": "Stoßende oder sich häufig wiederholende Lasten sind vorwiegend nicht ruhende Einwirkungen."
   },
   {
    "id": 79,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Was beschreibt die Wichte im Zusammenhang mit dem Eigengewicht der Konstruktion?",
+   "q": "Welche Lasten werden im Text den vorwiegend ruhenden Einwirkungen zugeordnet?",
    "options": [
-    "Das Verhältnis von Fläche zu Länge",
-    "Das Verhältnis von Gewichtskraft zu Volumen",
-    "Das Verhältnis von Spannung zu Dehnung",
-    "Das Verhältnis von Last zu Auflagerkraft"
+    "Windlasten, Nutzlasten, Schneelasten",
+    "Kran-, Gabelstapler- und Glockenlasten",
+    "Eigengewicht, Wichte und Bodenschüttung",
+    "Anpralllasten, Explosion und Erdbeben"
    ],
-   "answer": 1,
-   "explanation": "Die Wichte ist das Verhältnis Gewichtskraft zu Volumen und wird in kN/m³ angegeben."
+   "answer": 0,
+   "explanation": "Windlasten, Nutzlasten und Schneelasten sind vorwiegend ruhende Einwirkungen."
   },
   {
    "id": 80,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wie kann aus der in kN/m³ angegebenen Wichte eine Flächenlast gewonnen werden?",
+   "q": "Als welche Einwirkungsart gelten Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen laut Grundsatz?",
    "options": [
-    "Durch Division durch die Fläche",
-    "Durch Multiplikation mit der Höhe",
-    "Durch Multiplikation mit der Windgeschwindigkeit",
-    "Durch Addition des Formbeiwerts"
+    "Veränderliche Einwirkungen",
+    "Ständige Einwirkungen",
+    "Außergewöhnliche Einwirkungen",
+    "Entlastende Einwirkungen"
    ],
-   "answer": 1,
-   "explanation": "Die in kN/m³ angegebene Wichte kann mit der Höhe multipliziert werden, um eine Flächenlast zu erhalten."
+   "answer": 0,
+   "explanation": "Nach dem 1. Grundsatz gelten Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen als veränderliche Einwirkungen."
   },
   {
    "id": 81,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wovon hängt das Eigengewicht bzw. die Wichte laut Zusammenfassung außer der Materialart noch ab?",
+   "q": "Welche Lastart umfasst laut Text z.B. Lagergut, Menschen und leichter Verkehr?",
    "options": [
-    "Nur von der Materialart",
-    "Von Ort und Umständen",
-    "Von der Windzone",
-    "Von der Schneelastzone"
+    "Nutzlasten",
+    "Windlasten",
+    "Schneelasten",
+    "Eigengewicht"
    ],
-   "answer": 1,
-   "explanation": "Die Wichte hängt auch von Ort und Umständen ab, nicht nur von der reinen Materialart."
+   "answer": 0,
+   "explanation": "Nutzlasten sind z.B. Lagergut, Menschen und leichter Verkehr."
   },
   {
    "id": 82,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Was kennzeichnet veränderliche Einwirkungen?",
+   "q": "Wie werden Nutzlasten infolge von Personen auf Brüstungen und Absperrungen im Text bezeichnet?",
    "options": [
-    "Sie bleiben über die gesamte Nutzungsdauer konstant",
-    "Ihre zeitliche Größenänderung ist nicht vernachlässigbar und muss nicht immer in gleiche Richtung erfolgen",
-    "Sie sind ausschließlich Eigengewichte",
-    "Sie treten nur als außergewöhnliche Extremereignisse auf"
+    "Nutzlasten (horizontal)",
+    "Nutzlasten (vertikal, ruhend)",
+    "Windlasten",
+    "Anpralllasten"
    ],
-   "answer": 1,
-   "explanation": "Bei veränderlichen Einwirkungen ist die zeitliche Größenänderung nicht vernachlässigbar und die Änderung muss nicht immer in gleicher Richtung stattfinden."
+   "answer": 0,
+   "explanation": "Nutzlasten aus Personen auf Brüstungen und Absperrungen sind horizontale Nutzlasten."
   },
   {
    "id": 83,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Welche der folgenden Einwirkungen zählt zu den vorwiegend nicht ruhenden Einwirkungen?",
+   "q": "Wie heißt der Beiwert, der die 'Windschlüpfrigkeit' eines Bauteils oder Bauwerks beschreibt?",
    "options": [
-    "Eigengewicht der Wände",
-    "Windlasten",
-    "Verkehrslasten, Kran- und Gabelstaplerlasten",
-    "Schneelasten"
+    "Aerodynamischer Beiwert c",
+    "Formbeiwert µ",
+    "Böengeschwindigkeitsdruck qp",
+    "Basisgeschwindigkeitsdruck"
    ],
-   "answer": 2,
-   "explanation": "Vorwiegend nicht ruhende Einwirkungen sind stoßende oder sich häufig wiederholende Lasten wie Verkehrslasten, Kran, Gabelstapler oder Glockenläuten."
+   "answer": 0,
+   "explanation": "Der aerodynamische Beiwert c beschreibt die Windschlüpfrigkeit eines Bauteils oder Bauwerks."
   },
   {
    "id": 84,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Lasten werden als vorwiegend ruhende Einwirkungen eingeordnet?",
+   "q": "Wie heißt der Beiwert, der die Dachform bei der Schneelast berücksichtigt?",
    "options": [
-    "Windlasten, Nutzlasten und Schneelasten",
-    "Kranlasten und Gabelstaplerlasten",
-    "Anpralllasten und Explosionen",
-    "Glockenläuten und Erdbeben"
+    "Formbeiwert µ",
+    "Aerodynamischer Beiwert cf",
+    "Innendruckbeiwert cpi",
+    "Sicherheitsindex β"
    ],
    "answer": 0,
-   "explanation": "Zu den vorwiegend ruhenden Einwirkungen zählen Windlasten, Nutzlasten und Schneelasten."
+   "explanation": "Der Formbeiwert µ berücksichtigt die Dachform bei der Schneelast."
   },
   {
    "id": 85,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wie werden Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen eingeordnet?",
+   "q": "Was bezeichnet der Begriff 'Versperrungsgrad' bei freistehenden Dächern?",
    "options": [
-    "Als ständige Einwirkungen",
-    "Als veränderliche Einwirkungen",
-    "Als außergewöhnliche Einwirkungen",
-    "Als Beanspruchbarkeit R"
+    "Das Verhältnis von versperrter Fläche zur Gesamtfläche unterhalb des Daches",
+    "Das Verhältnis von Öffnung zu Wandfläche",
+    "Das Verhältnis von Dachneigung zu Grundriss",
+    "Das Verhältnis von Innendruck zu Außendruck"
    ],
-   "answer": 1,
-   "explanation": "Nach dem 1. Grundsatz sind Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen veränderliche Einwirkungen."
+   "answer": 0,
+   "explanation": "Der Versperrungsgrad ist das Verhältnis der versperrten Fläche zur Gesamtfläche unterhalb des Daches."
   },
   {
    "id": 86,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Was besagt der Grundsatz, dass der Ansatz von Einwirkungen sinnvoll sein muss?",
+   "q": "Welche der folgenden zählt der Text zu den außergewöhnlichen Einwirkungen?",
    "options": [
-    "Alle denkbaren Lasten müssen stets gleichzeitig angesetzt werden",
-    "Sich gegenseitig ausschließende Zustände (z.B. Schnee und hohe Temperaturen) dürfen nicht kombiniert werden",
-    "Nur ständige Lasten dürfen angesetzt werden",
-    "Der Ansatz muss immer den kleinstmöglichen Wert liefern"
+    "Erdbeben",
+    "Schneelast",
+    "Eigengewicht",
+    "Nutzlast durch Menschen"
    ],
-   "answer": 1,
-   "explanation": "Der Ansatz muss sinnvoll sein: einander ausschließende Zustände wie Schnee und hohe Temperaturen dürfen nicht gleichzeitig angesetzt werden."
+   "answer": 0,
+   "explanation": "Erdbeben wird als Beispiel für außergewöhnliche Einwirkungen genannt."
   },
   {
    "id": 87,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wie ist mit entlastend wirkenden veränderlichen Einwirkungen umzugehen?",
+   "q": "Wie werden Extremereignisse für Bauwerke wie Bauwerksanprall, Innenraumexplosion oder Erdbeben eingeordnet?",
    "options": [
-    "Sie müssen immer voll angesetzt werden",
-    "Sie dürfen nicht in den Ansatz gebracht werden",
-    "Sie werden als ständige Einwirkungen behandelt",
-    "Sie werden mit einem Formbeiwert multipliziert"
+    "Außergewöhnliche Einwirkungen",
+    "Veränderliche Einwirkungen",
+    "Ständige Einwirkungen",
+    "Ruhende Nutzlasten"
    ],
-   "answer": 1,
-   "explanation": "Entlastende Einwirkungen (z.B. Wind drückt von unten gegen eine Decke) dürfen nicht in den Ansatz gebracht werden."
+   "answer": 0,
+   "explanation": "Extremereignisse wie Anprall, Explosion und Erdbeben sind außergewöhnliche Einwirkungen."
   },
   {
    "id": 88,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Beispiele nennt die Zusammenfassung für Nutzlasten (vertikal, ruhend)?",
+   "q": "Wofür steht die Abkürzung GZT im Sicherheitskonzept?",
    "options": [
-    "Kran und Gabelstapler",
-    "Lagergut, Menschen, leichter Verkehr",
-    "Wind und Schnee",
-    "Erdbeben und Explosionen"
+    "Grenzzustand der Tragfähigkeit",
+    "Grenzzustand der Gebrauchstauglichkeit",
+    "Grundzustand der Teilsicherheit",
+    "Grenzwert der Tragwiderstände"
    ],
-   "answer": 1,
-   "explanation": "Nutzlasten (vertikal, ruhend) sind z.B. Lagergut, Menschen und leichter Verkehr."
+   "answer": 0,
+   "explanation": "GZT steht für Grenzzustand der Tragfähigkeit."
   },
   {
    "id": 89,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wodurch entstehen horizontale Nutzlasten laut Zusammenfassung typischerweise?",
+   "q": "Wofür steht die Abkürzung GZG im Sicherheitskonzept?",
    "options": [
-    "Durch Personen auf Brüstungen und andere Absperrungen",
-    "Durch Schneeansammlungen auf dem Dach",
-    "Durch das Eigengewicht der Decke",
-    "Durch den Böengeschwindigkeitsdruck"
+    "Grenzzustand der Gebrauchstauglichkeit",
+    "Grenzzustand der Tragfähigkeit",
+    "Grundzustand der Gebäudehülle",
+    "Grenzwert der Gewichtskraft"
    ],
    "answer": 0,
-   "explanation": "Horizontale Nutzlasten entstehen z.B. infolge von Personen auf Brüstungen und anderen Absperrungen."
+   "explanation": "GZG steht für Grenzzustand der Gebrauchstauglichkeit."
   },
   {
    "id": 90,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wovon ist der Böengeschwindigkeitsdruck qp abhängig?",
+   "q": "Was bezeichnet der Begriff 'Beanspruchung E' (effect) im Sicherheitskonzept?",
    "options": [
-    "Von Schneelastzone und Formbeiwert",
-    "Von Windprofil, Windzone, Geländekategorie und Basisgeschwindigkeitsdruck",
-    "Ausschließlich von der Materialwichte",
-    "Vom Versperrungsgrad des Daches"
+    "Die Auswirkung einer oder mehrerer Einwirkungen",
+    "Den Tragwiderstand des Tragwerks",
+    "Die Streuung der Baustoffe",
+    "Das Maß für die Versagenswahrscheinlichkeit"
    ],
-   "answer": 1,
-   "explanation": "Der Böengeschwindigkeitsdruck qp hängt von Windprofil, Windzone, Geländekategorie und Basisgeschwindigkeitsdruck ab."
+   "answer": 0,
+   "explanation": "Die Beanspruchung E ist die Auswirkung einer oder mehrerer Einwirkungen."
   },
   {
    "id": 91,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Wie verhält sich der Basisgeschwindigkeitsdruck zur Windgeschwindigkeit?",
+   "q": "Was bezeichnet der Begriff 'Beanspruchbarkeit R' (resistance)?",
    "options": [
-    "Er steigt linear mit der Windgeschwindigkeit",
-    "Er steigt quadratisch mit der Windgeschwindigkeit",
-    "Er ist unabhängig von der Windgeschwindigkeit",
-    "Er sinkt mit steigender Windgeschwindigkeit"
+    "Den Tragwiderstand, die Fähigkeit des Tragwerks, Beanspruchungen standzuhalten",
+    "Die Auswirkung einer Einwirkung",
+    "Die Wichte des Baustoffs",
+    "Die Versagenswahrscheinlichkeit"
    ],
-   "answer": 1,
-   "explanation": "Der Basisgeschwindigkeitsdruck steigt quadratisch mit der Windgeschwindigkeit."
+   "answer": 0,
+   "explanation": "Die Beanspruchbarkeit R ist der Tragwiderstand, also die Fähigkeit des Tragwerks, einwirkenden Beanspruchungen standzuhalten."
   },
   {
    "id": 92,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Was beschreibt der aerodynamische Beiwert c?",
+   "q": "Wofür steht das Formelzeichen 'F' im Sicherheitskonzept?",
    "options": [
-    "Die Wichte eines Baustoffs",
-    "Die 'Windschlüpfrigkeit' eines Bauteils oder Bauwerks",
-    "Die Schneelast auf dem Boden",
-    "Den Sicherheitsindex β"
+    "Force (Einwirkung)",
+    "Effect (Beanspruchung)",
+    "Resistance (Beanspruchbarkeit)",
+    "Fraktilwert"
    ],
-   "answer": 1,
-   "explanation": "Der aerodynamische Beiwert c beschreibt die 'Windschlüpfrigkeit' eines Bauteils oder Bauwerks; bei Kraft cf, bei Druck cp."
+   "answer": 0,
+   "explanation": "F steht für 'force', also die Einwirkung."
   },
   {
    "id": 93,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Welcher Außendruckbeiwert ist für das gesamte Tragwerk anzusetzen?",
+   "q": "Wie heißt das Maß für die Versagenswahrscheinlichkeit (Sicherheitsindex)?",
    "options": [
-    "cpe,1",
-    "cpe,10",
-    "cpi",
-    "cf"
+    "β",
+    "µ",
+    "cp",
+    "qp"
    ],
-   "answer": 1,
-   "explanation": "Für das gesamte Tragwerk wird cpe,10 verwendet, während cpe,1 für kleine Bauteile bzw. Dach- oder Verkleidungselemente gilt."
+   "answer": 0,
+   "explanation": "β ist der Sicherheitsindex, das Maß für die Versagenswahrscheinlichkeit."
   },
   {
    "id": 94,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Welcher Außendruckbeiwert ist für kleine Bauteile bzw. Dach- oder Verkleidungselemente zu verwenden?",
+   "q": "Welche Sicherheitstheorie bezieht sich auf den Mittelwert ohne Berücksichtigung der Streuung?",
    "options": [
-    "cpe,10",
-    "cpe,1",
-    "cpi",
-    "cp"
-   ],
-   "answer": 1,
-   "explanation": "Für kleine Bauteile, Dach- oder Verkleidungselemente wird cpe,1 angesetzt."
-  },
-  {
-   "id": 95,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Dachform erfordert eine Unterscheidung der Anströmrichtung?",
-   "options": [
-    "Flachdach",
-    "Pultdach",
-    "Walmdach",
-    "Freistehendes Dach"
-   ],
-   "answer": 1,
-   "explanation": "Beim Pultdach ist zwischen den Anströmrichtungen zu unterscheiden."
-  },
-  {
-   "id": 96,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Bis zu welcher Neigung gilt ein Dach in der Zusammenfassung als Flachdach?",
-   "options": [
-    "Weniger als ±5° Neigung",
-    "Weniger als ±30° Neigung",
-    "Weniger als ±45° Neigung",
-    "Weniger als ±15° Neigung"
-   ],
-   "answer": 0,
-   "explanation": "Ein Flachdach hat weniger als ±5° Neigung."
-  },
-  {
-   "id": 97,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Wann sind Innen- und Außendruck gleichzeitig anzunehmen (Wandinnendruck)?",
-   "options": [
-    "Immer bei geschlossenen Gebäuden",
-    "Wenn der Innendruck ungünstig wirkt",
-    "Nur bei Flachdächern",
-    "Nur wenn keine Öffnungen vorhanden sind"
-   ],
-   "answer": 1,
-   "explanation": "Innen- und Außendruck werden gleichzeitig angenommen, wenn der Innendruck ungünstig wirkt."
-  },
-  {
-   "id": 98,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Wovon hängt der Innendruckbeiwert cpi ab?",
-   "options": [
-    "Von der Schneelastzone",
-    "Von Größe und Verteilung der Öffnungen der Gebäudehülle",
-    "Von der Wichte des Materials",
-    "Von der Dachneigung"
-   ],
-   "answer": 1,
-   "explanation": "Der Innendruckbeiwert cpi hängt von Größe und Verteilung der Öffnungen der Gebäudehülle ab."
-  },
-  {
-   "id": 99,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Ab welchem Öffnungsanteil gelten Seiten eines Gebäudes als gänzlich offen?",
-   "options": [
-    "Wenn an 2 Seiten jeweils mehr als 30% offen sind",
-    "Wenn eine Seite mehr als 10% offen ist",
-    "Wenn alle Fenster geöffnet sind",
-    "Wenn mehr als 50% des Daches offen ist"
-   ],
-   "answer": 0,
-   "explanation": "Sind an 2 Seiten jeweils mehr als 30% offen, gelten sie als gänzlich offen; Fenster und Türen werden dabei als geschlossen angesehen."
-  },
-  {
-   "id": 100,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Was beschreibt der Versperrungsgrad Φ bei freistehenden Dächern?",
-   "options": [
-    "Das Verhältnis von Gewichtskraft zu Volumen",
-    "Das Verhältnis der versperrten Fläche zur Gesamtfläche unterhalb des Daches",
-    "Das Verhältnis von Schneelast zu Windlast",
-    "Das Verhältnis der Dachneigung zur Höhe"
-   ],
-   "answer": 1,
-   "explanation": "Der Versperrungsgrad Φ ist das Verhältnis der versperrten Fläche zur Gesamtfläche unterhalb des Daches (z.B. Bushaltestelle/Tankstelle)."
-  },
-  {
-   "id": 101,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche der folgenden Erscheinungen zählt zu den dynamischen Effekten von Wind?",
-   "options": [
-    "Schneeüberhang an der Traufe",
-    "Galloping",
-    "Raueisfahne",
-    "Querverteilung von Decken"
-   ],
-   "answer": 1,
-   "explanation": "Zu den dynamischen Effekten zählen wirbelerregte Querschwingungen und aeroelastische Phänomene wie böenerregte Schwingungen, Flattern, Divergenz und Galloping."
-  },
-  {
-   "id": 102,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "In welcher Reihenfolge wird die charakteristische Schneelast auf dem Dach bestimmt?",
-   "options": [
-    "Formbeiwert → Windzone → Schneelast auf dem Boden",
-    "Schneelastzone → charakteristische Schneelast sk → Formbeiwert µ nach Dachform",
-    "Böengeschwindigkeitsdruck → Windprofil → Schneelast",
-    "Wichte → Höhe → Flächenlast"
-   ],
-   "answer": 1,
-   "explanation": "Der Weg führt von der Schneelastzone über die charakteristische Schneelast sk und den Formbeiwert µ nach Dachform zur Schneelast auf dem Dach."
-  },
-  {
-   "id": 103,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Wie wird die charakteristische Schneelast auf dem Dach si berechnet?",
-   "options": [
-    "si = µ · sk",
-    "si = sk / µ",
-    "si = qp · c",
-    "si = µ + sk"
-   ],
-   "answer": 0,
-   "explanation": "Die charakteristische Schneelast auf dem Dach ergibt sich als si = µ · sk (Formbeiwert mal charakteristische Schneelast)."
-  },
-  {
-   "id": 104,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Was ist die Besonderheit beim Schneeüberhang an der Traufe?",
-   "options": [
-    "Der Schnee sammelt sich unten an der Traufe und hat dort eine größere Last als der restliche Dachschnee",
-    "Der Schnee wird vollständig vom Dach geweht",
-    "Es entsteht kein zusätzlicher Lastansatz",
-    "Der Formbeiwert wird zu Null"
-   ],
-   "answer": 0,
-   "explanation": "Beim Schneeüberhang sammelt sich Schnee unten an der Traufe und erzeugt dort eine größere Last als der restliche Schnee auf dem Dach."
-  },
-  {
-   "id": 105,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Warum müssen bei Dächern mit großen Grundrissabmessungen besondere Formbeiwerte berücksichtigt werden?",
-   "options": [
-    "Weil der Schnee nicht in dem Maße vom Dach heruntergeweht werden kann wie bei kleinen Dächern",
-    "Weil der Wind stärker angreift",
-    "Weil die Wichte des Schnees größer ist",
-    "Weil die Dachneigung stets über 30° liegt"
-   ],
-   "answer": 0,
-   "explanation": "Bei großen Grundrissabmessungen (Dachneigung bis 30°, kleinste Abmessung über 50 m) kann der Schnee nicht wie bei kleinen Dächern heruntergeweht werden."
-  },
-  {
-   "id": 106,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Beispiele nennt die Zusammenfassung für außergewöhnliche Einwirkungen?",
-   "options": [
-    "Nutzlasten und Schneelasten",
-    "Bauwerksanprall, Innenraum-/Staubexplosion und Erdbeben",
-    "Eigengewicht und Wind",
-    "Verkehrslasten auf Decken"
-   ],
-   "answer": 1,
-   "explanation": "Außergewöhnliche Einwirkungen sind Extremereignisse wie Bauwerksanprall, Innenraum- und Staubexplosionen sowie Erdbeben."
-  },
-  {
-   "id": 107,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Wie ist der Ansatz außergewöhnlicher Einwirkungen aufgrund der großen Unsicherheit zu wählen?",
-   "options": [
-    "Möglichst gering",
-    "Eher vorsichtig",
-    "Immer entlastend",
-    "Gar nicht"
-   ],
-   "answer": 1,
-   "explanation": "Wegen der großen Unsicherheit bei außergewöhnlichen Einwirkungen (Extremereignisse) ist der Ansatz eher vorsichtig zu wählen."
-  },
-  {
-   "id": 108,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welches Ziel verfolgt die Bemessung eines Tragwerks grundsätzlich?",
-   "options": [
-    "Sicherstellung der Tragfähigkeit und Gebrauchstauglichkeit",
-    "Erreichen von 100% Sicherheit",
-    "Minimierung des Eigengewichts",
-    "Maximierung der Windlast"
-   ],
-   "answer": 0,
-   "explanation": "Die Bemessung dient der Sicherstellung von Tragfähigkeit und Gebrauchstauglichkeit."
-  },
-  {
-   "id": 109,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Warum wird bei der Bemessung keine 100%ige Sicherheit angestrebt?",
-   "options": [
-    "Weil sie technisch nicht messbar ist",
-    "Weil sie nicht wirtschaftlich möglich ist; man hält die Versagenswahrscheinlichkeit minimal",
-    "Weil Einwirkungen konstant sind",
-    "Weil Baustoffe keine Streuung aufweisen"
-   ],
-   "answer": 1,
-   "explanation": "Eine 100%ige Sicherheit ist nicht wirtschaftlich möglich, daher versucht man, die Versagenswahrscheinlichkeit minimal zu halten (Zuverlässigkeit)."
-  },
-  {
-   "id": 110,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Was bezeichnet die Beanspruchung 'E' (effect) im Sicherheitskonzept?",
-   "options": [
-    "Den Tragwiderstand des Tragwerks",
-    "Die Auswirkung einer oder mehrerer Einwirkungen",
-    "Das Eigengewicht der Konstruktion",
-    "Den Formbeiwert des Daches"
-   ],
-   "answer": 1,
-   "explanation": "Die Beanspruchung E (effect) ist die Auswirkung einer oder mehrerer Einwirkungen."
-  },
-  {
-   "id": 111,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Was beschreibt die Beanspruchbarkeit 'R' (resistance)?",
-   "options": [
-    "Die Auswirkung der Einwirkungen",
-    "Den Tragwiderstand, also die Fähigkeit des Tragwerks, Beanspruchungen standzuhalten",
-    "Die Kraft F der Einwirkung",
-    "Die Streuung des Baustoffs"
-   ],
-   "answer": 1,
-   "explanation": "Die Beanspruchbarkeit R (resistance) ist der Tragwiderstand, also die Fähigkeit des Tragwerks, einwirkenden Beanspruchungen standzuhalten."
-  },
-  {
-   "id": 112,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Worauf bezieht sich die zentrale Sicherheit in der Sicherheitstheorie?",
-   "options": [
-    "Auf den Mittelwert, ohne Berücksichtigung der Streuung",
-    "Auf den Fraktilwert, mit Erfassung der Streuung",
-    "Auf den Sicherheitsindex β",
-    "Auf den Formbeiwert µ"
+    "Zentrale Sicherheit",
+    "Nennsicherheit",
+    "Teilsicherheit",
+    "Grenzsicherheit"
    ],
    "answer": 0,
    "explanation": "Die zentrale Sicherheit bezieht sich auf den Mittelwert und berücksichtigt keine Streuung."
   },
   {
-   "id": 113,
+   "id": 95,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Worauf bezieht sich die Nennsicherheit im Gegensatz zur zentralen Sicherheit?",
+   "q": "Welche Sicherheitstheorie bezieht sich auf den Fraktilwert und erfasst die Streuung?",
    "options": [
-    "Auf den Mittelwert",
-    "Auf den Fraktilwert, der die Streuung erfasst",
-    "Auf das Eigengewicht",
-    "Auf die Windzone"
-   ],
-   "answer": 1,
-   "explanation": "Die Nennsicherheit bezieht sich auf den Fraktilwert und erfasst damit die Streuung; der Fraktilwert ist die Grenze, die in x% der Fälle nicht überschritten wird."
-  },
-  {
-   "id": 114,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Was ist der Sicherheitsindex β?",
-   "options": [
-    "Ein Maß für die Versagenswahrscheinlichkeit aus der Streuung von Beanspruchung und Beanspruchbarkeit",
-    "Der Formbeiwert der Dachform",
-    "Das Verhältnis von Gewichtskraft zu Volumen",
-    "Der aerodynamische Beiwert"
+    "Nennsicherheit",
+    "Zentrale Sicherheit",
+    "Charakteristische Sicherheit",
+    "Mittelwertsicherheit"
    ],
    "answer": 0,
-   "explanation": "β ist der Sicherheitsindex, ein Maß für die Versagenswahrscheinlichkeit, das die Streuung auf Beanspruchung und Beanspruchbarkeit erfasst."
+   "explanation": "Die Nennsicherheit bezieht sich auf den Fraktilwert und erfasst die Streuung."
   },
   {
-   "id": 115,
+   "id": 96,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Grundlage haben die einheitlichen europäischen Bemessungsregeln?",
+   "q": "Was bezeichnen 'Charakteristische Werte' laut Text?",
    "options": [
-    "Die Eurocodes (EC)",
-    "Die Schneelastzonen",
-    "Die Windzonenkarte",
-    "Die Wichtetabellen"
+    "Bezugswerte zu einem Wert der Einwirkung mit bestimmter Wahrscheinlichkeit (z.B. 50-Jahres-Wind)",
+    "Kombinationsbeiwerte für Bemessungssituationen",
+    "Teilsicherheitsbeiwerte zur Kompensation von Streuung",
+    "Mittelwerte ohne Berücksichtigung der Streuung"
    ],
    "answer": 0,
-   "explanation": "Grundlage der einheitlichen europäischen Bemessungsregeln sind die Eurocodes (EC)."
+   "explanation": "Charakteristische Werte sind Bezugswerte zu einem Wert der Einwirkung mit bestimmter Wahrscheinlichkeit, z.B. der 50-Jahres-Wind."
   },
   {
-   "id": 116,
+   "id": 97,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Was drückt eine CE-/Ü-Kennzeichnung aus?",
+   "q": "Was ist die Grundlage der einheitlichen europäischen Bemessungsregeln?",
    "options": [
-    "Dass ein Bauteil windschlüpfrig ist",
-    "Dass alle relevanten Vorschriften eingehalten werden",
-    "Dass das Material eine hohe Wichte hat",
-    "Dass eine außergewöhnliche Einwirkung vorliegt"
-   ],
-   "answer": 1,
-   "explanation": "Die CE-/Ü-Kennzeichnung besagt, dass alle relevanten Vorschriften eingehalten werden."
-  },
-  {
-   "id": 117,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Was sind charakteristische Werte im Bemessungskonzept nach Grenzzuständen?",
-   "options": [
-    "Sicherheitsindizes ohne physikalische Bedeutung",
-    "Bezugswerte einer Einwirkung (z.B. 50-Jahres-Wind) mit bestimmter Wahrscheinlichkeit",
-    "Reine Mittelwerte ohne Streuung",
-    "Entlastende Einwirkungen"
-   ],
-   "answer": 1,
-   "explanation": "Charakteristische Werte sind Bezugswerte einer Einwirkung (z.B. 50-Jahres-Wind), die eine bestimmte Wahrscheinlichkeit besitzen."
-  },
-  {
-   "id": 118,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Funktion haben Teilsicherheitsbeiwerte im Eurocode-Konzept?",
-   "options": [
-    "Sie geben die Wichte des Materials an",
-    "Sie kompensieren Unsicherheiten bzw. die Streuung",
-    "Sie bestimmen die Dachform",
-    "Sie legen die Windzone fest"
-   ],
-   "answer": 1,
-   "explanation": "Teilsicherheitsbeiwerte kompensieren Unsicherheiten (Streuung) und werden mit charakteristischen Werten kombiniert."
-  },
-  {
-   "id": 119,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche drei Bemessungssituationen unterscheidet der Grenzzustand der Tragfähigkeit (GZT)?",
-   "options": [
-    "Selten, häufig, quasi-ständig",
-    "Ständig, vorübergehend, außergewöhnlich",
-    "Zentral, nenn-, charakteristisch",
-    "Günstig, ungünstig, neutral"
-   ],
-   "answer": 1,
-   "explanation": "Der GZT unterscheidet die ständige (übliche Nutzung), vorübergehende (zeitlich begrenzt) und außergewöhnliche (Extremsituation) Bemessungssituation."
-  },
-  {
-   "id": 120,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Bemessungssituationen werden beim Grenzzustand der Gebrauchstauglichkeit (GZG) unterschieden?",
-   "options": [
-    "Ständig, vorübergehend, außergewöhnlich",
-    "Seltene, häufige und quasi-ständige Bemessungssituation",
-    "Zentral und Nennsicherheit",
-    "Günstig und ungünstig"
-   ],
-   "answer": 1,
-   "explanation": "Der GZG unterscheidet die seltene (bleibende Auswirkungen), häufige (vorübergehende Auswirkungen) und quasi-ständige (Langzeitauswirkungen) Bemessungssituation."
-  },
-  {
-   "id": 121,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "Welche Auswirkung hat die seltene Bemessungssituation im GZG?",
-   "options": [
-    "Sie führt zu bleibenden Auswirkungen",
-    "Sie führt zu vorübergehenden Auswirkungen",
-    "Sie führt zu Langzeitauswirkungen",
-    "Sie führt zu keinen Auswirkungen"
+    "Eurocodes (EC)",
+    "CE-Kennzeichnung",
+    "Produktnormen der Hersteller",
+    "Allgemeine bauaufsichtliche Zulassung"
    ],
    "answer": 0,
-   "explanation": "Die seltene Bemessungssituation führt zu bleibenden Auswirkungen, die häufige zu vorübergehenden und die quasi-ständige zu Langzeitauswirkungen."
+   "explanation": "Die Eurocodes (EC) sind Grundlage einheitlicher Bemessungsregeln."
   },
   {
-   "id": 122,
+   "id": 98,
    "topic": "Einwirkungen & Bemessung",
-   "q": "Was ist bei den Bemessungswerten im GZT hinsichtlich der Wirkung von Einwirkungen zu beachten?",
+   "q": "Welche Aufgabe haben Teilsicherheitsbeiwerte laut Text?",
    "options": [
-    "Nur ungünstige Wirkungen zählen immer",
-    "Die Wirkung (günstig/ungünstig) muss beachtet werden",
-    "Alle Einwirkungen wirken stets günstig",
-    "Die Wirkung ist irrelevant"
-   ],
-   "answer": 1,
-   "explanation": "Bei den Bemessungswerten zum GZT ist die Wirkung der Einwirkungen als günstig oder ungünstig zu beachten."
-  },
-  {
-   "id": 123,
-   "topic": "Einwirkungen & Bemessung",
-   "q": "In welchem Zusammenhang treten Kombinationsbeiwerte auf?",
-   "options": [
-    "Sie treten immer in Kombination mit den Einwirkungen auf",
-    "Sie ersetzen die charakteristischen Werte",
-    "Sie werden nur bei ständigen Einwirkungen genutzt",
-    "Sie sind identisch mit dem Sicherheitsindex β"
+    "Sie kompensieren Unsicherheiten (Streuung)",
+    "Sie beschreiben die Windschlüpfrigkeit",
+    "Sie legen die Dachform fest",
+    "Sie definieren den Böengeschwindigkeitsdruck"
    ],
    "answer": 0,
-   "explanation": "Kombinationsbeiwerte treten immer in Kombination mit den Einwirkungen auf."
+   "explanation": "Teilsicherheitsbeiwerte kompensieren Unsicherheiten bzw. Streuung."
   },
   {
-   "id": 124,
+   "id": 99,
+   "topic": "Einwirkungen & Bemessung",
+   "q": "Wie heißt der Beiwert, der den Wind-Innendruck bei durchlässigen Außenwänden beschreibt?",
+   "options": [
+    "Innendruckbeiwert cpi",
+    "Außendruckbeiwert cpe",
+    "Formbeiwert µ",
+    "Kraftbeiwert cf"
+   ],
+   "answer": 0,
+   "explanation": "Der Innendruckbeiwert cpi beschreibt den Wandinnendruck und hängt von Größe und Verteilung der Öffnungen ab."
+  },
+  {
+   "id": 100,
    "topic": "Flachdach",
-   "q": "Ab welcher Dachneigung spricht man laut Zusammenfassung von einem Flachdach?",
+   "q": "Ab welcher Dachneigung spricht man laut Zusammenfassung von einer Flachdachfläche?",
    "options": [
-    "Bei Dachflächen mit Neigung unter 5°",
-    "Bei Dachflächen mit Neigung unter 15°",
-    "Bei Dachflächen mit Neigung genau 0°",
-    "Bei Dachflächen mit Neigung über 5°"
+    "Bei einer Neigung kleiner als 5°",
+    "Bei einer Neigung kleiner als 15°",
+    "Bei einer Neigung größer als 30°",
+    "Bei einer Neigung von genau 45°"
    ],
    "answer": 0,
-   "explanation": "Als Flachdächer gelten Dachflächen mit einer Neigung von weniger als 5°."
+   "explanation": "Flachdächer sind Dachflächen mit einer Neigung von weniger als 5°."
   },
   {
-   "id": 125,
+   "id": 101,
    "topic": "Flachdach",
-   "q": "Wodurch wird beim Flachdach die geneigte Dachdeckung ersetzt?",
+   "q": "Wodurch wird beim Flachdach die Dachdeckung ersetzt?",
    "options": [
     "Durch eine Dachabdichtung mit Gefälle",
-    "Durch eine Ziegeleindeckung ohne Gefälle",
-    "Durch eine reine Wärmedämmschicht",
-    "Durch eine offene Kiesschüttung ohne Abdichtung"
+    "Durch eine Kiesschüttung ohne Gefälle",
+    "Durch eine Wärmedämmschicht",
+    "Durch eine tragende Betonplatte"
    ],
    "answer": 0,
-   "explanation": "Statt einer Dachdeckung erhält das Flachdach eine Dachabdichtung mit Gefälle."
+   "explanation": "Statt einer Dachdeckung wird beim Flachdach eine Dachabdichtung mit Gefälle ausgeführt."
   },
   {
-   "id": 126,
+   "id": 102,
    "topic": "Flachdach",
-   "q": "Welche der genannten Kategorien von Flachdachflächen ist korrekt beschrieben?",
+   "q": "Welche Bezeichnung trägt die einschalige, nicht belüftete Flachdach-Ausführung?",
    "options": [
-    "Nicht genutzte Flachdachflächen dienen nur Wartungsarbeiten",
-    "Nicht genutzte Flachdachflächen sind für Fahrzeugverkehr vorgesehen",
-    "Genutzte Dachflächen dürfen nur zur Wartung betreten werden",
-    "Intensiv begrünte Dachflächen dienen ausschließlich der Wartung"
+    "Warmdach",
+    "Kaltdach",
+    "Gründach",
+    "Pultdach"
    ],
    "answer": 0,
-   "explanation": "Nicht genutzte Flachdachflächen werden nur für Wartungsarbeiten betreten."
+   "explanation": "Die einschalige, nicht belüftete Ausführung wird als 'Warmdach' bezeichnet."
   },
   {
-   "id": 127,
+   "id": 103,
    "topic": "Flachdach",
-   "q": "Welches Bauprinzip beschreibt das einschalige, nicht belüftete Flachdach ('Warmdach')?",
+   "q": "Welche Bezeichnung trägt die zweischalige, belüftete Flachdach-Ausführung?",
+   "options": [
+    "Kaltdach",
+    "Warmdach",
+    "Verbunddach",
+    "Massivdach"
+   ],
+   "answer": 0,
+   "explanation": "Die zweischalige, belüftete Ausführung mit trennendem Luftraum wird als 'Kaltdach' bezeichnet."
+  },
+  {
+   "id": 104,
+   "topic": "Flachdach",
+   "q": "Was ist charakteristisch für das einschalige Warmdach?",
    "options": [
     "Tragende Konstruktion und Dachabdichtung bilden ein Verbundelement, das sich aufwärmt",
-    "Wärmedämmung und Dachabdichtung sind durch einen Luftraum getrennt",
-    "Die Dachschale bleibt durch Belüftung kalt",
-    "Es besteht ausschließlich aus einer losen Kiesschüttung"
+    "Wärmedämmung und Abdichtung sind durch einen Luftraum getrennt",
+    "Die Dachschale bleibt dauerhaft kalt",
+    "Es besitzt keine Dachabdichtung"
    ],
    "answer": 0,
    "explanation": "Beim Warmdach bilden tragende Konstruktion und Dachabdichtung ein Verbundelement, das sich aufwärmt."
   },
   {
-   "id": 128,
+   "id": 105,
    "topic": "Flachdach",
-   "q": "Was kennzeichnet das zweischalige, belüftete Flachdach ('Kaltdach')?",
+   "q": "Wodurch bleibt beim Kaltdach die Dachschale kalt?",
    "options": [
-    "Wärmedämmung und Dachabdichtung sind durch einen Luftraum getrennt, die Dachschale bleibt kalt",
-    "Tragende Konstruktion und Abdichtung bilden ein aufheizendes Verbundelement",
-    "Es besitzt keinerlei Wärmedämmung",
-    "Die Abdichtung liegt direkt auf der tragenden Konstruktion auf"
+    "Wärmedämmung und Dachabdichtung sind durch einen Luftraum voneinander getrennt",
+    "Die Abdichtung wird verklebt",
+    "Eine Kiesschüttung dient als Auflast",
+    "Die tragende Konstruktion bildet ein Verbundelement"
    ],
    "answer": 0,
    "explanation": "Beim Kaltdach trennt ein Luftraum Wärmedämmung und Dachabdichtung, sodass die Dachschale kalt bleibt."
   },
   {
-   "id": 129,
+   "id": 106,
    "topic": "Flachdach",
-   "q": "Welches Mindestgefälle wird bei Flachdächern nach der Flachdachrichtlinie genannt?",
+   "q": "Welche Aussage zum Gefälle beim Flachdach ist laut Zusammenfassung korrekt?",
    "options": [
-    "Mindestens 2%",
-    "Mindestens 5%",
-    "Mindestens 0,5%",
-    "Mindestens 10%"
+    "Ein Gefälle ist nötig, damit das Wasser Richtung Entwässerungselemente abläuft",
+    "Ein Gefälle wird beim Flachdach grundsätzlich vermieden",
+    "Das Gefälle muss von den Entwässerungselementen weg zeigen",
+    "Ein Gefälle ist nur bei Gründächern erforderlich"
    ],
    "answer": 0,
-   "explanation": "Bei Flachdächern wird nach der Flachdachrichtlinie ein Gefälle von mindestens 2% gefordert."
+   "explanation": "Das Gefälle muss immer Richtung Entwässerungselemente zeigen, damit das Wasser ablaufen kann."
   },
   {
-   "id": 130,
+   "id": 107,
    "topic": "Flachdach",
-   "q": "Gegen welche Windwirkung muss ein Flachdachaufbau besonders gesichert werden?",
+   "q": "Gegen welche Windwirkung muss der Flachdachaufbau gesichert werden?",
    "options": [
     "Gegen Abheben durch Sogwirkung des Windes",
-    "Gegen Zusammendrücken durch Winddruck",
-    "Gegen seitliches Verschieben durch Auftrieb",
-    "Gegen Vereisung durch Windkühlung"
+    "Gegen seitliches Verschieben durch Druckwirkung",
+    "Gegen Durchbiegung durch Winddruck",
+    "Gegen Verdrehung durch Wirbelwind"
    ],
    "answer": 0,
    "explanation": "Der Flachdachaufbau muss gegen das Abheben durch die Sogwirkung des Windes gesichert werden."
   },
   {
-   "id": 131,
+   "id": 108,
    "topic": "Flachdach",
-   "q": "Welche Sicherung gegen Windsog nutzt eine Auflast?",
+   "q": "Welche der folgenden ist KEINE genannte Sicherungsart gegen Windsog?",
    "options": [
-    "Lose verlegte Dachabdichtung, beschwert z.B. durch Kiesschüttung oder Substrat",
-    "Verkleben der Abdichtung mit dem Untergrund",
-    "Mechanische Befestigung mit Dübeln oder Schrauben",
-    "Vollflächiges Verschweißen der Bahnen"
+    "Sicherung durch Aufständerung",
+    "Sicherung durch Auflast",
+    "Sicherung durch Verkleben",
+    "Sicherung durch mechanische Befestigung"
    ],
    "answer": 0,
-   "explanation": "Bei der Auflast wird die lose verlegte Dachabdichtung z.B. durch Kiesschüttung oder Substrat beschwert."
+   "explanation": "Genannt werden Auflast, Verkleben und mechanische Befestigung; eine 'Aufständerung' wird nicht als Sicherungsart aufgeführt."
+  },
+  {
+   "id": 109,
+   "topic": "Flachdach",
+   "q": "Womit wird bei der mechanischen Befestigung die Dachabdichtung auf geeignetem Untergrund fixiert?",
+   "options": [
+    "Mit Dübeln oder Schrauben",
+    "Mit Kiesschüttung",
+    "Mit Klebstoff",
+    "Mit Substrat"
+   ],
+   "answer": 0,
+   "explanation": "Die mechanische Befestigung erfolgt auf geeignetem Untergrund (z.B. Holz, Profilblech) mit Dübeln oder Schrauben."
+  },
+  {
+   "id": 110,
+   "topic": "Flachdach",
+   "q": "Wie wird bei der Sicherung durch Auflast die lose verlegte Dachabdichtung beschwert?",
+   "options": [
+    "Durch Kiesschüttung oder Substrat",
+    "Durch Verkleben mit dem Untergrund",
+    "Durch Dübel und Schrauben",
+    "Durch einen belüfteten Luftraum"
+   ],
+   "answer": 0,
+   "explanation": "Bei der Auflast wird die lose verlegte Dachabdichtung z.B. durch Kiesschüttung oder Substrat gegen Abheben gesichert."
+  },
+  {
+   "id": 111,
+   "topic": "Flachdach",
+   "q": "Welche Funktion haben Entwässerungselemente bei der Innenentwässerung?",
+   "options": [
+    "Sie leiten das Wasser über Rohre durch den Innenraum und anschließend nach draußen",
+    "Sie speichern das Wasser für die Dachbegrünung",
+    "Sie belüften den Zwischenraum des Kaltdachs",
+    "Sie dienen als Auflast gegen Windsog"
+   ],
+   "answer": 0,
+   "explanation": "Bei der Innenentwässerung leiten die Elemente das Wasser über Rohre durch den Innenraum des Gebäudes und dann nach draußen."
+  },
+  {
+   "id": 112,
+   "topic": "Flachdach",
+   "q": "Welche Kategorie von Flachdachflächen wird in der Zusammenfassung genannt?",
+   "options": [
+    "Intensiv begrünte Dachflächen",
+    "Symmetrisch geneigte Dachflächen",
+    "Freitragende Dachflächen",
+    "Vorgehängte Dachflächen"
+   ],
+   "answer": 0,
+   "explanation": "Genannte Kategorien sind nicht genutzte, genutzte und intensiv begrünte Dachflächen."
+  },
+  {
+   "id": 113,
+   "topic": "Flachdach",
+   "q": "Welche der folgenden Beanspruchungen des Flachdachs wird in der Zusammenfassung aufgeführt?",
+   "options": [
+    "Thermische Beanspruchung",
+    "Akustische Beanspruchung",
+    "Elektrische Beanspruchung",
+    "Chemische Korrosionsbeanspruchung"
+   ],
+   "answer": 0,
+   "explanation": "Aufgeführt werden Feuchtigkeit, mechanische, thermische und 'Umweltbeanspruchung'."
+  },
+  {
+   "id": 114,
+   "topic": "Treppen",
+   "q": "Was bezeichnet der Begriff \"Treppenpodest\"?",
+   "options": [
+    "Absatz am Anfang oder Ende eines Treppenlaufs",
+    "Absatz zwischen zwei Treppenläufen",
+    "Der von Treppen umschlossene freie Raum",
+    "Das seitlich tragende Bauteil eines Treppenlaufs"
+   ],
+   "answer": 0,
+   "explanation": "Ein Treppenpodest ist laut Text der Absatz am Anfang oder Ende eines Treppenlaufs."
+  },
+  {
+   "id": 115,
+   "topic": "Treppen",
+   "q": "Was ist ein \"Zwischenpodest\"?",
+   "options": [
+    "Absatz am Anfang eines Treppenlaufs",
+    "Absatz zwischen zwei Treppenläufen, zwischen den Geschossdecken",
+    "Die unterste Stufe eines Treppenlaufs",
+    "Grifsicheres Bauteil als Gehhilfe"
+   ],
+   "answer": 1,
+   "explanation": "Das Zwischenpodest ist der Absatz zwischen zwei Treppenläufen, zwischen den Geschossdecken."
+  },
+  {
+   "id": 116,
+   "topic": "Treppen",
+   "q": "Aus welchen zwei Bestandteilen besteht eine Treppenstufe?",
+   "options": [
+    "Wange und Handlauf",
+    "Podest und Auge",
+    "Steigung und Auftritt",
+    "An- und Austrittsstufe"
+   ],
+   "answer": 2,
+   "explanation": "Laut Text besteht eine Treppenstufe aus Steigung und Auftritt und wird zum Überwinden von Höhenunterschieden mit einem Schritt begangen."
+  },
+  {
+   "id": 117,
+   "topic": "Treppen",
+   "q": "Wie wird die unterste bzw. oberste Stufe eines Treppenlaufs bezeichnet?",
+   "options": [
+    "Zwischenpodest",
+    "Treppenauge",
+    "Treppenwange",
+    "Treppenan-/austrittsstufe"
+   ],
+   "answer": 3,
+   "explanation": "Die Treppenan-/austrittsstufe ist die unterste bzw. oberste Stufe eines Treppenlaufs."
+  },
+  {
+   "id": 118,
+   "topic": "Treppen",
+   "q": "Was bezeichnet der Begriff \"Treppenauge\"?",
+   "options": [
+    "Von Treppen umschlossener, freier Raum",
+    "Absatz zwischen zwei Treppenläufen",
+    "Grifsicheres Bauteil als Gehhilfe",
+    "Absturzsicherung an Treppenläufen"
+   ],
+   "answer": 0,
+   "explanation": "Das Treppenauge ist der von Treppen umschlossene, freie Raum."
+  },
+  {
+   "id": 119,
+   "topic": "Treppen",
+   "q": "Welche Funktion hat ein Treppengeländer?",
+   "options": [
+    "Grifsicheres Bauteil als Gehhilfe für Personen",
+    "Absturzsicherung an Treppenläufen/-podesten",
+    "Seitliches Tragen der Stufen",
+    "Trittschallentkopplung des Treppenlaufs"
+   ],
+   "answer": 1,
+   "explanation": "Das Treppengeländer dient als Absturzsicherung an Treppenläufen und -podesten."
+  },
+  {
+   "id": 120,
+   "topic": "Treppen",
+   "q": "Was ist ein \"Handlauf\"?",
+   "options": [
+    "Absturzsicherung an Treppenläufen",
+    "Von Treppen umschlossener, freier Raum",
+    "Grifsicheres Bauteil -> Gehhilfe für Personen",
+    "Absatz am Ende eines Treppenlaufs"
+   ],
+   "answer": 2,
+   "explanation": "Der Handlauf ist ein grifsicheres Bauteil und dient als Gehhilfe für Personen."
+  },
+  {
+   "id": 121,
+   "topic": "Treppen",
+   "q": "Welche Funktion erfüllt die \"Treppenwange\"?",
+   "options": [
+    "Sie sichert gegen Absturz an Treppenläufen",
+    "Sie trägt die Stufen seitlich und begrenzt den Lauf seitlich",
+    "Sie dient als Gehhilfe für Personen",
+    "Sie entkoppelt den Treppenlauf zum Trittschallschutz"
+   ],
+   "answer": 1,
+   "explanation": "Die Treppenwange trägt die Stufen seitlich und begrenzt den Lauf seitlich."
+  },
+  {
+   "id": 122,
+   "topic": "Treppen",
+   "q": "Welche Rolle spielt die notwendige Treppe im Brandschutz?",
+   "options": [
+    "Sie dient primär der barrierefreien Nutzung",
+    "Sie ist im Brandfall der einzige Fluchtweg zum Verlassen mehrgeschossiger Gebäude",
+    "Sie ersetzt bei flacher Neigung die Rampe",
+    "Sie dient ausschließlich dem Schallschutz"
+   ],
+   "answer": 1,
+   "explanation": "Im Brandfall ist die Treppe der einzige Fluchtweg zum Verlassen mehrgeschossiger Gebäude."
+  },
+  {
+   "id": 123,
+   "topic": "Treppen",
+   "q": "Nach welchem Ordnungsbegriff werden Gebäude im Brandschutz unterteilt?",
+   "options": [
+    "Steigungsverhältnisse",
+    "Treppenwangen",
+    "Gebäudeklassen",
+    "Bewegungsflächen"
+   ],
+   "answer": 2,
+   "explanation": "Der Text nennt die Unterteilung in Gebäudeklassen als Grundlage der Brandschutzanforderungen."
+  },
+  {
+   "id": 124,
+   "topic": "Treppen",
+   "q": "Bis zu welchen Gebäudeklassen ist eine Ausführung ohne eigenen Treppenraum zulässig?",
+   "options": [
+    "Nur GK 1 & 2",
+    "Nur GK 3 & 4",
+    "Alle Gebäudeklassen",
+    "Nur GK 5"
+   ],
+   "answer": 0,
+   "explanation": "Laut Text ist eine Ausführung ohne Treppenraum nur bei GK 1 & 2 zulässig."
+  },
+  {
+   "id": 125,
+   "topic": "Treppen",
+   "q": "Welche Anforderung gilt für innenliegende Treppenräume?",
+   "options": [
+    "Sie dürfen ausschließlich brennbare Baustoffe enthalten",
+    "Sie müssen gegen Raucheintritt gesichert sein",
+    "Sie benötigen kein eigenes Fenster",
+    "Sie dürfen unbeleuchtet bleiben"
+   ],
+   "answer": 1,
+   "explanation": "Innenliegende Treppenräume müssen gegen Raucheintritt gesichert sein und keine brennbaren Baustoffe enthalten."
+  },
+  {
+   "id": 126,
+   "topic": "Treppen",
+   "q": "Welche beiden Arten des Schallschutzes müssen bei Treppen gewährleistet sein?",
+   "options": [
+    "Nur Luftschallschutz",
+    "Nur Trittschallschutz",
+    "Luftschallschutz und Trittschallschutz",
+    "Brandschallschutz und Rauchschallschutz"
+   ],
+   "answer": 2,
+   "explanation": "Sowohl Luftschallschutz als auch Trittschallschutz müssen gewährleistet sein."
+  },
+  {
+   "id": 127,
+   "topic": "Treppen",
+   "q": "Wodurch wird der Luftschallschutz bei Treppen erreicht?",
+   "options": [
+    "Durch Entkoppeln des Treppenlaufs",
+    "Durch die Ausführung der Treppenraumwände",
+    "Durch die Schöck Tronsole",
+    "Durch geschlossene Geländerflächen"
+   ],
+   "answer": 1,
+   "explanation": "Der Luftschallschutz wird durch die Ausführung der Treppenraumwände erreicht."
+  },
+  {
+   "id": 128,
+   "topic": "Treppen",
+   "q": "Wodurch wird der Trittschallschutz bei Treppen erreicht?",
+   "options": [
+    "Durch Entkoppeln des Treppenlaufs (z.B. Schöck Tronsole)",
+    "Durch die Ausführung der Treppenraumwände",
+    "Durch eine ausreichende Beleuchtung",
+    "Durch Rauchabzug im Treppenraum"
+   ],
+   "answer": 0,
+   "explanation": "Der Trittschallschutz wird durch Entkoppeln des Treppenlaufs erreicht, z.B. mit der Schöck Tronsole."
+  },
+  {
+   "id": 129,
+   "topic": "Treppen",
+   "q": "Wodurch ergibt sich das Steigungsverhältnis einer Treppe?",
+   "options": [
+    "Aus der Gebäudeklasse und dem Brandschutz",
+    "Aus der mittleren Schrittlänge des erwachsenen Menschen und der Neigung der begangenen Fläche",
+    "Aus der Treppenlaufbreite und der Handlaufbreite",
+    "Aus dem Quergefälle der Rampe"
+   ],
+   "answer": 1,
+   "explanation": "Das Steigungsverhältnis ergibt sich aus der mittleren Schrittlänge des erwachsenen Menschen und der Neigung der begangenen Fläche (nach DIN-Norm)."
+  },
+  {
+   "id": 130,
+   "topic": "Treppen",
+   "q": "Wozu dient eine Rampe im Bauwesen?",
+   "options": [
+    "Als Absturzsicherung an Treppenläufen",
+    "Als seitliche Begrenzung des Treppenlaufs",
+    "Als Verbindung zwischen verschiedenen Ebenen",
+    "Als Rauchabzug im Treppenraum"
+   ],
+   "answer": 2,
+   "explanation": "Eine Rampe ist eine Verbindung zwischen verschiedenen Ebenen und kann bei flacher Neigung notwendige Treppen ersetzen."
+  },
+  {
+   "id": 131,
+   "topic": "Treppen",
+   "q": "Für welche Zwecke sind Rampen laut Text erforderlich?",
+   "options": [
+    "Für den Brandschutz und Rauchabzug",
+    "Für barrierefreie Nutzung und KFZ-Verkehrswege",
+    "Für den Trittschallschutz",
+    "Für die Sicherung gegen Überklettern"
+   ],
+   "answer": 1,
+   "explanation": "Rampen sind z.B. für barrierefreie Nutzung und KFZ-Verkehrswege erforderlich."
   },
   {
    "id": 132,
-   "topic": "Flachdach",
-   "q": "Worauf muss laut Zusammenfassung eine mechanische Befestigung der Abdichtung erfolgen?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welche zwei Ursprungsprinzipien von Fassadenkonstruktionen nennt der Text?",
    "options": [
-    "Auf einem geeigneten Untergrund wie Holz oder Profilblech",
-    "Ausschließlich auf loser Kiesschüttung",
-    "Nur auf begrünten Substratschichten",
-    "Auf jedem beliebigen Untergrund ohne Einschränkung"
+    "Fachwerk und Skelettbau",
+    "Lochfassade und Vorhangfassade",
+    "Massive ortsfeste Wandkonstruktionen und elementierte Fassaden in Form von Zelten",
+    "Pfosten-Riegel-Fassade und Isolierverglasung"
    ],
-   "answer": 0,
-   "explanation": "Die mechanische Befestigung mit Dübeln oder Schrauben erfolgt auf einem geeigneten Untergrund wie Holz oder Profilblech."
+   "answer": 2,
+   "explanation": "Historisch entstanden zwei Ursprungsprinzipien: massive, ortsfeste, dauerhafte Wandkonstruktionen sowie elementierte Fassaden in Zeltform (flexibel, mobil)."
   },
   {
    "id": 133,
-   "topic": "Flachdach",
-   "q": "Womit wird die Abdichtung bei der mechanischen Befestigung fixiert?",
+   "topic": "Fenster & Fassaden",
+   "q": "Wozu dienten Öffnungen in Wänden dem Text zufolge zunächst?",
    "options": [
-    "Mit Dübeln oder Schrauben",
-    "Mit Bitumenkleber",
-    "Mit einer Kiesauflast",
-    "Mit Kaltselbstklebebahnen"
+    "Zur Belichtung mit Tageslicht",
+    "Als Fluchtweg",
+    "Zur Belüftung im Sommer",
+    "Als Rauchabzug"
    ],
-   "answer": 0,
-   "explanation": "Bei der mechanischen Befestigung wird die Abdichtung mit Dübeln oder Schrauben gesichert."
+   "answer": 3,
+   "explanation": "Öffnungen verbesserten die Funktion des Gebäudes und dienten zunächst als Rauchabzug."
   },
   {
    "id": 134,
-   "topic": "Flachdach",
-   "q": "Was ist charakteristisch für die Innenentwässerung eines Flachdachs?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welche verglaste Öffnungen entstanden laut Text in der Gotik?",
    "options": [
-    "Das Wasser wird über Rohre durch den Innenraum des Gebäudes und dann nach draußen geleitet",
-    "Das Wasser läuft ausschließlich über die Außenfassade ab",
-    "Das Wasser versickert direkt auf der Dachfläche",
-    "Das Wasser wird über eine offene Dachrinne am Traufrand abgeführt"
+    "Kastenfenster",
+    "Große verglaste Öffnungen (Kirchenfenster)",
+    "Isolierverglasungen",
+    "Vollverglaste Vorhangfassaden"
    ],
-   "answer": 0,
-   "explanation": "Bei der Innenentwässerung leiten Entwässerungselemente das Wasser über Rohre durch den Innenraum und anschließend nach draußen."
+   "answer": 1,
+   "explanation": "In der Gotik entstanden große verglaste Öffnungen in Form von Kirchenfenstern."
   },
   {
    "id": 135,
-   "topic": "Flachdach",
-   "q": "In welche Richtung muss das Gefälle eines Flachdachs zeigen?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welcher Bogen wurde in der Gotik zur Überbrückung von Öffnungen verwendet, weil er die Last besser abtragen kann?",
    "options": [
-    "Immer in Richtung der Entwässerungselemente",
-    "Immer zur höchsten Stelle des Dachs",
-    "Immer parallel zur Traufkante",
-    "In beliebige Richtung, solange 2% eingehalten werden"
+    "Der Korbbogen",
+    "Der Segmentbogen",
+    "Der Spitzbogen",
+    "Der Rundbogen"
    ],
-   "answer": 0,
-   "explanation": "Das Gefälle muss stets in Richtung der Entwässerungselemente zeigen, hergestellt z.B. mit Gefälleestrich."
+   "answer": 2,
+   "explanation": "Zur Überbrückung wurden Bögen genutzt; in der Gotik der Spitzbogen, der die Last besser abtragen kann."
   },
   {
    "id": 136,
-   "topic": "Flachdach",
-   "q": "Womit kann das erforderliche Gefälle zu den Entwässerungselementen hergestellt werden?",
+   "topic": "Fenster & Fassaden",
+   "q": "Woraus bestehen laut Text heutzutage wieder die Stürze über Öffnungen?",
    "options": [
-    "Mit Gefälleestrich oder einem mehrschichtigen Dichtungsaufbau",
-    "Ausschließlich durch Neigen der tragenden Konstruktion",
-    "Nur durch eine lose Kiesschüttung",
-    "Durch Verzicht auf eine Abdichtung"
+    "Aus Ziegelbögen",
+    "Aus Stahl oder Stahlbeton (STB)",
+    "Aus Holz",
+    "Aus Aluminium"
    ],
-   "answer": 0,
-   "explanation": "Das Gefälle zu den Entwässerungselementen kann mittels Gefälleestrich oder mehrschichtigem Dichtungsaufbau erzeugt werden."
+   "answer": 1,
+   "explanation": "Heutzutage werden wieder Stürze aus Stahl oder Stahlbeton (STB) eingesetzt."
   },
   {
    "id": 137,
-   "topic": "Flachdach",
-   "q": "Welche Beanspruchung wird in der Zusammenfassung NICHT als Belastung des Flachdachs genannt?",
+   "topic": "Fenster & Fassaden",
+   "q": "Wodurch ist ein Kastenfenster gekennzeichnet?",
    "options": [
-    "Akustische Beanspruchung",
-    "Feuchtigkeit",
-    "Mechanische Beanspruchung",
-    "Thermische Beanspruchung"
+    "Es ist eine Zwei-/Dreifachverglasung mit Edelgasfüllung",
+    "Es wird mit Silikon auf Aluprofile aufgeklebt",
+    "Die Verglasung besteht aus zwei Schichten mit abdichtender Luftschicht dazwischen",
+    "Es besteht aus einer einzelnen großformatigen Glasscheibe"
    ],
-   "answer": 0,
-   "explanation": "Genannt werden Feuchtigkeit sowie mechanische, thermische und Umweltbeanspruchung, jedoch keine akustische Beanspruchung."
+   "answer": 2,
+   "explanation": "Beim Kastenfenster besteht die Verglasung aus zwei Schichten; die Luftschicht dazwischen dichtet ab und bietet Feuchteausgleich nach außen. Beide Schichten sind separat zu öffnen."
   },
   {
    "id": 138,
-   "topic": "Treppen",
-   "q": "Wodurch unterscheidet sich ein Zwischenpodest von einem Treppenpodest?",
+   "topic": "Fenster & Fassaden",
+   "q": "Als Weiterentwicklung welches Fenstertyps beschreibt der Text die Isolierverglasung?",
    "options": [
-    "Das Zwischenpodest liegt zwischen zwei Treppenläufen, zwischen den Geschossdecken",
-    "Das Zwischenpodest liegt am Anfang oder Ende eines Treppenlaufs",
-    "Das Zwischenpodest ist immer der oberste Absatz eines Gebäudes",
-    "Das Zwischenpodest trägt die Stufen seitlich und begrenzt den Lauf"
+    "Des Kirchenfensters",
+    "Des Fachwerkfensters",
+    "Der Pfosten-Riegel-Fassade",
+    "Des Kastenfensters"
    ],
-   "answer": 0,
-   "explanation": "Ein Zwischenpodest ist ein Absatz zwischen zwei Treppenläufen zwischen den Geschossdecken, während ein Treppenpodest den Absatz am Anfang oder Ende eines Laufs bildet."
+   "answer": 3,
+   "explanation": "Die Isolierverglasung entwickelte sich aus dem Kastenfenster; sie ist eine Zwei-/Dreifachverglasung mit Luft oder Edelgasen im Zwischenraum."
   },
   {
    "id": 139,
-   "topic": "Treppen",
-   "q": "Was ist die Funktion einer Treppenwange?",
+   "topic": "Fenster & Fassaden",
+   "q": "Womit werden bei der Isolierverglasung die Glasprofile auf Alu-/Kunststoffprofile aufgebracht?",
    "options": [
-    "Sie trägt die Stufen seitlich und begrenzt den Lauf seitlich",
-    "Sie dient als grifsicheres Bauteil und Gehhilfe für Personen",
-    "Sie bildet den von der Treppe umschlossenen freien Raum",
-    "Sie ist die unterste bzw. oberste Stufe eines Treppenlaufs"
+    "Mit Anschweißplatten befestigt",
+    "Mit Silikon aufgeklebt",
+    "Mit Dehnungsprofilen verbunden",
+    "Mit Metall-Pressleisten verschraubt"
    ],
-   "answer": 0,
-   "explanation": "Die Treppenwange trägt die Stufen seitlich und begrenzt den Treppenlauf seitlich."
+   "answer": 1,
+   "explanation": "Bei der Isolierverglasung werden die Glasprofile mit Silikon auf Alu-/Kunststoffprofile aufgeklebt."
   },
   {
    "id": 140,
-   "topic": "Treppen",
-   "q": "Worin unterscheiden sich Treppengeländer und Handlauf funktional?",
+   "topic": "Fenster & Fassaden",
+   "q": "Bei welchem Konstruktionstyp wird ein Skelett aus Holzbalken mit Ausfachungen aus Geflecht, Lehm oder Gestein geschlossen?",
    "options": [
-    "Das Geländer dient der Absturzsicherung, der Handlauf ist ein grifsicheres Bauteil als Gehhilfe",
-    "Das Geländer ist die Gehhilfe, der Handlauf sichert gegen Absturz",
-    "Beide dienen ausschließlich der Absturzsicherung von Podesten",
-    "Das Geländer trägt die Stufen, der Handlauf begrenzt den Lauf seitlich"
+    "Pfosten-Riegel-Fassade",
+    "Skelettartige Wandkonstruktion der Nomaden",
+    "Fachwerk",
+    "Kastenfenster"
    ],
-   "answer": 0,
-   "explanation": "Das Treppengeländer ist eine Absturzsicherung an Läufen und Podesten, der Handlauf ein grifsicheres Bauteil als Gehhilfe für Personen."
+   "answer": 2,
+   "explanation": "Beim Fachwerk wird ein Skelett aus Holzbalken mit Ausfachungen (Geflecht, Lehm, Gestein) geschlossen; das Stapeln von Geschossen ist von außen ablesbar."
   },
   {
    "id": 141,
-   "topic": "Treppen",
-   "q": "Welche zentrale Rolle nehmen Treppen im Brandschutz mehrgeschossiger Gebäude ein?",
+   "topic": "Fenster & Fassaden",
+   "q": "Wie beschreibt der Text die Pfosten-Riegel-Fassade sinnbildlich?",
    "options": [
-    "Sie sind im Brandfall der einzige Fluchtweg zum Verlassen des Gebäudes",
-    "Sie dienen im Brandfall vorrangig der Rauchableitung nach außen",
-    "Sie sind im Brandfall gesperrt und dürfen nicht betreten werden",
-    "Sie ersetzen im Brandfall die notwendigen Rampen"
+    "Als Weiterentwicklung des Kastenfensters",
+    "Als Zeltkonstruktion der Nomaden",
+    "Als massive, ortsfeste Wandkonstruktion",
+    "Als eine Art Fachwerk mit Fenstern als Ausfachung"
    ],
-   "answer": 0,
-   "explanation": "Treppen sind im Brandfall der einzige Fluchtweg zum Verlassen mehrgeschossiger Gebäude."
+   "answer": 3,
+   "explanation": "Die Pfosten-Riegel-Fassade besteht aus geschosshohen Pfosten und eingesetzten Riegeln und ist quasi eine Art Fachwerk mit Fenstern als Ausfachung."
   },
   {
    "id": 142,
-   "topic": "Treppen",
-   "q": "Welchen Anforderungen müssen Treppen im Brandschutz grundsätzlich entsprechen?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welchen anderen Namen tragen Pfosten-Riegel-Fassaden laut Text?",
    "options": [
-    "Standhaftigkeits- und Rauchentwicklungsanforderungen",
-    "Nur Anforderungen an die Trittschalldämmung",
-    "Ausschließlich Anforderungen an das Quergefälle",
-    "Nur Anforderungen an die maximale Steigung von 6%"
+    "Massivfassaden",
+    "Fensterfassaden",
+    "Lochfassaden",
+    "Kastenfassaden"
    ],
-   "answer": 0,
-   "explanation": "Treppen müssen im Brandschutz Standhaftigkeits- und Rauchentwicklungsanforderungen entsprechen."
+   "answer": 1,
+   "explanation": "Pfosten-Riegel-Fassaden werden auch Fensterfassaden genannt, weil im Gegensatz zu gerahmten Fenstern die Glasgeometrie frei wählbar ist."
   },
   {
    "id": 143,
-   "topic": "Treppen",
-   "q": "Für welche Gebäudeklassen sind Treppen ohne eigenen Treppenraum zulässig?",
+   "topic": "Fenster & Fassaden",
+   "q": "Woraus bestehen die Grundelemente einer Pfosten-Riegel-Fassade?",
    "options": [
-    "Nur für die Gebäudeklassen 1 und 2",
-    "Für alle Gebäudeklassen ohne Einschränkung",
-    "Nur für innenliegende Treppenräume",
-    "Nur für Gebäude ab sechs Geschossen"
+    "Einbetonierte Ankerschienen und Schwerlastanker",
+    "Zwei Verglasungsschichten mit Luftzwischenraum",
+    "Ausfachungen aus Lehm und Geflecht",
+    "Geschosshohe Pfosten und eingesetzte Riegel"
    ],
-   "answer": 0,
-   "explanation": "Ohne eigenen Treppenraum sind Treppen nur in den Gebäudeklassen 1 und 2 zulässig."
+   "answer": 3,
+   "explanation": "Die Pfosten-Riegel-Fassade besteht aus geschosshohen Pfosten und eingesetzten Riegeln und ermöglicht so vollverglaste Fassaden."
   },
   {
    "id": 144,
-   "topic": "Treppen",
-   "q": "Welche Anforderung gilt für eine notwendige Treppe hinsichtlich Belüftung des Treppenraums?",
+   "topic": "Fenster & Fassaden",
+   "q": "Womit werden bei der Pfosten-Riegel-Fassade die Fenster verbunden und abgedichtet?",
    "options": [
-    "Der Treppenraum muss je Geschoss ein öffenbares Fenster oder einen Rauchabzug besitzen",
-    "Der Treppenraum muss nur im obersten Geschoss ein Fenster besitzen",
-    "Der Treppenraum benötigt keinerlei Belüftungsmöglichkeit",
-    "Der Treppenraum muss durchgehend aus brennbaren Baustoffen bestehen"
+    "Mit Dehnungsprofilen",
+    "Mit einbetonierten Ankerschienen",
+    "Mit Metall-Pressleisten",
+    "Mit Silikon-Verklebung"
    ],
-   "answer": 0,
-   "explanation": "Eine notwendige Treppe muss einen eigenen Treppenraum haben, der je Geschoss ein öffenbares Fenster oder einen Rauchabzug zur Belüftung besitzt."
+   "answer": 2,
+   "explanation": "Die Fenster werden mit Metall-Pressleisten verbunden und abgedichtet."
   },
   {
    "id": 145,
-   "topic": "Treppen",
-   "q": "Welche Anforderung gilt speziell für innenliegende Treppenräume?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welches Bauteil dient bei der Pfosten-Riegel-Fassade dazu, Verformungen durch Längenänderung (z.B. Sonneneinstrahlung) aufzunehmen?",
    "options": [
-    "Sie müssen gegen Raucheintritt gesichert sein und dürfen keine brennbaren Baustoffe enthalten",
-    "Sie dürfen ausschließlich aus brennbaren Baustoffen bestehen",
-    "Sie benötigen weder Sicherung gegen Rauch noch Beleuchtung",
-    "Sie sind nur in den Gebäudeklassen 1 und 2 zulässig"
+    "Ankerplatten",
+    "Anschweißplatten",
+    "Dehnungsprofile",
+    "Pressleisten"
    ],
-   "answer": 0,
-   "explanation": "Innenliegende Treppenräume müssen gegen Raucheintritt gesichert sein und dürfen keine brennbaren Baustoffe enthalten."
+   "answer": 2,
+   "explanation": "Verformungen durch Längenänderung, z.B. durch Sonneneinstrahlung, müssen über Dehnungsprofile aufgenommen werden können."
   },
   {
    "id": 146,
-   "topic": "Treppen",
-   "q": "Wie wird der geforderte Trittschallschutz bei Treppen erreicht?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welche Funktion haben Loslager in Form von Dehnungsfugen bei der Fassade?",
    "options": [
-    "Durch Entkoppeln des Treppenlaufs, z.B. mit einer Schöck Tronsole",
-    "Durch die Ausführung der Treppenraumwände",
-    "Durch das Anbringen eines durchgehenden Handlaufs",
-    "Durch Erhöhung der Standhaftigkeit der Stufen"
+    "Sie tragen die Vertikallasten in das Primärtragwerk ab",
+    "Sie dienen dem sommerlichen Wärmeschutz",
+    "Sie dichten die Verglasung gegen Feuchte ab",
+    "Sie gewährleisten Beweglichkeit der Fassadenanschlüsse und vermeiden Lasten aus Setzungen/Schwinden"
    ],
-   "answer": 0,
-   "explanation": "Der Trittschallschutz wird durch Entkoppeln des Treppenlaufs erreicht (z.B. Schöck Tronsole), während der Luftschallschutz über die Treppenraumwände erfolgt."
+   "answer": 3,
+   "explanation": "Loslager in Form von Dehnungsfugen gewährleisten die Beweglichkeit von Fassadenanschlüssen und vermeiden Lasten aufgrund von Setzungen/Schwinden."
   },
   {
    "id": 147,
-   "topic": "Treppen",
-   "q": "Woraus ergeben sich die Steigungsverhältnisse einer Treppe?",
+   "topic": "Fenster & Fassaden",
+   "q": "Welche Sonnenschutzvariante hilft laut Text wenig gegen Wärmeeintrag durch Sonneneinstrahlung?",
    "options": [
-    "Aus der mittleren Schrittlänge des erwachsenen Menschen und der Neigung der begangenen Fläche",
-    "Ausschließlich aus der Gebäudeklasse des Bauwerks",
-    "Aus den vertikalen und horizontalen Lasten der Treppe",
-    "Aus der Breite des Handlaufs und dem Abstand zu anderen Bauteilen"
+    "Innen angebrachter Sonnenschutz",
+    "Außenliegende Jalousien",
+    "Beschichtete Gläser",
+    "Verglasungsintegrierter Sonnenschutz"
    ],
    "answer": 0,
-   "explanation": "Steigungsverhältnisse ergeben sich aus der mittleren Schrittlänge des erwachsenen Menschen und der Neigung der begangenen Fläche und sind nach DIN-Norm festgelegt."
+   "explanation": "Innen angebrachter Sonnenschutz hilft wenig gegen Wärmeeintrag durch Sonneneinstrahlung; am besten wirken beschichtete Gläser oder außenliegende Sonnenschutzsysteme."
   },
   {
    "id": 148,
-   "topic": "Treppen",
-   "q": "Wann ist an einem Treppenlauf oder -podest ein Geländer als Absturzsicherung erforderlich?",
-   "options": [
-    "Wenn eine mehr als 1 m tiefer liegende Fläche angrenzt",
-    "Nur wenn der Treppenraum innenliegend ist",
-    "Nur in den Gebäudeklassen 1 und 2",
-    "Nur bei Rampen mit einer Steigung über 6%"
-   ],
-   "answer": 0,
-   "explanation": "Ein Geländer als Absturzsicherung ist erforderlich, wenn eine mehr als 1 m tiefer liegende Fläche an den Treppenlauf oder das Podest angrenzt."
-  },
-  {
-   "id": 149,
-   "topic": "Treppen",
-   "q": "Wie müssen Geländer in Gebäuden gesichert werden, in denen mit Kleinkindern zu rechnen ist?",
-   "options": [
-    "Gegen Durchzwängen und Überklettern, z.B. durch geschlossene Geländerflächen",
-    "Ausschließlich durch einen zweiten durchgehenden Handlauf",
-    "Durch Entkopplung des Treppenlaufs mit einer Tronsole",
-    "Durch Erhöhung der Rauchentwicklungsanforderungen"
-   ],
-   "answer": 0,
-   "explanation": "Bei zu erwartenden Kleinkindern müssen Geländer gegen Durchzwängen und Überklettern gesichert werden, etwa durch geschlossene Geländerflächen."
-  },
-  {
-   "id": 150,
-   "topic": "Treppen",
-   "q": "Welche Aussage zu Handläufen an Treppen ist zutreffend?",
-   "options": [
-    "Es muss mindestens auf einer Seite ein grifsicherer Handlauf vorhanden sein, der durchgehend ausgeführt wird",
-    "Ein Handlauf ist nur bei innenliegenden Treppenräumen erforderlich",
-    "Handläufe dürfen an keiner Stelle durchgehend ausgeführt werden",
-    "Ein Handlauf ersetzt bei breiten Treppen das Geländer vollständig"
-   ],
-   "answer": 0,
-   "explanation": "Mindestens auf einer Seite (bei breiten Treppen auf zwei Seiten) muss ein grifsicherer, durchgehend ausgeführter Handlauf vorhanden sein."
-  },
-  {
-   "id": 151,
-   "topic": "Treppen",
-   "q": "Unter welcher Bedingung können Rampen notwendige Treppen ersetzen?",
-   "options": [
-    "Bei flacher Neigung",
-    "Nur wenn sie ein Quergefälle aufweisen",
-    "Nur in den Gebäudeklassen 3 und höher",
-    "Nur wenn sie kürzer als 1,5 m sind"
-   ],
-   "answer": 0,
-   "explanation": "Rampen können bei flacher Neigung notwendige Treppen ersetzen und sind z.B. für barrierefreie Nutzung oder KFZ-Verkehrswege erforderlich."
-  },
-  {
-   "id": 152,
-   "topic": "Treppen",
-   "q": "Welche Anforderung gilt für barrierefreie Rampen bezüglich des Gefälles?",
-   "options": [
-    "Sie dürfen kein Quergefälle haben",
-    "Sie müssen ein Quergefälle von mindestens 6% haben",
-    "Sie dürfen kein Längsgefälle haben",
-    "Sie müssen an jeder Stelle mindestens 1,5 m Gefälle aufweisen"
-   ],
-   "answer": 0,
-   "explanation": "Barrierefreie Rampen dürfen kein Quergefälle haben und ihre Steigung ist auf maximal 6% begrenzt."
-  },
-  {
-   "id": 153,
-   "topic": "Treppen",
-   "q": "Ab welcher Länge ist bei einer barrierefreien Rampe ein Zwischenpodest erforderlich?",
-   "options": [
-    "Ab 6 m Länge, mit mindestens 1,2 m Breite",
-    "Ab 1,5 m Länge, mit mindestens 6 m Breite",
-    "Ab 6% Länge, ohne Breitenvorgabe",
-    "Erst ab mehr als einem Geschoss Höhenunterschied"
-   ],
-   "answer": 0,
-   "explanation": "Bei barrierefreien Rampen ist ab 6 m Länge ein mindestens 1,2 m breites Zwischenpodest erforderlich."
-  },
-  {
-   "id": 154,
-   "topic": "Fenster & Fassaden",
-   "q": "Welche zwei Ursprungsprinzipien der Fassadenkonstruktion werden historisch genannt?",
-   "options": [
-    "Massive, ortsfeste Wandkonstruktionen und elementierte Fassaden (Zelte)",
-    "Lochfassade und Vorhangfassade",
-    "Pfosten-Riegel-Fassade und Riegelfassade",
-    "Kastenfenster und Isolierverglasung"
-   ],
-   "answer": 0,
-   "explanation": "Historisch entstanden massive, ortsfeste, auf Dauerhaftigkeit ausgelegte Wandkonstruktionen und elementierte, flexible Fassaden in Zeltform."
-  },
-  {
-   "id": 155,
-   "topic": "Fenster & Fassaden",
-   "q": "Wofür dienten Öffnungen in Wänden zunächst?",
-   "options": [
-    "Als Rauchabzug",
-    "Für maximalen Lichteinfall",
-    "Als Notausgang",
-    "Zur Belüftung von Kellern"
-   ],
-   "answer": 0,
-   "explanation": "Öffnungen in Wänden dienten zur Verbesserung der Gebäudefunktion und zunächst als Rauchabzug."
-  },
-  {
-   "id": 156,
-   "topic": "Fenster & Fassaden",
-   "q": "Wie werden bei zunehmender Auflösung der massiven Wand die Kräfte an einer Fensteröffnung behandelt?",
-   "options": [
-    "Sie werden an vorgesehenen Stellen konzentriert und 'um das Fenster herum' abgeleitet",
-    "Sie werden gleichmäßig über die gesamte Glasfläche verteilt",
-    "Sie werden vollständig auf die Verglasung übertragen",
-    "Sie werden durch das Fenster hindurch abgetragen"
-   ],
-   "answer": 0,
-   "explanation": "Bei der Auflösung der Wand werden die Kräfte an vorgesehenen Stellen konzentriert und um das Fenster herum abgeleitet."
-  },
-  {
-   "id": 157,
-   "topic": "Fenster & Fassaden",
-   "q": "Womit wurden in der Gotik große Öffnungen überbrückt, um Lasten besser abzutragen?",
-   "options": [
-    "Mit Bögen, in der Gotik dem Spitzbogen",
-    "Mit Stahlträgern",
-    "Mit Stahlbetonstürzen",
-    "Mit Holzbalken als Fachwerk"
-   ],
-   "answer": 0,
-   "explanation": "In der Gotik erfolgte die Überbrückung durch Bögen, konkret den Spitzbogen, der die Last besser abtragen kann."
-  },
-  {
-   "id": 158,
-   "topic": "Fenster & Fassaden",
-   "q": "Was kennzeichnet das Kastenfenster?",
-   "options": [
-    "Verglasung aus zwei Schichten mit abdichtender Luftschicht, beide Schichten separat zu öffnen",
-    "Einfachverglasung mit aufgeklebtem Silikonrahmen",
-    "Dreifachverglasung mit Edelgasfüllung im Zwischenraum",
-    "Verglasung ohne Rahmen, direkt in die Wand eingespannt"
-   ],
-   "answer": 0,
-   "explanation": "Das Kastenfenster besteht aus zwei Verglasungsschichten mit einer abdichtenden Luftschicht, die separat geöffnet werden können."
-  },
-  {
-   "id": 159,
-   "topic": "Fenster & Fassaden",
-   "q": "Wie ist die Isolierverglasung entstanden und aufgebaut?",
-   "options": [
-    "Aus dem Kastenfenster, als Zwei-/Dreifachverglasung mit Luft oder Edelgasen im Zwischenraum",
-    "Aus dem Fachwerk, als einlagige Glasscheibe mit Lehmausfachung",
-    "Aus dem Spitzbogen, als bogenförmig gekrümmtes Glas",
-    "Aus der Pfosten-Riegel-Fassade, als selbsttragendes Glaselement"
-   ],
-   "answer": 0,
-   "explanation": "Die Isolierverglasung entwickelte sich aus dem Kastenfenster und ist eine Zwei-/Dreifachverglasung mit Luft oder Edelgasen im Zwischenraum."
-  },
-  {
-   "id": 160,
-   "topic": "Fenster & Fassaden",
-   "q": "Was geschieht laut Zusammenfassung mit der Tragfunktion, wenn die Wand in Fassade, Dichte-Schicht und tragende Schicht aufgelöst wird?",
-   "options": [
-    "Sie wird auf innenliegende Stützen übertragen",
-    "Sie wird vollständig von der Glasfassade übernommen",
-    "Sie entfällt, da keine Lasten mehr auftreten",
-    "Sie wird auf die Dichte-Schicht verlagert"
-   ],
-   "answer": 0,
-   "explanation": "Bei der Trennung von Hülle und Struktur wird die Tragfunktion auf innenliegende Stützen übertragen."
-  },
-  {
-   "id": 161,
-   "topic": "Fenster & Fassaden",
-   "q": "Welcher Vorteil ergibt sich aus der Auflösung der Wand in Fassade und tragende Schicht hinsichtlich der Belichtung?",
-   "options": [
-    "Mehr Fensterfläche für mehr Lichteinfall und Nutzung natürlichen Tageslichts",
-    "Geringerer Lichteinfall zugunsten besserer Dämmung",
-    "Vollständiger Verzicht auf Fenster",
-    "Ausschließlich künstliche Beleuchtung"
-   ],
-   "answer": 0,
-   "explanation": "Die Auflösung der Wand ermöglicht mehr Fensterfläche für mehr Lichteinfall und die Nutzung von natürlichem Tageslicht."
-  },
-  {
-   "id": 162,
-   "topic": "Fenster & Fassaden",
-   "q": "Wie lässt sich die Pfosten-Riegel-Fassade konstruktiv am ehesten beschreiben?",
-   "options": [
-    "Quasi eine Art Fachwerk mit Fenstern als Ausfachung, aus geschosshohen Pfosten und eingesetzten Riegeln",
-    "Eine massive Lochfassade mit einzelnen gerahmten Fenstern",
-    "Ein reines Kastenfenstersystem ohne tragende Profile",
-    "Eine Wandkonstruktion aus Lehm und Geflecht"
-   ],
-   "answer": 0,
-   "explanation": "Die Pfosten-Riegel-Fassade besteht aus geschosshohen Pfosten und eingesetzten Riegeln und wirkt quasi wie ein Fachwerk mit Fenstern als Ausfachung."
-  },
-  {
-   "id": 163,
-   "topic": "Fenster & Fassaden",
-   "q": "Warum werden Pfosten-Riegel-Fassaden auch Fensterfassaden genannt?",
-   "options": [
-    "Wegen der freien Wahl der Glasgeometrie im Gegensatz zu gerahmten Fenstern",
-    "Weil sie ausschließlich aus fertigen Fensterrahmen bestehen",
-    "Weil sie nur kleinformatige Glasscheiben zulassen",
-    "Weil die Fenster nicht geöffnet werden können"
-   ],
-   "answer": 0,
-   "explanation": "Sie heißen Fensterfassaden, weil im Gegensatz zu gerahmten Fenstern die Glasgeometrie frei gewählt werden kann."
-  },
-  {
-   "id": 164,
-   "topic": "Fenster & Fassaden",
-   "q": "Welche Funktion haben Loslager in Form von Dehnungsfugen bei der Pfosten-Riegel-Fassade?",
-   "options": [
-    "Sie gewährleisten Beweglichkeit der Fassadenanschlüsse und vermeiden Lasten aus Setzungen/Schwinden",
-    "Sie erhöhen die Eigenlast zur Stabilisierung",
-    "Sie dichten die Verglasung gegen Schlagregen ab",
-    "Sie verbessern den sommerlichen Wärmeschutz"
-   ],
-   "answer": 0,
-   "explanation": "Loslager als Dehnungsfugen gewährleisten Beweglichkeit der Fassadenanschlüsse und vermeiden Lasten aufgrund von Setzungen und Schwinden."
-  },
-  {
-   "id": 165,
-   "topic": "Fenster & Fassaden",
-   "q": "Welche Aussage zum sommerlichen Wärmeschutz trifft laut Text zu?",
-   "options": [
-    "Innen angebrachter Sonnenschutz hilft wenig gegen Wärmeeintrag durch Sonneneinstrahlung",
-    "Innenliegende Jalousien sind am wirksamsten gegen Wärmeeintrag",
-    "Sommerlicher Wärmeschutz muss nicht nachgewiesen werden",
-    "Beschichtete Gläser verschlechtern den Wärmeschutz"
-   ],
-   "answer": 0,
-   "explanation": "Innen angebrachter Sonnenschutz hilft wenig gegen den Wärmeeintrag durch Sonneneinstrahlung; besser sind beschichtete Gläser oder außenliegende Systeme."
-  },
-  {
-   "id": 166,
    "topic": "Fenster & Fassaden",
    "q": "Als was gelten Glasfassaden im Brandschutz in der Regel?",
    "options": [
     "Als nicht-tragende Außenwände",
+    "Als aussteifende Bauteile",
     "Als tragende Innenwände",
-    "Als Brandwände zwischen Nutzungseinheiten",
-    "Als tragende Außenwände"
+    "Als raumabschließende Brandwände"
    ],
    "answer": 0,
-   "explanation": "Glasfassaden gelten im Brandschutz in der Regel als nicht-tragende Außenwände."
+   "explanation": "Im Brandschutz gelten Glasfassaden in der Regel als nicht-tragende Außenwände."
   },
   {
-   "id": 167,
+   "id": 149,
    "topic": "Fenster & Fassaden",
-   "q": "Welche Feuerwiderstandsklasse gilt für Glasfassaden bei Gebäudeklassen 1-3?",
+   "q": "Womit werden die Brandschutzanforderungen an Fassaden grundsätzlich erfüllt, während Holzprofile eine Sonderregelung brauchen?",
    "options": [
-    "F30",
-    "F90",
-    "F0",
-    "F120"
+    "Mit Dehnungsprofilen; alle anderen benötigen Einzelzulassung",
+    "Mit Alu-/Stahlprofilen; Holzprofile benötigen eine Einzelzulassung",
+    "Mit Holzprofilen; Alu-/Stahlprofile benötigen eine Einzelzulassung",
+    "Mit Silikonverklebung; Metallprofile benötigen eine Einzelzulassung"
+   ],
+   "answer": 1,
+   "explanation": "Die Brandschutzanforderungen werden grundsätzlich nur mit Alu-/Stahlprofilen erfüllt; Holzprofile benötigen eine Einzelzulassung."
+  },
+  {
+   "id": 150,
+   "topic": "Fenster & Fassaden",
+   "q": "Was wird bei Pfosten-Riegel-Fassaden aus Pfosten und Riegeln laut Tragwerksplanung?",
+   "options": [
+    "Ausschließlich Sonnenschutzelemente",
+    "Tragende Bauteile",
+    "Nicht-tragende Dichtungsprofile",
+    "Reine Zierprofile"
+   ],
+   "answer": 1,
+   "explanation": "In der Tragwerksplanung werden Pfosten und Riegel zu tragenden Bauteilen; ein Standsicherheitsnachweis für Eigenlast, Ausfachungs- und Füllelemente ist erforderlich."
+  },
+  {
+   "id": 151,
+   "topic": "Fenster & Fassaden",
+   "q": "Welche Beanspruchungen aus Horizontallasten nennt der Text für die Fassade?",
+   "options": [
+    "Erdbeben und Verkehrslast",
+    "Eigenlast und Schnee",
+    "Setzung und Schwinden",
+    "Winddruck und Windsog"
+   ],
+   "answer": 3,
+   "explanation": "Die Beanspruchung erfolgt durch ständige Eigenlast aus Fassadenbauteilen sowie durch Horizontallasten aus Winddruck und Windsog."
+  },
+  {
+   "id": 152,
+   "topic": "Fenster & Fassaden",
+   "q": "Wodurch können Pfosten und Riegel ab größeren Spannweiten ersetzt werden, um mehr Transparenz und weniger Eigengewicht zu erreichen?",
+   "options": [
+    "Durch Hinterspannung",
+    "Durch Ankerschienen",
+    "Durch massive Stürze",
+    "Durch Kastenfenster"
    ],
    "answer": 0,
-   "explanation": "Bei den Gebäudeklassen 1-3 gilt für Glasfassaden die Feuerwiderstandsklasse F30."
+   "explanation": "Ab größeren Spannweiten können Pfosten/Riegel aufgelöst und z.B. durch Hinterspannung ersetzt werden; das bringt mehr Transparenz und weniger Eigengewicht."
   },
   {
-   "id": 168,
+   "id": 153,
    "topic": "Fenster & Fassaden",
-   "q": "Womit lassen sich die Brandschutzanforderungen an Glasfassaden grundsätzlich erfüllen?",
+   "q": "Was zeichnet eine selbsttragend ausgeführte Fassade laut Text aus?",
    "options": [
-    "Nur mit Alu-/Stahlprofilen; Holzprofile benötigen eine Einzelzulassung",
-    "Ausschließlich mit Holzprofilen ohne Zulassung",
-    "Nur mit Kunststoffprofilen",
-    "Mit beliebigen Profilen ohne besondere Nachweise"
+    "Sie überträgt alle Lasten direkt in die Geschossdecken",
+    "Sie überbrückt Decken und Wände und sitzt quasi davor, mit einfacheren Tragwerksanschlüssen",
+    "Sie kommt vollständig ohne Pfosten aus",
+    "Sie benötigt keine Verbindung zum Primärtragwerk"
    ],
-   "answer": 0,
-   "explanation": "Die Brandschutzanforderungen werden grundsätzlich nur mit Alu-/Stahlprofilen erfüllt, während Holzprofile eine Einzelzulassung benötigen."
+   "answer": 1,
+   "explanation": "Eine selbsttragende Fassade hat einfachere Tragwerksanschlüsse an das Primärtragwerk; sie überbrückt Decken, Wände etc. und sitzt quasi davor."
   },
   {
-   "id": 169,
+   "id": 154,
    "topic": "Fenster & Fassaden",
-   "q": "Was gilt in der Tragwerksplanung für Pfosten und Riegel der Fassade?",
+   "q": "Wie erfolgt bei den statischen Grundsystemen die Verteilung von Eigengewichts- und Horizontallasten?",
    "options": [
-    "Sie werden zu tragenden Bauteilen",
-    "Sie dienen ausschließlich der Gestaltung ohne Tragfunktion",
-    "Sie übernehmen nur den Schallschutz",
-    "Sie sind reine Dichtelemente"
-   ],
-   "answer": 0,
-   "explanation": "In der Tragwerksplanung werden Pfosten und Riegel zu tragenden Bauteilen, für die ein Standsicherheitsnachweis erforderlich ist."
-  },
-  {
-   "id": 170,
-   "topic": "Fenster & Fassaden",
-   "q": "Was gilt bei geringen Stützenabständen für die Konstruktion der Fassade?",
-   "options": [
-    "Nur Pfosten ohne Riegel können als Tragwerk verwendet werden und übernehmen dann alle Lasten",
-    "Nur Riegel ohne Pfosten übernehmen alle Lasten",
-    "Weder Pfosten noch Riegel sind erforderlich",
-    "Die Glaselemente übernehmen zwingend alle Lasten"
-   ],
-   "answer": 0,
-   "explanation": "Bei geringen Abständen können allein Pfosten ohne Riegel als Tragwerk dienen und übernehmen alle Lasten, während die Glaselemente nur das Erscheinungsbild bestimmen."
-  },
-  {
-   "id": 171,
-   "topic": "Fenster & Fassaden",
-   "q": "Wie können Riegel bei Riegelfassaden Vertikallasten abtragen?",
-   "options": [
-    "Sie werden an das Primärtragwerk (Decken, Wände) befestigt",
-    "Sie werden ausschließlich an die Verglasung geklebt",
-    "Sie stehen frei ohne Verbindung zum Tragwerk",
-    "Sie leiten Lasten nur über die Pfosten der Nachbarfassade ab"
-   ],
-   "answer": 0,
-   "explanation": "Bei Riegelfassaden werden die Riegel an das Primärtragwerk wie Decken und Wände befestigt, um Vertikallasten abtragen zu können."
-  },
-  {
-   "id": 172,
-   "topic": "Fenster & Fassaden",
-   "q": "Wie erfolgen bei den statischen Grundsystemen Eigengewichts- und Horizontallasten?",
-   "options": [
-    "Eigengewichtslasten auf die Riegel, Horizontallasten auf die Pfosten",
+    "Beide Lastarten allein auf die Riegel",
     "Eigengewichtslasten auf die Pfosten, Horizontallasten auf die Riegel",
-    "Beide ausschließlich über die Glasscheiben",
-    "Beide über einbetonierte Ankerschienen"
+    "Beide Lastarten allein auf die Pfosten",
+    "Eigengewichtslasten auf die Riegel, Horizontallasten auf die Pfosten"
    ],
-   "answer": 0,
-   "explanation": "Bei den statischen Grundsystemen erfolgen Eigengewichtslasten auf die Riegel und Horizontallasten auf die Pfosten."
+   "answer": 3,
+   "explanation": "Eigengewichtslasten wirken auf die Riegel, Horizontallasten auf die Pfosten; die Lastabtragung erfolgt über die Pfosten primär punktuell."
   },
   {
-   "id": 173,
+   "id": 155,
    "topic": "Fenster & Fassaden",
    "q": "Wodurch wird bei den statischen Grundsystemen das Knicken verhindert?",
    "options": [
+    "Über einbetonierte Ankerschienen",
     "Über hängende Lagerung oder biegesteife Knotenpunkte zwischen Riegel und Pfosten",
-    "Durch zusätzliche Eigenlast auf den Riegeln",
-    "Durch Verkleben der Glasscheiben untereinander",
-    "Durch Einbetonieren der Pfostenenden"
+    "Über beschichtete Gläser",
+    "Über Dehnungsfugen und Loslager"
    ],
-   "answer": 0,
-   "explanation": "Knicken wird über hängende Lagerung oder biegesteife Knotenpunkte zwischen Riegel und Pfosten verhindert."
+   "answer": 1,
+   "explanation": "Knicken wird über hängende Lagerung oder biegesteife Knotenpunkte zwischen Riegel und Pfosten verhindert; zudem muss ein Kippen der Riegel durch die Glaslast verhindert werden."
   },
   {
-   "id": 174,
+   "id": 156,
    "topic": "Fenster & Fassaden",
-   "q": "Wie erfolgt die Lastabtragung bei der Befestigung am Bauwerk je nach Lagerung?",
+   "q": "Wodurch werden Ankerschienen zur bauseitigen Befestigung am Bauwerk eingebaut?",
    "options": [
-    "Unten bei stehend gelagerten, oben bei hängend gelagerten Tragwerken",
-    "Immer ausschließlich oben, unabhängig von der Lagerung",
-    "Immer ausschließlich unten, unabhängig von der Lagerung",
-    "Ausschließlich seitlich über die Nachbarfassade"
+    "Sie werden mit Pressleisten geklemmt",
+    "Sie werden einbetoniert",
+    "Sie werden aufgeklebt",
+    "Sie werden nachträglich eingeschraubt"
    ],
-   "answer": 0,
-   "explanation": "Bei stehend gelagerten Tragwerken erfolgt die Lastabtragung unten, bei hängend gelagerten oben."
+   "answer": 1,
+   "explanation": "Ankerschienen werden bauseitig einbetoniert und übernehmen Kräfte nur in eine Richtung (gegen die Schienenrichtung)."
   },
   {
-   "id": 175,
+   "id": 157,
    "topic": "Fenster & Fassaden",
-   "q": "Warum muss sich die Fassadenfläche ungehindert in der Fassadenebene verschieben können?",
+   "q": "Wie sind Ankerplatten laut Text zur Befestigung ausgebildet?",
    "options": [
-    "Um Verformungen zu vermindern und die Ausdehnungsmöglichkeit zu gewährleisten",
-    "Um den Lichteinfall zu maximieren",
-    "Um den Schallschutz zu verbessern",
-    "Um die Eigenlast zu erhöhen"
+    "Als Dehnungsfugen mit Loslager",
+    "Ausschließlich als einbetonierte Schienen",
+    "Als aufgeklebte Silikonprofile",
+    "Mit Bohrungen für Schraubverbindungen oder mit Anschweißplatten"
    ],
-   "answer": 0,
-   "explanation": "Die Fassadenfläche muss sich in der Fassadenebene ungehindert verschieben können, um Verformungen zu vermindern; die Ausdehnungsmöglichkeit muss gewährleistet sein."
-  },
-  {
-   "id": 176,
-   "topic": "Fenster & Fassaden",
-   "q": "Wie sind Ankerplatten bei der bauseitigen Befestigung ausgeführt?",
-   "options": [
-    "Mit Bohrungen für Schraubverbindungen oder mit Anschweißplatten",
-    "Ausschließlich einbetoniert ohne jede Verbindungsmöglichkeit",
-    "Nur als eingeschraubte Schwerlastanker",
-    "Nur als Ankerschienen, die Kräfte in alle Richtungen aufnehmen"
-   ],
-   "answer": 0,
-   "explanation": "Ankerplatten werden mit Bohrungen für Schraubverbindungen oder mit Anschweißplatten ausgeführt."
-  },
-  {
-   "id": 177,
-   "topic": "Fenster & Fassaden",
-   "q": "Welche Eigenschaft haben einbetonierte Ankerschienen bezüglich der Kraftaufnahme?",
-   "options": [
-    "Sie übernehmen Kräfte nur in eine Richtung (gegen die Schienenrichtung)",
-    "Sie übernehmen Kräfte in alle drei Raumrichtungen gleich",
-    "Sie nehmen ausschließlich Zugkräfte längs der Schiene auf",
-    "Sie sind nur für die Ableitung von Horizontallasten geeignet"
-   ],
-   "answer": 0,
-   "explanation": "Einbetonierte Ankerschienen übernehmen Kräfte nur in eine Richtung, nämlich gegen die Schienenrichtung."
-  },
-  {
-   "id": 178,
-   "topic": "Fenster & Fassaden",
-   "q": "Was passiert laut Text mit Pfosten/Riegeln ab Spannweiten von etwa 5 m?",
-   "options": [
-    "Sie können aufgelöst und z. B. durch Hinterspannung ersetzt werden – mehr Transparenz, weniger Eigengewicht",
-    "Sie müssen zwingend verdoppelt werden",
-    "Sie werden vollständig einbetoniert",
-    "Sie verlieren jede Tragfunktion an die Glaselemente"
-   ],
-   "answer": 0,
-   "explanation": "Ab Spannweiten von 5 m können Pfosten/Riegel aufgelöst und z. B. durch Hinterspannung ersetzt werden, was mehr Transparenz und weniger Eigengewicht bringt."
+   "answer": 3,
+   "explanation": "Ankerplatten sind mit Bohrungen für Schraubverbindungen oder mit Anschweißplatten ausgebildet; alternativ wird nachträglich mit eingeschraubten Schwerlastankern befestigt."
   }
  ],
  "flashcards": [
   {
    "id": 1,
    "topic": "Holzbausysteme",
-   "front": "Wandbauweisen vs. Skelettbauweisen: Grundprinzip?",
-   "back": "Wandbauweisen bestehen aus ebenen, flächigen Bauteilen, die als Raumabschluss und Gebäudehülle dienen. Skelettbauweisen bestehen dagegen aus stabförmigen Einzelbauteilen, bei denen Lasten entlang der Stabachse abgetragen werden. Bei Skelettbauweisen sind zusätzliche Bauteile zur Aussteifung nötig, und Raumabschluss sowie Hülle werden durch nachgeordnete Bauteile gebildet."
+   "front": "Merkmale einer Wandbauweise",
+   "back": "Eine Wandbauweise besteht aus ebenen, flächigen Bauteilen. Vertikale Lasten können gut abgetragen werden, horizontale bei vorhandener Scheibenwirkung, in Dickenrichtung nur eingeschränkt. Sie dient dem Raumabschluss und ist als Gebäudehülle einsetzbar."
   },
   {
    "id": 2,
    "topic": "Holzbausysteme",
-   "front": "Wie tragen Wandbauweisen Vertikal-, Horizontal- und Dickenrichtungslasten ab?",
-   "back": "Vertikale Lasten können bei Wandbauweisen gut abgetragen werden. Horizontale Lasten werden bei vorhandener Scheibenwirkung ebenfalls gut abgetragen. Lasten in Dickenrichtung können hingegen nur eingeschränkt abgetragen werden."
+   "front": "Wandbauweisen (Aufzählung)",
+   "back": "Zu den Wandbauweisen zählen der Blockbau, der Fachwerkbau, der Holzrahmenbau (Holzrippenbau), die Holztafelbauweise sowie die Massivholzbauweisen (Brettstapel, Brettsperrholz)."
   },
   {
    "id": 3,
    "topic": "Holzbausysteme",
-   "front": "Wie werden bei Skelettbauweisen Lasten abgetragen?",
-   "back": "Vertikale Tragglieder sind Stützen und Pfosten, horizontale Tragglieder sind Balken und Träger. Lasten entlang der Stabachse werden abgetragen. Da das Skelett allein nicht stabil ist, sind weitere Bauteile zur Aussteifung notwendig."
+   "front": "Merkmale einer Skelettbauweise",
+   "back": "Die Skelettbauweise besteht aus stabförmigen Einzelbauteilen. Vertikale Tragglieder sind Stützen und Pfosten, horizontale sind Balken und Träger. Es sind weitere Bauteile zur Aussteifung notwendig, und Raumabschluss sowie Gebäudehülle entstehen durch nachgeordnete Bauteile."
   },
   {
    "id": 4,
    "topic": "Holzbausysteme",
-   "front": "Welche Bauweisen zählen zu den Wandbauweisen?",
-   "back": "Zu den Wandbauweisen gehören der Blockbau, der Fachwerkbau, der Holzrahmenbau (Holzrippenbau), die Holztafelbauweise sowie die Massivholzbauweisen (Brettstapel, Brettsperrholz). Alle bilden ebene, flächige Bauteile, die als Gebäudehülle einsetzbar sind."
+   "front": "Blockbauweise",
+   "back": "Bei der Blockbauweise werden liegende Rund- oder Kanthölzer (Blockbohlen) zu einem Wandelement geschichtet. Die Ecken werden durch Verblattung oder Verzapfung schubfest ausgeführt."
   },
   {
    "id": 5,
    "topic": "Holzbausysteme",
-   "front": "Was bedeutet GL bei Brettschichtholz (BSH)?",
-   "back": "GL steht für GlueLam, also Leimholz. Es bezeichnet die charakteristischen Kennwerte für Brettschichtholz. Für die Materialfestigkeit sind zudem Nutzungsklassen (NKL) und Klassen der Lasteinwirkungsdauer (KLED) relevant."
+   "front": "Nachteile der Blockbauweise",
+   "back": "Nachteile der Blockbauweise sind ein hoher Materialverbrauch sowie Schwinden und Quellen (weshalb gleitende Verbindungen genutzt werden). Zudem ist eine Fugenabdichtung notwendig und der Grundriss ist starr, mit wenig Möglichkeiten der Raumaufteilung."
   },
   {
    "id": 6,
    "topic": "Holzbausysteme",
-   "front": "Blockbauweise: Aufbau und Schubfestigkeit?",
-   "back": "Bei der Blockbauweise werden liegende Rund- oder Kanthölzer (Blockbohlen) zu einem Wandelement geschichtet. Die Schubfestigkeit wird durch Verblattung oder Verzapfung an den Ecken erreicht. Typische Eckverbindungen sind die Eckverblattung und die Verzapfung (quer in der Außenwand)."
+   "front": "Fachwerkbauweise",
+   "back": "Bei der Fachwerkbauweise wird das Tragwerk geschossweise ausgesteift. Vertikale Lasten tragen die Pfosten, horizontale Lasten und die Aussteifung übernehmen Riegel und Diagonalen. Das Gefach wird mit Holzgeflecht oder Lehm gefüllt, wodurch eine Wandscheibe entsteht; es gilt ein festes Raster."
   },
   {
    "id": 7,
    "topic": "Holzbausysteme",
-   "front": "Nachteile der Blockbauweise?",
-   "back": "Die Blockbauweise hat einen hohen Materialverbrauch und Probleme durch Schwinden und Quellen des Holzes, weshalb gleitende Verbindungen genutzt werden. Zudem ist eine Fugenabdichtung notwendig. Der Grundriss ist starr, mit nur wenigen Möglichkeiten der Raumaufteilung."
+   "front": "Ständer/Stiele",
+   "back": "Ständer bzw. Stiele sind die Vertikalelemente im Fachwerk. Sie zählen zu den Grundelementen der Fachwerkbauweise."
   },
   {
    "id": 8,
    "topic": "Holzbausysteme",
-   "front": "Fachwerkbauweise: Lastabtrag und Aussteifung?",
-   "back": "Beim Fachwerkbau ist das Tragwerk geschossweise ausgesteift. Vertikale Lasten werden über Pfosten abgetragen, die horizontale Aussteifung erfolgt über Riegel und Diagonalen, wodurch steife Wandfelder entstehen. Das Gefach wird mit Holzgeflecht oder Lehm gefüllt, sodass eine Wandscheibe entsteht; es gilt ein festes Raster."
+   "front": "Schwelle und Rähm",
+   "back": "Die Schwelle ist der untere Abschluss eines Wandfeldes und trägt ein Wandfeld. Das Rähm (Wandpfette) bildet den oberen Abschluss und trägt die Deckenbalken."
   },
   {
    "id": 9,
    "topic": "Holzbausysteme",
-   "front": "Grundelemente des Fachwerks: Ständer/Stiele, Schwelle, Rähm, Deckenbalken?",
-   "back": "Ständer bzw. Stiele sind die Vertikalelemente. Die Schwelle bildet den unteren, das Rähm (Wandpfette) den oberen Abschluss eines Wandfeldes; das Rähm trägt zusätzlich die Deckenbalken. Die Deckenbalken/Bohlen haben Vollholzquerschnitt, tragen Decken und überspannen maximal 5 m."
+   "front": "Deckenbalken/Bohlen (Fachwerk)",
+   "back": "Deckenbalken bzw. Bohlen sind Bauteile mit Vollholzquerschnitt. Sie tragen die Decken und haben eine maximale Spannweite von etwa 5 m."
   },
   {
    "id": 10,
    "topic": "Holzbausysteme",
-   "front": "Fachwerk: Funktion von Sparren, Aufschiebling und Pfette?",
-   "back": "Der Sparren dient der Lastableitung und trägt die Dachdeckung. Der Aufschiebling ist eine Verlängerung des Sparrens für einen größeren Dachüberstand. Die Pfette trägt die Dachkonstruktion und sorgt für die Lastverteilung."
+   "front": "Streben (Diagonalen)",
+   "back": "Streben bzw. Diagonalen dienen der Aussteifung des Fachwerks. Sie leiten die Windkräfte in die Schwellen ab."
   },
   {
    "id": 11,
    "topic": "Holzbausysteme",
-   "front": "Fachwerk: Funktion von Streben/Diagonalen?",
-   "back": "Streben bzw. Diagonalen dienen der Aussteifung des Fachwerks. Sie leiten die Windkräfte ab und führen sie in die Schwellen. Dadurch entstehen zusammen mit Pfosten und Riegeln steife Wandfelder."
+   "front": "Sparren",
+   "back": "Der Sparren dient der Lastableitung und trägt die Dachdeckung. Er gehört zu den Bauteilen der Dachkonstruktion im Fachwerk."
   },
   {
    "id": 12,
    "topic": "Holzbausysteme",
-   "front": "Holzrahmenbauweise (Holzrippenbauweise): Merkmale und Lastabtrag?",
-   "back": "Die Holzrahmenbauweise ist einfach auszuführen und effizient. Vertikale Lasten werden über eng stehende Ständer aus Lagerhölzern abgetragen. Die horizontale Aussteifung erfolgt durch Scheibenwirkung mittels einer Beplankung aus Plattenmaterial."
+   "front": "Aufschiebling",
+   "back": "Der Aufschiebling ist die Verlängerung des Sparrens. Er ermöglicht einen größeren Dachüberstand."
   },
   {
    "id": 13,
    "topic": "Holzbausysteme",
-   "front": "Unterschied Balloon Frame und Platform Frame?",
-   "back": "Beim Balloon Frame reichen die Ständer über zwei Geschosse, wobei die Querriegel in die Ständer eingelassen werden. Beim Platform Frame erfolgt ein geschossweiser Aufbau, bei dem die Ständer nur über ein Geschoss reichen. Der geschossweise Aufbau umfasst von unten nach oben Fundament/Bodenplatte, Wandkonstruktion, Plattform, Wandkonstruktion und Dachkonstruktion."
+   "front": "Pfette",
+   "back": "Die Pfette trägt die Dachkonstruktion. Sie sorgt für die Lastverteilung."
   },
   {
    "id": 14,
    "topic": "Holzbausysteme",
-   "front": "Holztafelbauweise: Einordnung und Aufbau?",
-   "back": "Die Holztafelbauweise ist eine Weiterentwicklung der Holzrahmenbauweise. Es werden vorgefertigte Wand- und Deckenelemente aus Ständern und Rähm mit Beplankung verwendet. Die Krafteinleitung erfolgt über die Kopfrippe (Biegemoment), die Kraftübertragung über die Innenrippen zu den Fußrippen."
+   "front": "Gebälk",
+   "back": "Das Gebälk besteht aus waagerechten Balken. Diese tragen Decke und Boden."
   },
   {
    "id": 15,
    "topic": "Holzbausysteme",
-   "front": "Holzskelettbauweise: Grundprinzip und Vorteile?",
-   "back": "Die Holzskelettbauweise trennt Tragwerk, Hülle und Ausbaustruktur voneinander. Dadurch sind mehr Tragwerksgeometrien und große Grundrisse möglich, und Verbindungen werden mit Stahlteilen ausgeführt. Die Aussteifung erfolgt durch Dach- und Wandverbände, die Scheiben ausbilden."
+   "front": "Riegel (Fachwerk)",
+   "back": "Der Riegel bildet die Verbindung zwischen den Pfosten. Er dient als Auflage für die Ausfachungen. Der Fensterriegel begrenzt zusätzlich die Fensteröffnung."
   },
   {
    "id": 16,
    "topic": "Holzbausysteme",
-   "front": "Konstruktionsart 'Träger auf Stütze' der Holzskelettbauweise?",
-   "back": "Träger auf Stütze ist eine gerichtete (einachsige) Tragstruktur mit einfachem Konstruktionsprinzip. Sie eignet sich für eingeschossige Bauwerke. Dabei liegen Hauptträger auf den Stützen und Nebenträger auf den Hauptträgern."
+   "front": "Holzrahmenbauweise (Holzrippenbauweise)",
+   "back": "Die Holzrahmenbauweise ist einfach auszuführen und effizient. Vertikale Lasten tragen Ständer aus Lagerhölzern mit engem Abstand, die horizontale Aussteifung erfolgt über Scheibenwirkung mit einer Beplankung aus Plattenmaterial."
   },
   {
    "id": 17,
    "topic": "Holzbausysteme",
-   "front": "Riegelkonstruktion vs. Zangenkonstruktion der Holzskelettbauweise?",
-   "back": "Die Riegelkonstruktion ist eine ungerichtete (mehrachsige/flächige) Tragstruktur, bei der Haupt- und Nebenträger stirnseitig angeschlossen sind und in einer Ebene liegen; Auskragungen sind fast nicht möglich. Die Zangenkonstruktion ist eine gerichtete (einachsige) Tragstruktur mit geteilten Trägern und Stützen; dabei sind Auskragungen möglich."
+   "front": "Balloon Frame vs. Platform Frame",
+   "back": "Beim Balloon Frame laufen die Ständer über 2 Geschosse, wobei die Querriegel in die Ständer eingelassen werden. Beim Platform Frame erfolgt ein geschossweiser Aufbau mit Ständern über jeweils nur 1 Geschoss."
   },
   {
    "id": 18,
    "topic": "Holzbausysteme",
-   "front": "Massivholzbauweise: Grundprinzip?",
-   "back": "Bei der Massivholzbauweise werden flächige, massive Holzprodukte als Träger eingesetzt. Typische Produkte sind Brettsperrholz und Brettstapel. Die Verbindung mit der Decke erfolgt über Schubverbinder in Form von Stahlwinkeln."
+   "front": "Holztafelbauweise",
+   "back": "Die Holztafelbauweise ist eine Weiterentwicklung der Holzrahmenbauweise. Sie besteht aus vorgefertigten Wand- und Deckenelementen aus Ständern und Rähm mit Beplankung. Die Krafteinleitung erfolgt über die Kopfrippe (Biegemoment), die Kraftübertragung über Innenrippen zu den Fußrippen."
   },
   {
    "id": 19,
    "topic": "Holzbausysteme",
-   "front": "Brettsperrholz: Aufbau und Eigenschaften?",
-   "back": "Brettsperrholz besteht aus mindestens drei rechtwinklig, also kreuzweise, verklebten Brettlagen aus Nadelholz. Durch die kreuzweise Verklebung ist es sehr stabil. Es zählt zu den flächigen, massiven Holzprodukten der Massivholzbauweise."
+   "front": "Holzskelettbauweise",
+   "back": "Die Holzskelettbauweise trennt Tragwerk, Hülle und Ausbaustruktur. Sie ermöglicht mehr Tragwerksgeometrien und große Grundrisse, wobei Verbindungen mit Stahlteilen ausgeführt werden. Die Aussteifung erfolgt durch Dach- und Wandverbände zur Ausbildung von Scheiben."
   },
   {
    "id": 20,
    "topic": "Holzbausysteme",
-   "front": "Brettstapel: Aufbau und Ausführungsformen?",
-   "back": "Brettstapel besteht aus hochkant verklebten oder verdübelten Brettern aus Nadelschnittholz. Er kann scharfkantig (gerade) ausgeführt sein oder gefast (mit einer Einkerbung). Im Gegensatz zum Brettsperrholz sind die Bretter nicht kreuzweise, sondern hochkant angeordnet."
+   "front": "Konstruktionsart Träger auf Stütze",
+   "back": "Die Konstruktionsart Träger auf Stütze ist eine gerichtete (einachsige) Tragstruktur mit einfachem Konstruktionsprinzip für eingeschossige Bauwerke. Der Hauptträger liegt auf den Stützen und der Nebenträger auf dem Hauptträger."
   },
   {
    "id": 21,
    "topic": "Holzbausysteme",
-   "front": "Massivholzbauweise: Zugverankerung in Geschossen?",
-   "back": "Bei der Massivholzbauweise ist eine Zugverankerung in den Geschossen vorzusehen. Falls diese ober- und unterseitig erfolgt, wird die Verbindung innerhalb der Decke ausgeführt."
+   "front": "Riegelkonstruktion",
+   "back": "Die Riegelkonstruktion ist eine ungerichtete (mehrachsige/flächige) Tragstruktur. Der Hauptträger sitzt stirnseitig an der Stütze und der Nebenträger stirnseitig am Hauptträger, sodass die Träger in einer Ebene liegen. Eine Auskragung ist fast nicht möglich."
   },
   {
    "id": 22,
-   "topic": "Deckenkonstruktionen",
-   "front": "Was ist eine Decke im tragwerkstechnischen Sinne?",
-   "back": "Eine Decke ist ein flächenförmiges Bauteil bzw. Tragwerk. Sie kann zur Aussteifung als Scheibe wirken und wird dann in ihrer Ebene belastet. Der Lastabtrag kann einachsig oder zweiachsig erfolgen, wobei die Lastführung über die Biegung der Platte geschieht."
+   "topic": "Holzbausysteme",
+   "front": "Zangenkonstruktion",
+   "back": "Die Zangenkonstruktion ist eine gerichtete (einachsige) Tragstruktur mit geteilten Trägern und Stützen. Der Hauptträger wird geteilt seitlich oder zwischen einer geteilten Stütze geführt, der Nebenträger geteilt aufgelegt. Auskragungen sind möglich."
   },
   {
    "id": 23,
-   "topic": "Deckenkonstruktionen",
-   "front": "Gewölbedecke / Kappendecke",
-   "back": "Bei der Kappendecke spannt sich ein Ziegelgewölbe zwischen zwei Stahlträgern. Die erzielbaren Spannweiten sind klein. Die Stahlträger werden in den letzten Deckenfeldern durch Schließen rückverankert, um die Horizontalkräfte des Gewölbes aufzunehmen."
+   "topic": "Holzbausysteme",
+   "front": "Brettsperrholz",
+   "back": "Brettsperrholz besteht aus mindestens 3 rechtwinklig (kreuzweise) verklebten Brettlagen aus Nadelholz. Durch die kreuzweise Verklebung ist es sehr stabil. Es zählt zu den Massivholzbauweisen."
   },
   {
    "id": 24,
-   "topic": "Deckenkonstruktionen",
-   "front": "Stahlsteindecke (Ackermann-Decke)",
-   "back": "Die Stahlsteindecke, auch Ackermann-Decke genannt, besteht aus speziell geformten Hohlziegeln. Diese werden mit einer Bewehrung aus Rundstahl kombiniert, sodass die Decke tragfähig wird. Sie zählt zu den historischen Deckenkonstruktionen."
+   "topic": "Holzbausysteme",
+   "front": "Brettstapel",
+   "back": "Brettstapel besteht aus hochkant verklebten oder verdübelten Brettern aus Nadelschnittholz. Es gibt ihn scharfkantig (gerade) und gefast (mit Einkerbung). Er zählt zu den Massivholzbauweisen."
   },
   {
    "id": 25,
-   "topic": "Deckenkonstruktionen",
-   "front": "Aufbau und Bemessung der Holzbalkendecke",
-   "back": "Bei der Holzbalkendecke werden rechteckige Hölzer auf tragende Wände aufgelegt und mit einer Holzschalung oder Platten beplankt. Der Balkenabstand wird über Lastannahmen berechnet. Zur Erfüllung moderner Schallschutzanforderungen werden zusätzlich Trittschalldämmung, Estrich und Füllmaterial (z. B. Schüttungen) eingebracht."
+   "topic": "Holzbausysteme",
+   "front": "Massivholzbauweise",
+   "back": "Bei der Massivholzbauweise werden flächige, massive Holzprodukte als Träger eingesetzt. Die Verbindung mit der Decke erfolgt über Schubverbinder (Stahlwinkel). Zu ihr zählen Brettsperrholz und Brettstapel."
   },
   {
    "id": 26,
    "topic": "Deckenkonstruktionen",
-   "front": "Vor- und Nachteile der Holzbalkendecke",
-   "back": "Vorteile sind ein gutes Verhältnis von Eigengewicht zu Tragfähigkeit, eine schnelle Bauweise ohne Stützen und Gerüste sowie ein einfaches Konstruktionsprinzip. Nachteile sind die geringe Schalldämmung und die hohe Schwingungsanfälligkeit. Zum Erreichen erforderlicher Brandwiderstandsklassen wird die Decke oft überdimensioniert."
+   "front": "Definition: Decke",
+   "back": "Eine Decke ist ein flächenförmiges Bauteil bzw. Tragwerk. Der Lastabtrag erfolgt einachsig oder zweiachsig, die Lastführung über Biegung der Platte. Zur Aussteifung dient die Scheibe (Belastung in der Ebene)."
   },
   {
    "id": 27,
    "topic": "Deckenkonstruktionen",
-   "front": "Brettstapeldecke",
-   "back": "Die Brettstapeldecke besteht aus hochkant nebeneinander liegenden Brettern. Meist handelt es sich um vorgefertigte Elemente, die mit Leim verbunden sind. Sie zählt zu den Deckenkonstruktionen in Holzbauweise."
+   "front": "Gewölbedecke (Kappendecke)",
+   "back": "Die Gewölbedecke wird auch Kappendecke genannt. Ein Ziegelgewölbe spannt sich zwischen zwei Stahlträgern und eignet sich nur für kleine Spannweiten. Die Rückverankerung der Stahlträger in den letzten Deckenfeldern erfolgt durch Schließen."
   },
   {
    "id": 28,
    "topic": "Deckenkonstruktionen",
-   "front": "Brettsperrholzdecke (BSP): Lastabtrag",
-   "back": "Bei der Brettsperrholzdecke erfolgt meist eine einachsige, liegende Einspannung von Elementen aus Brettsperrholz. Nur bei Sonderanwendungen ist ein zweiachsiger Lastabtrag möglich. Sie besteht aus kreuzweise angeordneten Brettlagen."
+   "front": "Stahlsteindecke (Ackermann-Decke)",
+   "back": "Die Stahlsteindecke wird auch Ackermann-Decke genannt. Sie besteht aus speziell geformten Hohlziegeln und einer Bewehrung aus Rundstahl. Sie zählt zu den historischen Deckenkonstruktionen."
   },
   {
    "id": 29,
    "topic": "Deckenkonstruktionen",
-   "front": "Warum tragen bei der Brettsperrholzdecke die querlaufenden Lagen nicht mit?",
-   "back": "Die querlaufenden Brettlagen leisten keinen Beitrag zur Biegetragfähigkeit in Spannrichtung, sie werden nur auf Schub beansprucht. Bei einem Schubversagen tritt der Bruch tangential zu den Jahrringflächen auf. Der Lastabtrag in Tragrichtung wird also allein von den längslaufenden Lagen übernommen."
+   "front": "Holzbalkendecke - Aufbau",
+   "back": "Bei der Holzbalkendecke werden rechteckige Hölzer auf tragende Wände aufgelegt und mit Holzschalung oder Platten beplankt. Der Balkenabstand wird über Lastannahmen berechnet. Trittschalldämmung, Estrich und Füllmaterial (z.B. Schüttungen) dienen der Erfüllung moderner Schallschutzanforderungen."
   },
   {
    "id": 30,
    "topic": "Deckenkonstruktionen",
-   "front": "Stöße bei Brettsperrholzdecken",
-   "back": "Stöße können gelenkig oder biegesteif ausgeführt werden. Bei gelenkigen Stößen werden Schubkräfte entlang der Fugen übertragen. Zur Erfüllung von Schallschutzanforderungen werden zusätzlich Trittschalldämmung und Estrich eingebracht."
+   "front": "Holzbalkendecke - Vor- und Nachteile",
+   "back": "Vorteile: gutes Verhältnis von Eigengewicht zu Tragfähigkeit, schnelle Bauweise (keine Stützen/Gerüste), einfaches Konstruktionsprinzip. Nachteile: geringe Schalldämmung und hohe Schwingungsanfälligkeit. Zum Erreichen erforderlicher Brandwiderstandsklassen ist eine Überdimensionierung nötig."
   },
   {
    "id": 31,
    "topic": "Deckenkonstruktionen",
-   "front": "Eigenschaften der Stahlbetondecke",
-   "back": "Stahlbetondecken sind überwiegend Massivdecken mit vielfältiger Anwendung. Sie sind in allen Lagerbedingungen und Spannrichtungen anpassbar. Im Bauzustand benötigen sie eine vollflächige Schalung und Stützung."
+   "front": "Brettstapeldecke",
+   "back": "Die Brettstapeldecke besteht aus hochkant nebeneinander liegenden Brettern. Meist handelt es sich um vorgefertigte, mit Leim verbundene Elemente. Sie zählt zu den Deckenkonstruktionen in Holzbauweise."
   },
   {
    "id": 32,
    "topic": "Deckenkonstruktionen",
-   "front": "Halbfertigteildecken im Stahlbetonbau",
-   "back": "Halbfertigteildecken reduzieren den Schalungsaufwand. Halbfertigteil und Aufbeton wirken als Gesamtquerschnitt im Verbund. Die Verbindung stellen Gitterträger (GT) her, zusätzlich gibt es Stoßbewehrung (SB) und Feldbewehrung in der Platte (FB); mit einem Obergurt aus Bewehrungsstab sind Spannweiten bis 4,75 m ohne Unterstützung im Bauzustand möglich."
+   "front": "Brettsperrholzdecke (BSP)",
+   "back": "Die Brettsperrholzdecke besteht aus Elementen aus Brettsperrholz und weist meist eine einachsige, liegende Einspannung auf. Sonderanwendungen ermöglichen zweiachsigen Lastabtrag. Querlaufende Brettlagen leisten keinen Tragbeitrag, sondern nehmen nur Schubbeanspruchung auf."
   },
   {
    "id": 33,
    "topic": "Deckenkonstruktionen",
-   "front": "Rippendecke",
-   "back": "Die Rippendecke ist eine rippenverstärkte Platte, die größere Spannweiten ermöglicht und statisch wie eine Plattenbalkendecke wirkt. Das momentaufnehmende Kräftepaar bilden die Bewehrung in den Rippen und die Druckzone in der Platte. Die Plattenbalkendecke funktioniert gleichartig, weist jedoch mehr Abstand zwischen den Balken auf."
+   "front": "Brettsperrholzdecke - Stöße",
+   "back": "Bei der Brettsperrholzdecke werden gelenkige und biegesteife Stöße unterschieden. Bei gelenkigen Stößen werden Schubkräfte entlang der Fugen übertragen. Zur Erfüllung von Schallschutzanforderungen kommen Trittschalldämmung und Estrich zum Einsatz."
   },
   {
    "id": 34,
    "topic": "Deckenkonstruktionen",
-   "front": "Nachteil von Flach- und Pilzdecken",
-   "back": "Flach- und Pilzdecken sind Stahlbeton-Deckenarten ohne Unterzüge. Ihr wesentlicher Nachteil ist der Deckendurchstoß, der bei zu hoher Last im Bereich der Stützen auftreten kann. Deshalb ist in diesen Bereichen besondere Aufmerksamkeit auf die Durchstanzsicherung zu legen."
+   "front": "Stahlbetondecke - Eigenschaften",
+   "back": "Stahlbetondecken sind überwiegend Massivdecken und in allen Lagerbedingungen und Spannrichtungen anpassbar. Sie haben eine vielfältige Anwendung. Im Bauzustand ist eine vollflächige Schalung und Stützung erforderlich."
   },
   {
    "id": 35,
    "topic": "Deckenkonstruktionen",
-   "front": "Wirkungsprinzip des Spannbetons",
-   "back": "Spannbetondecken sind vorgespannte Hohlkörperdecken für mittlere Spannweiten von 8 bis 14 m. Die Vorspannkraft überdrückt den Beton und erzeugt eine Wölbung nach oben, sodass bei Belastung keine Zuglasten im Beton entstehen. Zur Befestigung dienen Bohrschablone und Hohldeckenanker."
+   "front": "Halbfertigteildecke",
+   "back": "Halbfertigteildecken reduzieren den Schalungsaufwand. Halbfertigteil und Aufbeton wirken als Gesamtquerschnitt im Verbund. Verbindende bzw. bewehrende Elemente sind der Gitterträger (GT, Verbindung Halbfertigteil/Aufbeton), die Stoßbewehrung (SB) und die Feldbewehrung in der Platte (FB)."
   },
   {
    "id": 36,
    "topic": "Deckenkonstruktionen",
-   "front": "π-Platte (Spannbeton)",
-   "back": "Die π-Platte ist eine Spannbetonform. Durch den größeren Abstand zwischen Druck- und Zugkraft nimmt die Momenttragfähigkeit zu. Der vergrößerte innere Hebelarm verbessert somit die Biegetragfähigkeit."
+   "front": "Deckenarten STB: Flach- und Pilzdecke",
+   "back": "Zu den Stahlbeton-Deckenarten zählen Flachdecke und Pilzdecke. Ihr Nachteil ist der Deckendurchstoß bei zu hoher Last."
   },
   {
    "id": 37,
    "topic": "Deckenkonstruktionen",
-   "front": "Grundidee des Stahl-Beton-Verbundbaus",
-   "back": "Im Verbundbau wirken mehrere Bauteile als ein Bauteil zusammen. Stahl besitzt eine ähnliche Druck- und Zugfestigkeit, Beton hingegen eine etwa 10-fach höhere Druckfestigkeit. Durch die Kombination werden die Stärken beider Materialien genutzt: Beton übernimmt die Druck-, Stahl die Zugbeanspruchung."
+   "front": "Rippendecke",
+   "back": "Die Rippendecke ist eine rippenverstärkte Platte und ermöglicht größere Spannweiten. Sie wirkt statisch wie eine Plattenbalkendecke. Das momentaufnehmende Kräftepaar besteht aus der Bewehrung in den Rippen und der Druckzone in der Platte."
   },
   {
    "id": 38,
    "topic": "Deckenkonstruktionen",
-   "front": "Verbundsicherung beim Verbundträger",
-   "back": "Die Verbundsicherung stellt das Zusammenwirken von Stahl und Beton sicher und erfolgt über Kopfbolzen sowie einen Bewehrungsstab. Die Tragfähigkeit der Kopfbolzen ist von der Betondruckfestigkeit abhängig. Die Tragfähigkeit eines Verbundträgers auf Biegung wird über die Formelsammlung mit den Fällen 1 bis 3 der Nulllinie bestimmt."
+   "front": "Plattenbalkendecke",
+   "back": "Die Plattenbalkendecke ist wie eine Rippendecke aufgebaut, weist aber mehr Abstand zwischen den Balken auf. Sie zählt zu den Stahlbeton-Deckenarten."
   },
   {
    "id": 39,
    "topic": "Deckenkonstruktionen",
-   "front": "Holz-Beton-Verbunddecke",
-   "back": "In der Holz-Beton-Verbunddecke wird der Beton auf Druck und das Holz auf Zug beansprucht. Gegenüber dem reinen Holzbau bietet sie eine höhere Steifigkeit und Tragfähigkeit sowie einen besseren Schall- und Brandschutz. Die Details sind holzbaugerecht ausführbar."
+   "front": "Spannbeton",
+   "back": "Spannbeton ist eine vorgespannte Hohlkörperdecke für mittlere Spannweiten (8-14 m). Die Vorspannkraft überdrückt den Beton (Wölbung nach oben), sodass bei Belastung keine Zuglasten im Beton entstehen. Als Befestigungen dienen Bohrschablone und Hohldeckenanker."
   },
   {
    "id": 40,
    "topic": "Deckenkonstruktionen",
-   "front": "Ziegeldecke (weitere Deckenkonstruktion)",
-   "back": "Die Ziegeldecke wird in unterschiedlichen Breiten vorgefertigt. Ihr Vorteil liegt darin, dass sie ohne Schalung oder Stützung tragfähig ist. Sie zählt zu den weiteren Deckenkonstruktionen."
+   "front": "Stahl-Beton-Verbundbau",
+   "back": "Im Stahl-Beton-Verbundbau werden mehrere Bauteile so verbunden, dass sie als ein Bauteil wirken. Stahl hat ähnliche Druck- und Zugfestigkeit, Beton eine etwa 10-fach höhere Druckfestigkeit. Zur Verbundsicherung dienen Kopfbolzen (Tragfähigkeit abhängig von der Betondruckfestigkeit) und Bewehrungsstab."
   },
   {
    "id": 41,
    "topic": "Deckenkonstruktionen",
-   "front": "Verbunddecke aus Stahlprofilblechen",
-   "back": "Diese Verbunddecke besteht aus Stahl-Profilblechen und einer Aufbetonschicht. Das Verbundblech übernimmt die Zugbelastung, der Beton die Druckbelastung. Während des Betonierens dient das Blech zusätzlich als Deckenschalung."
+   "front": "Holz-Beton-Verbunddecke",
+   "back": "Bei der Holz-Beton-Verbunddecke wird der Beton auf Druck und das Holz auf Zug beansprucht. Gegenüber dem reinen Holzbau bietet sie höhere Steifigkeit und Tragfähigkeit sowie besseren Schall- und Brandschutz. Zudem sind holzbaugerechte Details möglich."
   },
   {
    "id": 42,
-   "topic": "Dachkonstruktionen",
-   "front": "Grundkonstruktion des Sparrendachs",
-   "back": "Beim Sparrendach werden Sparren und Dachbalken zu einem Dreieck verbunden, das die Konstruktion aussteift. Die Sparren werden dabei auf Biegung sowie durch Längskräfte auf Druck beansprucht. Diese Dreiecksform macht das Sparrendach ohne durchlaufende Pfetten stabil."
+   "topic": "Deckenkonstruktionen",
+   "front": "Ziegeldecke",
+   "back": "Die Ziegeldecke zählt zu den weiteren Deckenkonstruktionen. Das Bauteil wird in unterschiedlichen Breiten vorgefertigt. Sie ist ohne Schalung oder Stützung tragfähig."
   },
   {
    "id": 43,
-   "topic": "Dachkonstruktionen",
-   "front": "Sparrendach ohne Kehlbalken - Sicherung der Giebelscheibe",
-   "back": "Beim Sparrendach ohne Kehlbalken ist die Giebelscheibe nicht Teil der tragenden Konstruktion. Sie muss deshalb mit einem Anker gegen Kippen gesichert werden. Ohne diese Sicherung wäre die Standsicherheit des Giebels nicht gewährleistet."
+   "topic": "Deckenkonstruktionen",
+   "front": "Verbunddecke (Stahl-Profilblech-Decke)",
+   "back": "Die Verbunddecke besteht aus Stahl-Profilblechen und einer Aufbetonschicht. Das Verbundblech übernimmt die Zugbelastung, der Beton die Druckbelastung. Das Blech dient während des Betonierens zugleich als Deckenschalung."
   },
   {
    "id": 44,
    "topic": "Dachkonstruktionen",
-   "front": "Sparrendach mit Kehlbalken",
-   "back": "Bei Gespärren über 6 m Länge wird das Sparrendach durch einen Kehlbalken ausgesteift. Der Kehlbalken erhält dabei Druck längs zur Faser. Er reduziert die Spannweite der Sparren und erhöht so die Stabilität des Daches."
+   "front": "Grundkonstruktion des Sparrendachs?",
+   "back": "Beim Sparrendach werden Sparren + Dachbalken mit einem Dreieck verbunden. Die Sparren werden dabei auf Biegung und durch Längskräfte auf Druck beansprucht. Es ist eine der grundlegenden Dachkonstruktionen im Holzbau."
   },
   {
    "id": 45,
    "topic": "Dachkonstruktionen",
-   "front": "Sparrendach mit Kniestock",
-   "back": "Das Sparrendach mit Kniestock ist eine Variante der Sparrendach-Konstruktion. In der Klausur wird hierzu eine Skizze verlangt. Der Kniestock erhöht die nutzbare Raumhöhe im Dachgeschoss."
+   "front": "Sparrendach ohne Kehlbalken - was gilt für die Giebelscheibe?",
+   "back": "Beim Sparrendach ohne Kehlbalken ist die Giebelscheibe nicht Teil der Konstruktion. Sie muss deshalb mit einem Anker gegen Kippen gesichert werden."
   },
   {
    "id": 46,
    "topic": "Dachkonstruktionen",
-   "front": "Kehlbalkendach (unverschieblich)",
-   "back": "Das Kehlbalkendach ist eine unverschiebliche Dachkonstruktion. Es gehört neben Sparren- und Pfettendach zu den behandelten Dachkonstruktionen. Der Kehlbalken übernimmt hierbei eine aussteifende Funktion."
+   "front": "Sparrendach mit Kehlbalken - Funktion und Beanspruchung des Kehlbalkens?",
+   "back": "Beim Sparrendach mit Kehlbalken wird das Gespärre (über 6 m) durch den Kehlbalken ausgesteift. Der Kehlbalken erhält dabei Druck längs zur Faser."
   },
   {
    "id": 47,
    "topic": "Dachkonstruktionen",
-   "front": "Pfettendach - allgemeine Eigenschaften",
-   "back": "Das Pfettendach ist die konstruktiv einfachste Form des Daches. Es ist jedoch hinsichtlich der Spannweiten begrenzt, weil sich die Sparren durchbiegen. Es kann mit einfach stehendem oder mit zweifach stehendem Dachstuhl ausgeführt werden."
+   "front": "Welche Varianten des Sparrendachs nennt der Text?",
+   "back": "Der Text unterscheidet das Sparrendach ohne Kehlbalken, das Sparrendach mit Kehlbalken und das Sparrendach mit Kniestock. Das Kehlbalkendach wird zudem als unverschieblich bezeichnet."
   },
   {
    "id": 48,
    "topic": "Dachkonstruktionen",
-   "front": "Einfach vs. zweifach stehender Dachstuhl beim Pfettendach",
-   "back": "Das Pfettendach wird entweder mit einfach stehendem oder mit zweifach stehendem Dachstuhl ausgeführt. Die stehenden Pfosten stützen die Pfetten ab, welche wiederum die Sparren tragen. Mit dem zweifach stehenden Dachstuhl lassen sich größere Spannweiten überbrücken."
+   "front": "Welche zwei Dachstuhl-Arten gibt es beim Pfettendach?",
+   "back": "Das Pfettendach gibt es mit einfach stehendem Dachstuhl und mit zweifach stehendem Dachstuhl. Diese Begriffe beschreiben den konstruktiven Aufbau des Pfettendachs."
   },
   {
    "id": 49,
    "topic": "Dachkonstruktionen",
-   "front": "Bugverbindungen - Funktion",
-   "back": "Bugverbindungen versteifen den Dachverband in Längsrichtung und verkürzen die Stützweite der Firstpfette. Sie werden mittels Laschen oder Versatz angeschlossen. Ihr Vorteil ist, dass Pfosten- und Pfettenquerschnitt dabei nicht geschwächt werden."
+   "front": "Wie wird das Pfettendach allgemein charakterisiert?",
+   "back": "Das Pfettendach ist die konstruktiv einfachste Form des Daches. Es besitzt jedoch eine Begrenzung hinsichtlich der Spannweiten aufgrund der Durchbiegung der Sparren."
   },
   {
    "id": 50,
    "topic": "Dachkonstruktionen",
-   "front": "Aussteifung mit Bohlen",
-   "back": "Bohlen dienen der Aussteifung der Dachfläche. Sie werden diagonal in der Dachfläche unter die Sparren genagelt. So übertragen sie Kräfte in der Dachebene und stabilisieren das Dach."
+   "front": "Was bewirken Bugverbindungen?",
+   "back": "Bugverbindungen versteifen den Dachverband in Längsrichtung und verkürzen die Stützweite der Firstpfette. Sie werden mittels Laschen oder Versatz angeschlossen. Ihr Vorteil: Pfosten- und Pfettenquerschnitt werden nicht geschwächt."
   },
   {
    "id": 51,
    "topic": "Dachkonstruktionen",
-   "front": "Rispenbänder",
-   "back": "Rispenbänder werden auf der Oberseite der Sparren angebracht und dienen der Aussteifung. Sie sind nur auf Zug beanspruchbar. Je nach Größe des Daches werden mehrere Verbände angeordnet."
+   "front": "Aussteifung mit Bohlen - wie werden sie angebracht?",
+   "back": "Bohlen werden zur Aussteifung diagonal in der Dachfläche unter die Sparren genagelt. Sie sind eine Möglichkeit der Dachaussteifung neben Rispenbändern, plattenförmigen Bauelementen und Tafelelementen."
   },
   {
    "id": 52,
    "topic": "Dachkonstruktionen",
-   "front": "Weitere Aussteifungselemente im Dach",
-   "back": "Neben Bohlen und Rispenbändern kommen plattenförmige Bauelemente und Tafelelemente zur Aussteifung des Daches zum Einsatz. Diese flächigen Elemente übernehmen die Aussteifung der Dachfläche. Sie ergänzen bzw. ersetzen die diagonalen Aussteifungen."
+   "front": "Rispenbänder - Anbringung und Beanspruchung?",
+   "back": "Rispenbänder werden auf der Oberseite der Sparren angebracht und sind nur auf Zug beanspruchbar. Je nach Größe werden mehrere Verbände ausgeführt."
   },
   {
    "id": 53,
    "topic": "Dachkonstruktionen",
-   "front": "Lösbare vs. unlösbare Verbindungen im Holzbau",
-   "back": "Lösbare Verbindungen umfassen zimmermannsmäßige Verbindungen (Versatz, Stoß, Blatt) und ingenieurmäßige Verbindungen (Dübel, Schrauben, Nägel). Unlösbare Verbindungen sind verleimte Holzwerkstoffe wie Sperrholz sowie Leimverbindungen und Brettschichtholz. Die Einteilung erfolgt danach, ob die Verbindung wieder gelöst werden kann."
+   "front": "Welche Elemente dienen laut Text der Aussteifung?",
+   "back": "Zur Aussteifung dienen Bohlen (diagonal unter die Sparren genagelt), Rispenbänder (oberseitig, nur auf Zug), plattenförmige Bauelemente sowie Tafelelemente."
   },
   {
    "id": 54,
    "topic": "Dachkonstruktionen",
-   "front": "Zimmermannsmäßige Verbindungen",
-   "back": "Zu den zimmermannsmäßigen (lösbaren) Verbindungen zählen Versatz, Stoß und Blatt. Sie werden ohne mechanische Verbindungsmittel durch die Bearbeitung des Holzes hergestellt. Sie gehören zu den lösbaren Verbindungen im Holzbau."
+   "front": "Lösbare Verbindungen im Holzbau - welche zwei Gruppen?",
+   "back": "Lösbare Verbindungen unterteilen sich in zimmermannsmäßige Verbindungen (Versatz, Stoß, Blatt) und ingenieurmäßige Verbindungen (Dübel, Schrauben, Nägel)."
   },
   {
    "id": 55,
    "topic": "Dachkonstruktionen",
-   "front": "Mechanische Verbindungsmittel im Holzbau",
-   "back": "Zu den mechanischen Verbindungsmitteln gehören Nagelverbindungen (Holz-Holz), Nagelverbindungen mittels Stahlblechformteile, Stabdübel und Passbolzen, Holzschrauben sowie Ringdübel. Stabdübel und Passbolzen werden bei der Verbindung von Hölzern größerer Dimensionen eingesetzt. Diese Verbindungsmittel zählen zu den ingenieurmäßigen Verbindungen."
+   "front": "Unlösbare Verbindungen im Holzbau - Beispiele?",
+   "back": "Zu den unlösbaren Verbindungen zählen verleimte Holzwerkstoffe, Sperrholz sowie Leimverbindungen und Brettschichtholz."
   },
   {
    "id": 56,
    "topic": "Dachkonstruktionen",
-   "front": "Nagelverbindung mittels Stahlblechformteile",
-   "back": "Neben der reinen Holz-Holz-Nagelverbindung gibt es die Nagelverbindung mittels Stahlblechformteile. Dabei werden Stahlbleche als Verbindungselement zwischen die Hölzer eingebracht und genagelt. Sie ermöglichen die Übertragung größerer Kräfte."
+   "front": "Mechanische Verbindungsmittel im Holzbau - Beispiele?",
+   "back": "Zu den mechanischen Verbindungsmitteln gehören Nagelverbindungen (Holz-Holz), Nagelverbindungen mittels Stahlblechformteile, Stabdübel und Passbolzen, Holzschrauben sowie Ringdübel."
   },
   {
    "id": 57,
-   "topic": "Einwirkungen & Bemessung",
-   "front": "Ständige Einwirkungen - Definition und Merkmale",
-   "back": "Ständige Einwirkungen wirken während der gesamten Nutzungsdauer eines Bauwerks. Sie weisen nur eine geringe zeitliche Größenänderung auf. Ein typisches Beispiel ist das Eigengewicht der Konstruktion, das über die Wichte des Materials erfasst wird."
+   "topic": "Dachkonstruktionen",
+   "front": "Wofür werden Stabdübel und Passbolzen eingesetzt?",
+   "back": "Stabdübel und Passbolzen werden bei der Verbindung von Hölzern größerer Dimensionen eingesetzt. Sie zählen zu den mechanischen Verbindungsmitteln im Holzbau."
   },
   {
    "id": 58,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Was ist die Wichte und wie wird daraus eine Flächenlast?",
-   "back": "Die Wichte ist das Verhältnis von Gewichtskraft zu Volumen und wird in kN/m³ angegeben. Sie hängt nicht nur von der Materialart ab, sondern auch von Ort und Umständen. Durch Multiplikation der Wichte mit der Höhe (bzw. Schichtdicke) erhält man eine Flächenlast."
+   "front": "Nenne die drei Hauptarten von Einwirkungen.",
+   "back": "Einwirkungen werden in ständige, veränderliche und außergewöhnliche Einwirkungen eingeteilt. Diese Einteilung bildet die Grundlage der Lastannahmen. Das allgemeine Formelzeichen für Einwirkung ist F (force)."
   },
   {
    "id": 59,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Veränderliche Einwirkungen - Merkmale",
-   "back": "Bei veränderlichen Einwirkungen ist die zeitliche Größenänderung nicht vernachlässigbar. Die Änderung muss dabei nicht immer in die gleiche Richtung erfolgen. Man unterscheidet vorwiegend nicht ruhende (stoßende/wiederholte Lasten) und vorwiegend ruhende Einwirkungen (Wind-, Nutz-, Schneelasten)."
+   "front": "Was sind ständige Einwirkungen?",
+   "back": "Ständige Einwirkungen wirken während der gesamten Nutzungsdauer eines Bauwerks. Sie weisen nur eine geringe zeitliche Größenänderung auf. Typisches Beispiel ist das Eigengewicht der Konstruktion (Wichte)."
   },
   {
    "id": 60,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Vorwiegend nicht ruhende vs. vorwiegend ruhende Einwirkungen",
-   "back": "Vorwiegend nicht ruhende Einwirkungen sind stoßende oder sich häufig wiederholende Lasten, z.B. Verkehrslasten, Kran, Gabelstapler oder das Glockenläuten bei Glockentürmen. Vorwiegend ruhende Einwirkungen umfassen dagegen Windlasten, Nutzlasten und Schneelasten. Beide sind Untergruppen der veränderlichen Einwirkungen."
+   "front": "Was ist das Eigengewicht der Konstruktion und wie wird es eingeordnet?",
+   "back": "Das Eigengewicht der Konstruktion ist eine ständige Einwirkung und wird über die Wichte beschrieben. Die Wichte ist das Verhältnis von Gewichtskraft zu Volumen (in kN/m³). Sie hängt auch von Ort und Umständen ab, nicht nur von der Materialart, und kann mit der Höhe multipliziert eine Flächenlast ergeben."
   },
   {
    "id": 61,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Drei Grundsätze zum Ansatz veränderlicher Einwirkungen",
-   "back": "1. Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen sind veränderliche Einwirkungen. 2. Der Ansatz muss sinnvoll sein - sich ausschließende Zustände wie Schnee und hohe Temperaturen dürfen nicht kombiniert werden. 3. Veränderliche Lasten können auch entlastend wirken (z.B. Wind von unten gegen eine Decke); entlastende Einwirkungen dürfen nicht in den Ansatz gebracht werden."
+   "front": "Was sind veränderliche Einwirkungen?",
+   "back": "Veränderliche Einwirkungen haben eine nicht vernachlässigbare zeitliche Größenänderung, die nicht immer in gleiche Richtung stattfinden muss. Sie unterteilen sich in vorwiegend ruhende und vorwiegend nicht ruhende Einwirkungen. Zu ihnen zählen u.a. Wind-, Nutz- und Schneelasten."
   },
   {
    "id": 62,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Nutzlasten - Kategorien",
-   "back": "Nutzlasten werden nach Richtung und Verhalten unterteilt: vertikal ruhend (z.B. Lagergut, Menschen, leichter Verkehr), vertikal nicht ruhend, vertikal für Dächer sowie horizontal. Horizontale Nutzlasten entstehen z.B. durch Personen an Brüstungen und anderen Absperrungen."
+   "front": "Was sind vorwiegend nicht ruhende Einwirkungen?",
+   "back": "Vorwiegend nicht ruhende Einwirkungen sind stoßende oder sich häufig wiederholende Lasten. Beispiele sind Verkehrslasten, Kran, Gabelstapler und Lasten aus Glockenläuten bei Glockentürmen. Sie gehören zu den veränderlichen Einwirkungen."
   },
   {
    "id": 63,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Wovon hängt der Böengeschwindigkeitsdruck qp ab?",
-   "back": "Der Böengeschwindigkeitsdruck qp hängt vom Windprofil (Verteilung der mittleren Geschwindigkeit über die Höhe), der Windzone, der Geländekategorie und dem Basisgeschwindigkeitsdruck ab. Der Basisgeschwindigkeitsdruck steigt dabei quadratisch mit der Windgeschwindigkeit. Für Gebäude bis 25 m Höhe existiert ein vereinfachter Ansatz."
+   "front": "Welche Lasten zählen zu den vorwiegend ruhenden Einwirkungen?",
+   "back": "Zu den vorwiegend ruhenden Einwirkungen zählen Windlasten, Nutzlasten und Schneelasten. Sie sind eine Untergruppe der veränderlichen Einwirkungen. Im Gegensatz dazu stehen die vorwiegend nicht ruhenden (stoßenden/wiederholten) Lasten."
   },
   {
    "id": 64,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Aerodynamischer Beiwert c",
-   "back": "Der aerodynamische Beiwert c beschreibt die 'Windschlüpfrigkeit' eines Bauteils oder Bauwerks. Bezieht er sich auf eine Kraft, wird er als cf bezeichnet, bezieht er sich auf einen Druck, als cp. Er entscheidet, wie stark der Wind auf ein Bauteil wirkt."
+   "front": "Als welche Einwirkungsart gelten Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen?",
+   "back": "Nach dem 1. Grundsatz gelten Eigenlasten aus Kies-/Bodenschüttungen und Erdanschüttungen als veränderliche Einwirkungen. Obwohl sie wie Eigengewicht wirken, werden sie also nicht als ständige Einwirkung angesetzt."
   },
   {
    "id": 65,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Außendruckbeiwerte cpe,1 und cpe,10 - Unterschied",
-   "back": "Der Außendruck wird als cpe angegeben. Für kleine Bauteile sowie Dach- oder Verkleidungselemente wird cpe,1 verwendet. Für das gesamte Tragwerk wird dagegen cpe,10 angesetzt."
+   "front": "Was sind Nutzlasten?",
+   "back": "Nutzlasten sind vertikale, ruhende veränderliche Einwirkungen wie z.B. Lagergut, Menschen und leichter Verkehr. Es gibt zudem Sonderformen: vertikale nicht ruhende Nutzlasten, Nutzlasten auf Dächern sowie horizontale Nutzlasten (z.B. Personen an Brüstungen und Absperrungen)."
   },
   {
    "id": 66,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Windlasten bei verschiedenen Dachformen",
-   "back": "Für die Winddruckverteilung werden Dachformen unterschieden: Flachdach (weniger als ±5° Neigung), Pultdach (mit Unterscheidung der Anströmrichtung), Sattel- und Trogdach sowie Walmdach. Jede Dachform hat eigene aerodynamische Beiwerte bzw. Wandflächenbereiche."
+   "front": "Wovon ist der Böengeschwindigkeitsdruck qp abhängig?",
+   "back": "Der Böengeschwindigkeitsdruck qp ist abhängig vom Windprofil (Verteilung der mittleren Geschwindigkeit über die Höhe), der Windzone, der Geländekategorie und dem Basisgeschwindigkeitsdruck. Der Basisgeschwindigkeitsdruck steigt quadratisch mit der Windgeschwindigkeit."
   },
   {
    "id": 67,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Wandinnendruck - wann ansetzen und wovon abhängig?",
-   "back": "Bei Wänden mit durchlässigen Außenwänden (z.B. Parkhaus) werden Innen- und Außendruck gleichzeitig angesetzt, wenn der Innendruck ungünstig wirkt. Der Innendruckbeiwert cpi hängt von Größe und Verteilung der Öffnungen der Gebäudehülle ab. Sind an zwei Seiten jeweils mehr als 30% offen, gelten sie als gänzlich offen; Fenster und Türen zählen dabei als geschlossen."
+   "front": "Was ist der aerodynamische Beiwert c?",
+   "back": "Der aerodynamische Beiwert c beschreibt die 'Windschlüpfrigkeit' eines Bauteils oder Bauwerks. Bei einer Kraft wird er als cf angegeben, bei Druck als cp. Für Außendruck heißt er cpe, für Innendruck cpi."
   },
   {
    "id": 68,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Versperrungsgrad Φ bei freistehenden Dächern",
-   "back": "Freistehende Dächer haben keine durchgehenden Wände nach unten, z.B. Bushaltestellen oder Tankstellen. Der Versperrungsgrad Φ ist das Verhältnis der versperrten Fläche zur Gesamtfläche unterhalb des Daches. Er beeinflusst die Windlastannahme."
+   "front": "Was bezeichnen die Außendruckbeiwerte cpe,1 und cpe,10?",
+   "back": "cpe steht für den aerodynamischen Außendruckbeiwert. cpe,1 wird für kleine Bauteile sowie Dach- oder Verkleidungselemente genommen. cpe,10 wird für das gesamte Tragwerk verwendet."
   },
   {
    "id": 69,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Dynamische Effekte des Windes",
-   "back": "Neben statischen Windlasten treten dynamische Effekte auf, nämlich wirbelerregte Querschwingungen und aeroelastische Phänomene. Dazu zählen böenerregte Schwingungen, Flattern, Divergenz und Galloping. Diese müssen bei schwingungsanfälligen Bauwerken beachtet werden."
+   "front": "Was ist der Innendruckbeiwert cpi (Wandinnendruck)?",
+   "back": "Der Innendruckbeiwert cpi beschreibt den Wandinnendruck bei Gebäuden mit durchlässigen Außenwänden (z.B. Parkhaus). Er ist abhängig von Größe und Verteilung der Öffnungen der Gebäudehülle. Innen- und Außendruck werden gleichzeitig angenommen, wenn der Innendruck ungünstig wirkt; Fenster und Türen gelten als geschlossen."
   },
   {
    "id": 70,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Bestimmung der charakteristischen Schneelast auf dem Dach",
-   "back": "Der Ablauf lautet: Aus der Schneelastzone ergibt sich die charakteristische Schneelast auf dem Boden sk. Über den Formbeiwert µ, der von der Dachform abhängt, erhält man die charakteristische Schneelast auf dem Dach als si = µ · sk. Der Formbeiwert passt die Bodenlast an die jeweilige Dachgeometrie an."
+   "front": "Was ist der Versperrungsgrad bei freistehenden Dächern?",
+   "back": "Der Versperrungsgrad ist das Verhältnis der versperrten Fläche zur Gesamtfläche unterhalb des Daches. Freistehende Dächer haben keine durchgehenden Wände nach unten (z.B. Bushaltestelle, Tankstelle)."
   },
   {
    "id": 71,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Spezielle Formbeiwerte bei Schneelasten (Solaranlagen, Höhensprünge)",
-   "back": "Es gibt spezielle Formbeiwerte: µs für Dächer mit Solaranlagen, bei denen örtliche Schneeansammlungen durch Wind und Verwehung berücksichtigt werden müssen, und µw an Höhensprüngen, wo sich ähnlich Schnee ansammelt. Auch an Aufbauten und Wänden bilden sich durch Verwehung Schneeansammlungen. Diese lokalen Anhäufungen erhöhen die Last gegenüber gleichmäßig verteiltem Schnee."
+   "front": "Nenne Beispiele für dynamische Effekte bei Windlasten.",
+   "back": "Dynamische Effekte umfassen wirbelerregte Querschwingungen und aeroelastische Phänomene. Dazu zählen böenerregte Schwingungen, Flattern, Divergenz und Galloping."
   },
   {
    "id": 72,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Schneeüberhang an der Traufe",
-   "back": "Am Traufbereich sammelt sich Schnee unten am Dachrand an. Dadurch entsteht dort eine größere Last als beim restlichen Schnee auf dem Dach. Dieser Schneeüberhang muss als spezieller Lastfall berücksichtigt werden."
+   "front": "Nenne die Fachbegriffe der Schneelast-Kette bis zur Schneelast auf dem Dach.",
+   "back": "Aus der Schneelastzone ergibt sich die charakteristische Schneelast sk. Über den Formbeiwert der Dachform µ erhält man die charakteristische Schneelast auf dem Dach si = µ · sk. sk ist dabei die charakteristische Schneelast auf dem Boden."
   },
   {
    "id": 73,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Schneelast bei Dächern mit großen Grundrissabmessungen",
-   "back": "Bei Dächern mit großen Grundrissabmessungen kann der Schnee nicht in dem Maße vom Dach heruntergeweht werden wie bei kleinen Dächern. Dies gilt bei einer Dachneigung bis 30° und einer kleinsten Grundrissabmessung von mehr als 50 m. Deshalb muss ein höherer Schneelastansatz gewählt werden."
+   "front": "Was bezeichnet der Begriff 'Schneeüberhang an der Traufe'?",
+   "back": "Beim Schneeüberhang an der Traufe sammelt sich Schnee unten an der Traufe an. Dadurch entsteht dort eine größere Last als beim restlichen Schnee auf dem Dach. Dies ist ein Sonderfall der Formbeiwerte bei Schneelasten."
   },
   {
    "id": 74,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Außergewöhnliche Einwirkungen - Definition und Beispiele",
-   "back": "Außergewöhnliche Einwirkungen sind Extremereignisse für Bauwerke mit großer Unsicherheit, weshalb der Ansatz eher vorsichtig gewählt wird. Beispiele sind Bauwerksanprall (Straßenverkehr, Eisenbahn, Schiff), Innenraumexplosionen in Gebäuden, Staubexplosionen in Silos sowie Erdbeben. Auch horizontale Anpralllasten (z.B. Gabelstapler gegen Stahlträger) gehören dazu."
+   "front": "Was sind außergewöhnliche Einwirkungen?",
+   "back": "Außergewöhnliche Einwirkungen sind Extremereignisse für Bauwerke mit großer Unsicherheit, weshalb der Ansatz eher vorsichtig gewählt wird. Beispiele sind Bauwerksanprall (Straßenverkehr, Eisenbahn, Schiff), Innenraumexplosion in Gebäuden, Staubexplosion in Silos und Erdbeben."
   },
   {
    "id": 75,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Ziel und Prinzip der Bemessung",
-   "back": "Die Bemessung dient der Sicherstellung von Tragfähigkeit und Gebrauchstauglichkeit. Wichtig ist die Abschätzung der materiellen Streuung von Baustoffen. Da eine 100%ige Sicherheit nicht wirtschaftlich möglich ist, versucht man, die Versagenswahrscheinlichkeit minimal zu halten (Zuverlässigkeit)."
+   "front": "Was ist das Ziel der Bemessung?",
+   "back": "Die Bemessung dient der Sicherstellung der Tragfähigkeit und Gebrauchstauglichkeit. Da eine Sicherheit von 100% nicht wirtschaftlich möglich ist, wird versucht, die Wahrscheinlichkeit des Versagens minimal zu halten (Zuverlässigkeit). Wichtig ist die Abschätzung der materiellen Streuung von Baustoffen."
   },
   {
    "id": 76,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Größen F, E und R im Sicherheitskonzept",
-   "back": "F (force) steht für die Einwirkung, unterteilt in ständig, veränderlich und außergewöhnlich. E (effect) ist die Beanspruchung, also die Auswirkung einer oder mehrerer Einwirkungen. R (resistance) ist die Beanspruchbarkeit, der Tragwiderstand bzw. die Fähigkeit des Tragwerks, den einwirkenden Beanspruchungen standzuhalten."
+   "front": "Wofür stehen die Formelzeichen F, E und R im Sicherheitskonzept?",
+   "back": "F (force) ist die Einwirkung. E (effect) ist die Beanspruchung, also die Auswirkung einer oder mehrerer Einwirkungen. R (resistance) ist die Beanspruchbarkeit bzw. der Tragwiderstand, die Fähigkeit des Tragwerks, den einwirkenden Beanspruchungen standzuhalten."
   },
   {
    "id": 77,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Zentrale Sicherheit vs. Nennsicherheit",
-   "back": "Die zentrale Sicherheit bezieht sich auf den Mittelwert und berücksichtigt keine Streuung. Die Nennsicherheit bezieht sich dagegen auf den Fraktilwert und erfasst damit die Streuung. Der Fraktilwert emax ist die Grenze, die in x% der Fälle nicht überschritten wird."
+   "front": "Was bedeutet der Sicherheitsindex β?",
+   "back": "β ist der Sicherheitsindex, ein Maß für die Versagenswahrscheinlichkeit. Er berücksichtigt die Streuung auf Beanspruchung und Beanspruchbarkeit."
   },
   {
    "id": 78,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Sicherheitsindex β",
-   "back": "β ist der Sicherheitsindex, ein Maß für die Versagenswahrscheinlichkeit. Er erfasst die Streuung auf Beanspruchung und Beanspruchbarkeit. Die Streuung entsteht aus der Zufälligkeit von Einwirkungen und Konstruktionsgeometrie, die z.B. bei Betondrucktests zu einer Gaußschen Verteilungskurve führt."
+   "front": "Unterscheide zentrale Sicherheit und Nennsicherheit.",
+   "back": "Die zentrale Sicherheit bezieht sich auf den Mittelwert und berücksichtigt keine Streuung. Die Nennsicherheit bezieht sich auf den Fraktilwert und erfasst somit die Streuung. Der Fraktilwert emax ist die Grenze, die in x% der Fälle nicht überschritten wird."
   },
   {
    "id": 79,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Eurocodes und CE-/Ü-Kennzeichnung",
-   "back": "Grundlage der einheitlichen europäischen Bemessungsregeln sind die Eurocodes (EC). Für Bauprodukte gibt es die allgemeine bauaufsichtliche Zulassung (abZ) oder die Zulassung im Einzelfall. Die CE-/Ü-Kennzeichnung bestätigt, dass alle relevanten Vorschriften eingehalten werden."
+   "front": "Was sind charakteristische Werte in den Eurocodes?",
+   "back": "Charakteristische Werte sind Bezugswerte zu einem Wert der Einwirkung, die eine bestimmte Wahrscheinlichkeit besitzen (z.B. der 50-Jahres-Wind). Sie werden für ständige und veränderliche Einwirkungen unterschieden und bilden die Basis der Bemessungsregeln."
   },
   {
    "id": 80,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Charakteristische Werte und Teilsicherheitsbeiwerte",
-   "back": "Charakteristische Werte sind Bezugswerte einer Einwirkung (z.B. der 50-Jahres-Wind), die eine bestimmte Wahrscheinlichkeit besitzen. In den Bemessungsregeln werden charakteristische Werte mit Teilsicherheitsbeiwerten kombiniert. Die Teilsicherheitsbeiwerte kompensieren Unsicherheiten bzw. die Streuung."
+   "front": "Was sind Teilsicherheitsbeiwerte?",
+   "back": "Teilsicherheitsbeiwerte kompensieren Unsicherheiten bzw. Streuung. Die Bemessungsregeln legen die Festlegung und Kombination von charakteristischen Werten und Teilsicherheitsbeiwerten fest."
   },
   {
    "id": 81,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Grenzzustand der Tragfähigkeit (GZT)",
-   "back": "Der Grenzzustand der Tragfähigkeit (GZT) betrachtet das Versagen des Tragwerks. Er kennt drei Bemessungssituationen: ständig (übliche Nutzung), vorübergehend (zeitlich begrenzt) und außergewöhnlich (Extremsituation). Für ihn werden Einwirkungen entsprechend kombiniert."
+   "front": "Wofür stehen GZT und GZG?",
+   "back": "GZT steht für Grenzzustand der Tragfähigkeit, GZG für Grenzzustand der Gebrauchstauglichkeit. Die Eurocodes basieren auf einem Bemessungskonzept nach Grenzzuständen. Beim GZT gibt es die Situationen ständig, vorübergehend und außergewöhnlich; beim GZG die seltene, häufige und quasi-ständige Bemessungssituation."
   },
   {
    "id": 82,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Grenzzustand der Gebrauchstauglichkeit (GZG)",
-   "back": "Der Grenzzustand der Gebrauchstauglichkeit (GZG) betrifft die Nutzbarkeit des Bauwerks. Er unterscheidet die seltene (führt zu bleibenden Auswirkungen), die häufige (führt zu vorübergehenden Auswirkungen) und die quasi-ständige (führt zu Langzeitauswirkungen) Bemessungssituation."
+   "front": "Welche drei Bemessungssituationen unterscheidet der GZG (Gebrauchstauglichkeit)?",
+   "back": "Der Grenzzustand der Gebrauchstauglichkeit unterscheidet die seltene Bemessungssituation (führt zu bleibenden Auswirkungen), die häufige (führt zu vorübergehenden Auswirkungen) und die quasi-ständige (führt zu Langzeitauswirkungen)."
   },
   {
    "id": 83,
    "topic": "Einwirkungen & Bemessung",
-   "front": "Günstige und ungünstige Wirkung von Einwirkungen bei Bemessungswerten",
-   "back": "Bei der Bildung von Bemessungswerten - insbesondere im GZT - muss die Wirkung einer Einwirkung als günstig oder ungünstig beachtet werden. Je nachdem, ob eine Einwirkung entlastend (günstig) oder belastend (ungünstig) wirkt, werden unterschiedliche Teilsicherheitsbeiwerte angesetzt."
+   "front": "Worauf basieren die einheitlichen europäischen Bemessungsregeln?",
+   "back": "Grundlage der einheitlichen Bemessungsregeln sind die Eurocodes (EC). Dazu gehören die allgemeine bauaufsichtliche Zulassung (abZ) bzw. Zulassung im Einzelfall sowie die CE-/Ü-Kennzeichnung, die bestätigt, dass alle relevanten Vorschriften eingehalten werden."
   },
   {
    "id": 84,
-   "topic": "Einwirkungen & Bemessung",
-   "front": "Kombinationsbeiwerte",
-   "back": "Kombinationsbeiwerte treten immer in Kombination mit den Einwirkungen auf. Sie berücksichtigen, dass mehrere veränderliche Einwirkungen nicht gleichzeitig mit ihrem vollen charakteristischen Wert auftreten. Damit werden Lastkombinationen realistisch abgebildet."
+   "topic": "Flachdach",
+   "front": "Was ist ein Flachdach (Definition und Neigung)?",
+   "back": "Ein Flachdach ist eine Dachfläche mit einer Neigung von weniger als 5°. Statt einer Dachdeckung wird eine Dachabdichtung mit Gefälle ausgeführt. Man unterscheidet nicht genutzte, genutzte und intensiv begrünte Dachflächen."
   },
   {
    "id": 85,
    "topic": "Flachdach",
-   "front": "Wie ist ein Flachdach über die Dachneigung definiert und was ersetzt die Dachdeckung?",
-   "back": "Als Flachdach gelten Dachflächen mit einer Neigung von weniger als 5°. Anstelle einer geneigten Dachdeckung erhält das Flachdach eine Dachabdichtung mit Gefälle. Das Gefälle sorgt dafür, dass anfallendes Wasser sicher zu den Entwässerungselementen geleitet wird."
+   "front": "Warmdach: Bezeichnung, Ausführung und Merkmal",
+   "back": "Das Warmdach ist die einschalige, nicht belüftete Ausführung. Tragende Konstruktion und Dachabdichtung bilden ein Verbundelement. Dieses Verbundelement wärmt sich auf, daher der Name Warmdach."
   },
   {
    "id": 86,
    "topic": "Flachdach",
-   "front": "Welche Kategorien von Flachdachflächen werden unterschieden?",
-   "back": "Man unterscheidet nicht genutzte Flachdachflächen, die nur zu Wartungsarbeiten betreten werden, genutzte Dachflächen für Personen- oder Fahrzeugverkehr sowie intensiv begrünte Dachflächen. Die Kategorie bestimmt die Anforderungen an Tragfähigkeit, Aufbau und Nutzung. So muss z.B. eine für Fahrzeugverkehr genutzte Fläche deutlich höhere Lasten aufnehmen als eine nur zur Wartung betretbare Fläche."
+   "front": "Kaltdach: Bezeichnung, Ausführung und Merkmal",
+   "back": "Das Kaltdach ist die zweischalige, belüftete Ausführung. Wärmedämmung und Dachabdichtung sind durch einen Luftraum voneinander getrennt. Dadurch bleibt die Dachschale kalt, was dem Dach seinen Namen gibt."
   },
   {
    "id": 87,
    "topic": "Flachdach",
-   "front": "Welchen Beanspruchungen ist ein Flachdach ausgesetzt?",
-   "back": "Ein Flachdach wird durch Feuchtigkeit, mechanische Beanspruchung, thermische Beanspruchung sowie durch 'Umweltbeanspruchung' belastet. Diese Einwirkungen müssen bei der Wahl von Abdichtung, Dämmung und Aufbau berücksichtigt werden, damit das Dach dauerhaft funktionsfähig bleibt."
+   "front": "Welche Beanspruchungen wirken auf ein Flachdach?",
+   "back": "Ein Flachdach wird beansprucht durch Feuchtigkeit, mechanische Beanspruchung, thermische Beanspruchung und 'Umweltbeanspruchung'. Diese Beanspruchungen bestimmen die Anforderungen an den Dachaufbau."
   },
   {
    "id": 88,
    "topic": "Flachdach",
-   "front": "Was ist ein einschaliges, nicht belüftetes Flachdach ('Warmdach')?",
-   "back": "Beim Warmdach bilden die tragende Konstruktion und die Dachabdichtung ein Verbundelement. Dieses Verbundelement wärmt sich auf, weshalb man von einem 'Warmdach' spricht. Der gesamte Aufbau liegt ohne trennenden Luftraum direkt übereinander."
+   "front": "Welche Kategorien von Flachdachflächen gibt es?",
+   "back": "Man unterscheidet nicht genutzte Flachdachflächen (nur für Wartungsarbeiten), genutzte Dachflächen (für Personen und Fahrzeugverkehr) und intensiv begrünte Dachflächen."
   },
   {
    "id": 89,
    "topic": "Flachdach",
-   "front": "Was ist ein zweischaliges, belüftetes Flachdach ('Kaltdach')?",
-   "back": "Beim Kaltdach sind die Wärmedämmung und die Dachabdichtung durch einen Luftraum voneinander getrennt. Durch diese Belüftung bleibt die obere Dachschale kalt, weshalb man von einem 'Kaltdach' spricht. Der Luftraum ermöglicht den Abtransport von Feuchtigkeit und trennt die warme von der kalten Ebene."
+   "front": "Warum ist beim Flachdach ein Gefälle nötig und wohin muss es zeigen?",
+   "back": "Bei Flachdächern ist ein Gefälle nötig, damit das Wasser ablaufen kann. Das Gefälle muss immer Richtung der Entwässerungselemente zeigen. Erreicht wird es z.B. mithilfe von Gefälleestrich oder einem mehrschichtigen Dichtungsaufbau."
   },
   {
    "id": 90,
    "topic": "Flachdach",
-   "front": "Welches Mindestgefälle gilt bei Flachdächern und worauf beruht es?",
-   "back": "Bei Flachdächern ist ein Gefälle von mindestens 2% vorzusehen. Diese Vorgabe stammt aus der Flachdachrichtlinie. Das Gefälle stellt sicher, dass Niederschlagswasser zuverlässig abfließt und sich keine schädlichen Wassersäcke bilden."
+   "front": "Wogegen muss der Flachdachaufbau bei Windbelastung gesichert werden?",
+   "back": "Der Flachdachaufbau muss gegen das Abheben durch die Sogwirkung des Windes gesichert werden. Als Sicherungsarten dienen Auflast, Verkleben und mechanische Befestigung."
   },
   {
    "id": 91,
    "topic": "Flachdach",
-   "front": "Warum und wogegen muss ein Flachdachaufbau gesichert werden?",
-   "back": "Wind erzeugt auf dem Flachdach eine Sogwirkung, die den Aufbau anzuheben droht. Deshalb muss der Flachdachaufbau gegen das Abheben durch Wind gesichert werden. Ohne ausreichende Sicherung könnten sich die Abdichtungsbahnen lösen und das Dach würde undicht."
+   "front": "Sicherung gegen Windsog durch Auflast",
+   "back": "Bei der Sicherung durch Auflast wird die lose verlegte Dachabdichtung beschwert, zum Beispiel durch eine Kiesschüttung oder Substrat. So wird das Abheben durch Windsog verhindert."
   },
   {
    "id": 92,
    "topic": "Flachdach",
-   "front": "Welche drei Methoden zur Sicherung gegen Windsog gibt es?",
-   "back": "Erstens die Sicherung durch Auflast, bei der die lose verlegte Dachabdichtung z.B. durch Kiesschüttung oder Substrat beschwert wird. Zweitens die Sicherung durch Verkleben der Abdichtung mit dem Untergrund. Drittens die mechanische Befestigung mit Dübeln oder Schrauben."
+   "front": "Sicherung gegen Windsog durch mechanische Befestigung",
+   "back": "Bei der mechanischen Befestigung wird die Dachabdichtung auf geeignetem Untergrund (z.B. Holz oder Profilblech) befestigt. Die Befestigung erfolgt mit Dübeln oder Schrauben."
   },
   {
    "id": 93,
    "topic": "Flachdach",
-   "front": "Was ist bei der mechanischen Befestigung der Dachabdichtung zu beachten?",
-   "back": "Die mechanische Befestigung erfolgt mit Dübeln oder Schrauben. Sie ist nur auf einem geeigneten Untergrund möglich, beispielsweise auf Holz oder Profilblech, da diese Materialien die Befestigungsmittel sicher aufnehmen können. Auf ungeeigneten Untergründen wäre die notwendige Auszugsfestigkeit nicht gewährleistet."
+   "front": "Sicherung gegen Windsog durch Verkleben",
+   "back": "Neben Auflast und mechanischer Befestigung kann der Flachdachaufbau auch durch Verkleben gegen das Abheben durch Windsog gesichert werden."
   },
   {
    "id": 94,
    "topic": "Flachdach",
-   "front": "Wie funktioniert die Innenentwässerung eines Flachdachs?",
-   "back": "Bei der Innenentwässerung leiten Entwässerungselemente das Wasser über Rohre durch den Innenraum des Gebäudes und anschließend nach draußen. Das Gefälle des Dachs muss immer in Richtung dieser Entwässerungselemente zeigen. Hergestellt wird das Gefälle beispielsweise mit Gefälleestrich oder einem mehrschichtigen Dichtungsaufbau."
+   "front": "Was leisten Entwässerungselemente bei der Innenentwässerung?",
+   "back": "Entwässerungselemente der Innenentwässerung leiten das Wasser über Rohre durch den Innenraum des Gebäudes und anschließend nach draußen. Das Gefälle muss dabei stets in Richtung dieser Elemente zeigen. Zusätzlich ist ein Notüberlauf vorzusehen."
   },
   {
    "id": 95,
    "topic": "Flachdach",
-   "front": "Wozu dient ein Notüberlauf beim Flachdach und wie wird das Gefälle gebildet?",
-   "back": "Zusätzlich zur regulären Entwässerung ist beim Flachdach ein Notüberlauf vorgesehen, der im Bedarfsfall überschüssiges Wasser ableitet. Das erforderliche Gefälle zu den Entwässerungselementen wird mithilfe von Gefälleestrich oder einem mehrschichtigen Dichtungsaufbau erzeugt. So wird verhindert, dass sich Wasser unkontrolliert auf der Dachfläche staut."
+   "front": "Welche Dachneigung ist beim Flachdach mindestens erforderlich?",
+   "back": "Bei Flachdächern ist ein Gefälle von mindestens 2 % erforderlich, festgelegt nach der Flachdachrichtlinie. Das Gefälle stellt sicher, dass das Wasser Richtung Entwässerung abläuft."
   },
   {
    "id": 96,
    "topic": "Treppen",
-   "front": "Treppenpodest vs. Zwischenpodest",
-   "back": "Ein Treppenpodest ist der Absatz am Anfang oder Ende eines Treppenlaufs. Ein Zwischenpodest hingegen liegt zwischen zwei Treppenläufen, also zwischen den Geschossdecken. Beide dienen dem Wechsel oder der Unterbrechung des Laufs."
+   "front": "Treppenpodest",
+   "back": "Das Treppenpodest ist der Absatz am Anfang oder Ende eines Treppenlaufs. Es bildet einen ebenen Bereich, der einen Treppenlauf begrenzt."
   },
   {
    "id": 97,
    "topic": "Treppen",
-   "front": "Woraus besteht eine Treppenstufe und wozu dient sie?",
-   "back": "Eine Treppenstufe besteht aus Steigung und Auftritt. Sie wird zum Überwinden von Höhenunterschieden mit einem einzigen Schritt begangen. Die Steigung ist der vertikale, der Auftritt der horizontale Anteil der Stufe."
+   "front": "Zwischenpodest",
+   "back": "Das Zwischenpodest ist der Absatz zwischen zwei Treppenläufen. Es liegt zwischen den Geschossdecken und unterbricht so einen langen Aufstieg."
   },
   {
    "id": 98,
    "topic": "Treppen",
-   "front": "Treppenaustrittsstufe / Treppenantrittsstufe",
-   "back": "Die Antrittsstufe ist die unterste Stufe eines Treppenlaufs, die Austrittsstufe die oberste Stufe. Sie bilden den Beginn bzw. das Ende eines Laufs."
+   "front": "Treppenstufe",
+   "back": "Die Treppenstufe besteht aus Steigung und Auftritt. Sie wird zum Überwinden von Höhenunterschieden mit einem Schritt begangen."
   },
   {
    "id": 99,
    "topic": "Treppen",
-   "front": "Was ist das Treppenauge?",
-   "back": "Das Treppenauge ist der von der Treppe umschlossene, freie Raum. Es entsteht typischerweise bei gewendelten oder mehrläufigen Treppen als offener Kern zwischen den Läufen."
+   "front": "Treppenan-/austrittsstufe",
+   "back": "Die Treppenan-/austrittsstufe ist die unterste bzw. oberste Stufe eines Treppenlaufs. Sie bildet den Übergang zwischen Podest/Ebene und dem eigentlichen Treppenlauf."
   },
   {
    "id": 100,
    "topic": "Treppen",
-   "front": "Funktion von Treppengeländer und Handlauf",
-   "back": "Das Treppengeländer ist die Absturzsicherung an Treppenläufen und -podesten. Der Handlauf ist ein grifsicheres Bauteil und dient als Gehhilfe für Personen. Geländer schützt also vor Absturz, der Handlauf unterstützt beim Gehen."
+   "front": "Treppenauge",
+   "back": "Das Treppenauge ist der von Treppen umschlossene, freie Raum. Es entsteht im Inneren gewendelter oder mehrläufiger Treppen."
   },
   {
    "id": 101,
    "topic": "Treppen",
-   "front": "Aufgabe der Treppenwange",
-   "back": "Die Treppenwange trägt die Stufen seitlich und begrenzt den Treppenlauf seitlich. Sie ist somit ein tragendes und zugleich begrenzendes Bauteil des Laufs."
+   "front": "Treppengeländer",
+   "back": "Das Treppengeländer dient als Absturzsicherung an Treppenläufen und -podesten. Es ist erforderlich, wenn eine mehr als 1 m tiefer liegende Fläche angrenzt. Bei Gebäuden mit Kleinkindern muss es zusätzlich gegen Durchzwängen und Überklettern gesichert werden."
   },
   {
    "id": 102,
    "topic": "Treppen",
-   "front": "Welche Rolle spielen Treppen im Brandschutz?",
-   "back": "Treppen sind im Brandfall der einzige Fluchtweg zum Verlassen mehrgeschossiger Gebäude. Deshalb gelten Mindestanforderungen an eine ausreichende Anzahl und eine nicht zu große Entfernung zu den Nutzungsräumen. Zudem müssen sie Standhaftigkeits- und Rauchentwicklungsanforderungen erfüllen."
+   "front": "Handlauf",
+   "back": "Der Handlauf ist ein grifsicheres Bauteil und dient als Gehhilfe für Personen. Er ist mindestens auf einer Seite (bei breiten Treppen auf zwei Seiten) anzuordnen und muss durchgehend ausgeführt werden."
   },
   {
    "id": 103,
    "topic": "Treppen",
-   "front": "Wann ist ein eigener Treppenraum notwendig und welche Belüftung braucht er?",
-   "back": "Eine notwendige Treppe muss einen eigenen Treppenraum besitzen. Dieser muss je Geschoss ein öffenbares Fenster oder einen Rauchabzug zur Belüftung haben. Ohne eigenen Treppenraum sind Treppen nur in den Gebäudeklassen 1 und 2 zulässig."
+   "front": "Treppenwange",
+   "back": "Die Treppenwange trägt die Stufen seitlich und begrenzt den Lauf seitlich. Sie ist das seitliche tragende Bauteil eines Treppenlaufs."
   },
   {
    "id": 104,
    "topic": "Treppen",
-   "front": "Anforderungen an innenliegende Treppenräume",
-   "back": "Innenliegende Treppenräume müssen gegen Raucheintritt gesichert sein und dürfen keine brennbaren Baustoffe enthalten. Zudem müssen notwendige Treppen grundsätzlich beleuchtet sein, um die Fluchtwegfunktion sicherzustellen."
+   "front": "Brandschutz bei Treppen",
+   "back": "Im Brandfall ist die Treppe der einzige Fluchtweg zum Verlassen mehrgeschossiger Gebäude. Es gelten Mindestanforderungen an Anzahl und Entfernung zu Nutzungsräumen. Treppen müssen Standhaftigkeits- und Rauchentwicklungsanforderungen entsprechen. Die Anforderungen richten sich nach den Gebäudeklassen."
   },
   {
    "id": 105,
    "topic": "Treppen",
-   "front": "Luftschallschutz vs. Trittschallschutz bei Treppen",
-   "back": "Bei Treppen müssen sowohl Luftschallschutz als auch Trittschallschutz gewährleistet sein. Der Luftschallschutz wird durch die Ausführung der Treppenraumwände erreicht. Der Trittschallschutz entsteht durch Entkoppeln des Treppenlaufs, z.B. mit einer Schöck Tronsole."
+   "front": "Treppenräume (notwendige Treppe)",
+   "back": "Eine notwendige Treppe muss einen eigenen Treppenraum haben, mit je Geschoss einem öffenbaren Fenster oder einem Rauchabzug zur Belüftung. Ohne Treppenraum ist nur GK 1 & 2 zulässig. Notwendige Treppen müssen beleuchtet sein."
   },
   {
    "id": 106,
    "topic": "Treppen",
-   "front": "Wie ergeben sich die Steigungsverhältnisse einer Treppe?",
-   "back": "Die Steigungsverhältnisse ergeben sich aus der mittleren Schrittlänge des erwachsenen Menschen und der Neigung der begangenen Fläche. Sie sind nach DIN-Norm festgelegt und sorgen für ein bequemes, sicheres Begehen."
+   "front": "Innenliegende Treppenräume",
+   "back": "Innenliegende Treppenräume müssen gegen Raucheintritt gesichert sein. In ihnen dürfen keine brennbaren Baustoffe verwendet werden."
   },
   {
    "id": 107,
    "topic": "Treppen",
-   "front": "Wann ist ein Treppengeländer als Absturzsicherung erforderlich?",
-   "back": "Ein Geländer ist als Absturzsicherung an Treppenläufen und -podesten erforderlich, wenn eine mehr als 1 m tiefer liegende Fläche angrenzt. Es verhindert das Abstürzen von Personen an offenen Seiten des Laufs oder Podests."
+   "front": "Schallschutz bei Treppen",
+   "back": "Bei Treppen müssen sowohl Luftschallschutz als auch Trittschallschutz gewährleistet sein. Der Luftschallschutz wird durch die Ausführung der Treppenraumwände erreicht, der Trittschallschutz durch Entkoppeln des Treppenlaufs (z.B. Schöck Tronsole)."
   },
   {
    "id": 108,
    "topic": "Treppen",
-   "front": "Schutz von Kleinkindern bei Geländern",
-   "back": "In Gebäuden, in denen mit Kleinkindern zu rechnen ist, müssen Geländer gegen Durchzwängen und Überklettern gesichert werden. Es gibt keine DIN-geregelten Anforderungen an die Öffnungen. Die Sicherung gegen Überklettern erfolgt z.B. durch geschlossene Geländerflächen."
+   "front": "Steigungsverhältnis",
+   "back": "Das Steigungsverhältnis ergibt sich aus der mittleren Schrittlänge des erwachsenen Menschen und der Neigung der begangenen Fläche. Es ist nach DIN-Norm festgelegt."
   },
   {
    "id": 109,
    "topic": "Treppen",
-   "front": "Anforderungen an Handläufe",
-   "back": "Mindestens auf einer Seite, bei breiten Treppen auf zwei Seiten, muss ein grifsicherer Handlauf vorhanden sein. Er hat eine Breite von 3,5-5 cm und einen Abstand von mindestens 5 cm zu anderen Bauteilen. Der Handlauf muss durchgehend ausgeführt werden."
+   "front": "Geländer als Kleinkindschutz",
+   "back": "Bei Gebäuden, in denen mit Kleinkindern zu rechnen ist, müssen Geländer gegen Durchzwängen und Überklettern gesichert werden. Es gibt keine DIN-geregelten Anforderungen an die Öffnungen; die Sicherung gegen Überklettern erfolgt z.B. durch geschlossene Geländerflächen."
   },
   {
    "id": 110,
    "topic": "Treppen",
-   "front": "Wozu dienen Rampen und wann ersetzen sie Treppen?",
-   "back": "Rampen verbinden verschiedene Ebenen und können bei flacher Neigung notwendige Treppen ersetzen. Sie sind z.B. für barrierefreie Nutzung oder KFZ-Verkehrswege erforderlich. Damit ermöglichen sie eine stufenlose Überwindung von Höhenunterschieden."
+   "front": "Rampe",
+   "back": "Eine Rampe ist eine Verbindung zwischen verschiedenen Ebenen. Sie kann bei flacher Neigung notwendige Treppen ersetzen und ist z.B. für barrierefreie Nutzung und KFZ-Verkehrswege erforderlich."
   },
   {
    "id": 111,
    "topic": "Treppen",
-   "front": "Anforderungen an barrierefreie Rampen",
-   "back": "Barrierefreie Rampen dürfen eine Steigung von maximal 6% haben und kein Quergefälle aufweisen. An An- und Austritt ist eine Bewegungsfläche von mindestens 1,5 m vorzusehen. Ab 6 m Länge ist ein mindestens 1,2 m breites Zwischenpodest erforderlich."
+   "front": "Barrierefreie Rampe",
+   "back": "Barrierefreie Rampen dürfen kein Quergefälle haben und haben eine begrenzte maximale Steigung. An- und Austritt benötigen eine Bewegungsfläche, und ab einer bestimmten Länge ist ein Zwischenpodest erforderlich."
   },
   {
    "id": 112,
    "topic": "Fenster & Fassaden",
-   "front": "Zwei historische Ursprungsprinzipien der Fassade",
-   "back": "Historisch gehen Fassaden auf zwei Prinzipien zurück: massive, ortsfeste, auf Dauerhaftigkeit ausgelegte Wandkonstruktionen einerseits und elementierte Fassaden in Zeltform andererseits. Letztere sind flexibel und mobil. Beide entstanden aus dem sesshaften Dasein und dem Zusammenspiel von Wohnformen und klimatischen Bedingungen mit dem Ziel, die Wand dauerhaft gegen Witterungseinflüsse zu schützen."
+   "front": "Zwei Ursprungsprinzipien von Fassaden (historisch)",
+   "back": "Fassadenkonstruktionen entstanden aus sesshaftem Dasein im Zusammenspiel von Wohnformen und Klima. Es gibt zwei Ursprungsprinzipien: massive, ortsfeste, auf Dauerhaftigkeit ausgelegte Wandkonstruktionen und elementierte Fassaden in Form von Zelten (flexibel, mobil). Ziel war die Dauerhaftigkeit der Wand gegen Witterungseinflüsse."
   },
   {
    "id": 113,
    "topic": "Fenster & Fassaden",
-   "front": "Entwicklung der Öffnungen in Wänden",
-   "back": "Öffnungen verbesserten zunächst die Gebäudefunktion und dienten als Rauchabzug. In der Gotik entstanden große verglaste Öffnungen wie Kirchenfenster, und die massive Wand wurde nach und nach aufgelöst, wodurch mehr Fensteröffnungen entstanden. Die Kräfte werden dabei an vorgesehenen Stellen konzentriert und um das Fenster herum abgeleitet."
+   "front": "Öffnungen in Wänden – ursprüngliche Funktion und Entwicklung",
+   "back": "Öffnungen verbesserten die Funktion des Gebäudes und dienten zunächst als Rauchabzug. In der Gotik entstanden große verglaste Öffnungen (Kirchenfenster). Die massive Wand wird nach und nach aufgelöst, wodurch mehr Fensteröffnungen entstehen; Kräfte werden an vorgesehenen Stellen konzentriert und um das Fenster herum abgeleitet."
   },
   {
    "id": 114,
    "topic": "Fenster & Fassaden",
-   "front": "Überbrückung von Öffnungen (Bögen)",
-   "back": "Große Öffnungen wurden durch Bögen überbrückt, in der Gotik durch den Spitzbogen, der die Last besser abtragen kann. Heutzutage werden Öffnungen wieder durch Stürze aus Stahl oder Stahlbeton (STB) überbrückt. Das Schließen der Öffnungen stellt Anforderungen an den Raumabschluss, also Schutz vor Auskühlung und unbefugtem Zugang."
+   "front": "Überbrückung von Öffnungen – Spitzbogen und heutige Stürze",
+   "back": "Öffnungen wurden durch Bögen überbrückt; in der Gotik durch den Spitzbogen, der die Last besser abtragen kann. Heutzutage werden wieder Stürze aus Stahl oder Stahlbeton (STB) eingesetzt."
   },
   {
    "id": 115,
    "topic": "Fenster & Fassaden",
-   "front": "Kastenfenster",
-   "back": "Beim Kastenfenster besteht die Verglasung aus zwei Schichten. Die dazwischenliegende Luftschicht dichtet ab und bietet einen Feuchteausgleich nach außen. Beide Schichten können separat geöffnet bzw. geschlossen werden. Das Kastenfenster gilt als Vorläufer der Isolierverglasung."
+   "front": "Schließen von Öffnungen – Anforderungen",
+   "back": "Das Schließen von Öffnungen stellt Anforderungen an den Raumabschluss: Schutz vor Auskühlung und vor unbedingtem Zugang. Öffnungen müssen mit Fenstern geschlossen werden. Zunächst wurden kleinformatige Glasscheiben verwendet, später große Glasscheiben."
   },
   {
    "id": 116,
    "topic": "Fenster & Fassaden",
-   "front": "Isolierverglasung",
-   "back": "Die Isolierverglasung entwickelte sich aus dem Kastenfenster. Sie ist eine Zwei- oder Dreifachverglasung mit Luft oder Edelgasen im Zwischenraum. Die Glasprofile werden mit Silikon auf Alu- oder Kunststoffprofile aufgeklebt."
+   "front": "Kastenfenster",
+   "back": "Beim Kastenfenster besteht die Verglasung aus zwei Schichten. Die Luftschicht dazwischen dichtet ab und bietet Feuchteausgleich nach außen. Beide Schichten können separat geöffnet bzw. geschlossen werden. Aus dem Kastenfenster entwickelte sich die Isolierverglasung."
   },
   {
    "id": 117,
    "topic": "Fenster & Fassaden",
-   "front": "Skelettartige Wandkonstruktion und Fachwerk",
-   "back": "Die skelettartige Wandkonstruktion stammt primär von Nomaden, quasi Zelte für maximale Leichtigkeit, und trennt Stützen, Unterkonstruktion und dichte Hülle. Das Fachwerk ist ein Skelett aus Holzbalken, das mit Ausfachungen aus Geflecht, Lehm oder Gestein geschlossen wird. Das Stapeln der Geschosse ist von außen ablesbar, und die Bauweise folgt aus den Zeltaufbauten der Nomaden."
+   "front": "Isolierverglasung",
+   "back": "Die Isolierverglasung ist eine Entwicklung aus dem Kastenfenster. Sie besteht aus einer Zwei- oder Dreifachverglasung mit Luft oder Edelgasen im Zwischenraum. Die Glasprofile werden mit Silikon auf Alu- oder Kunststoffprofile aufgeklebt."
   },
   {
    "id": 118,
    "topic": "Fenster & Fassaden",
-   "front": "Trennung von Hülle und Struktur",
-   "back": "Die Wand wird zunehmend in Fassade, Dichte-Schicht und tragende Schicht aufgelöst, sodass Hülle und Struktur getrennt werden. Dabei wird die Tragfunktion auf innenliegende Stützen übertragen. Das ermöglicht mehr Fensterfläche für mehr Lichteinfall und die Nutzung von natürlichem Tageslicht, während gerahmten Fenstern geometrische Grenzen gesetzt sind."
+   "front": "Skelettartige Wandkonstruktion",
+   "back": "Die skelettartige Wandkonstruktion war primär bei Nomaden verbreitet, quasi als Zelte für maximale Leichtigkeit. Sie sorgt für die Trennung von Stützen, Unterkonstruktion und dichter Hülle."
   },
   {
    "id": 119,
    "topic": "Fenster & Fassaden",
-   "front": "Pfosten-Riegel-Fassade: Grundprinzip",
-   "back": "Die Pfosten-Riegel-Fassade ist der konsequente Schritt der Auflösung der Wand und ermöglicht vollverglaste Fassaden. Sie besteht aus geschosshohen Pfosten und eingesetzten Riegeln und wirkt quasi wie ein Fachwerk mit Fenstern als Ausfachung. Da im Gegensatz zu gerahmten Fenstern die Glasgeometrie frei gewählt werden kann, spricht man auch von Fensterfassaden."
+   "front": "Fachwerk",
+   "back": "Beim Fachwerk wird ein Skelett aus Holzbalken mit Ausfachungen (Geflecht, Lehm, Gestein) geschlossen. Es folgt aus den Zeltaufbauten der Nomaden. Das Stapeln von Geschossen ist von außen ablesbar."
   },
   {
    "id": 120,
    "topic": "Fenster & Fassaden",
-   "front": "Montage der Pfosten-Riegel-Fassade",
-   "back": "Die Fassade kann als fertig montiertes Fenster-Fassadensystem hergestellt oder individuell vor Ort montiert werden, wobei Profile befestigt und Fensterflächen eingespannt werden. Pfosten und Riegel können aus Metall, aber auch z. B. aus Holz sein, und die Fenster werden mit Metall-Pressleisten verbunden und abgedichtet. Die Gestaltqualität wird durch Proportionen der Felder, Bauweise, Montageart, Profilbreite, Material und Farbgestaltung bestimmt."
+   "front": "Auflösung der Wand – Trennung von Hülle und Struktur",
+   "back": "Die Wand wird zunehmend in Fassade, Dichte-Schicht und tragende Schicht aufgelöst, es kommt zur Trennung von Hülle und Struktur. Die Tragfunktion wird auf innenliegende Stützen übertragen. So entsteht mehr Fensterfläche für mehr Lichteinfall und Nutzung von natürlichem Tageslicht."
   },
   {
    "id": 121,
    "topic": "Fenster & Fassaden",
-   "front": "Verformungen bei Pfosten-Riegel-Fassaden",
-   "back": "Die Fassade muss Verformungen durch Längenänderungen, z. B. infolge von Sonneneinstrahlung, aufnehmen können; dazu dienen Dehnungsprofile. Loslager in Form von Dehnungsfugen gewährleisten die Beweglichkeit von Fassadenanschlüssen. So werden Lasten aus Setzungen und Schwinden vermieden."
+   "front": "Pfosten-Riegel-Fassade – Definition",
+   "back": "Die Pfosten-Riegel-Fassade ist der konsequente Schritt der Auflösung der Wand und ermöglicht vollverglaste Fassaden. Sie besteht aus geschosshohen Pfosten und eingesetzten Riegeln und ist quasi eine Art Fachwerk mit Fenstern als Ausfachung. Sie wird auch Fensterfassade genannt."
   },
   {
    "id": 122,
    "topic": "Fenster & Fassaden",
-   "front": "Sommerlicher Wärmeschutz der Glasfassade",
-   "back": "Der sommerliche Wärmeschutz muss nach EnEV nachgewiesen werden. Am besten wirken beschichtete Gläser oder außenliegende Sonnenschutzsysteme wie Jalousien in oder an den Riegeln; der Schutz kann auch verglasungsintegriert zwischen den Glasscheiben angebracht werden. Innen angebrachter Sonnenschutz hilft wenig gegen den Wärmeeintrag durch Sonneneinstrahlung."
+   "front": "Warum heißt die Pfosten-Riegel-Fassade auch Fensterfassade?",
+   "back": "Sie wird Fensterfassade genannt, weil im Gegensatz zu gerahmten Fenstern eine freie Wahl der Glasgeometrie möglich ist. Dadurch ergeben sich deutlich mehr Möglichkeiten bei Fensteranordnung und innenliegenden Trennwänden."
   },
   {
    "id": 123,
    "topic": "Fenster & Fassaden",
-   "front": "Schallschutz bei Glasfassaden",
-   "back": "Beim Schallschutz geht es um die Luftschalldämmung gegen Außenlärm, die geschossübergreifend als Längsschalldämmung zwischen Geschossen und Räumen wirkt. Es gelten Standardanforderungen gemäß DIN 4109."
+   "front": "Montage der Pfosten-Riegel-Fassade",
+   "back": "Sie kann als fertig montiertes Fenster-Fassadensystem hergestellt oder individuell vor Ort montiert werden (Profile befestigen und Fensterflächen einspannen). Pfosten und Riegel können aus Metall, aber auch z.B. aus Holz sein. Die Fenster werden mit Metall-Pressleisten verbunden und abgedichtet."
   },
   {
    "id": 124,
    "topic": "Fenster & Fassaden",
-   "front": "Brandschutz bei Glasfassaden",
-   "back": "Glasfassaden gelten in der Regel als nicht-tragende Außenwände. Bei den Gebäudeklassen 1-3 gilt die Feuerwiderstandsklasse F30, und die Anforderungen werden grundsätzlich nur mit Alu-/Stahlprofilen erfüllt, während Holzprofile eine Einzelzulassung benötigen. Für Brandschutzverglasungen und Brandschutzfassaden ist eine bauaufsichtliche Zulassung nötig; alternativ können Brandschutzmaßnahmen konstruktiv umgesetzt werden, sodass keine Brandschutzfassade mehr benötigt wird."
+   "front": "Gestaltqualität der Pfosten-Riegel-Fassade",
+   "back": "Die Gestaltqualität wird bestimmt durch die Proportionen der einzelnen Felder, die Bauweise, die Montageart, die Profilbreite, das Material und die Farbgestaltung. Die Verglasung kann nur an Pfosten/Riegeln befestigt werden und so Betonungen erzeugen."
   },
   {
    "id": 125,
    "topic": "Fenster & Fassaden",
-   "front": "Tragwerksplanung: Pfosten und Riegel als Bauteile",
-   "back": "In der Tragwerksplanung ist ein Nachweis der Standsicherheit für Eigenlast sowie Ausfachungs- und Füllelemente erforderlich, und Pfosten und Riegel werden zu tragenden Bauteilen. Die Beanspruchung erfolgt durch ständige Eigenlast aus Fassadenbauteilen, Ausfachungen, Paneelen und Sonnenschutzeinrichtungen sowie durch Horizontallasten aus Winddruck und Windsog. Bauelemente müssen hinsichtlich Konstruktion und Bauphysik aufeinander abgestimmt sein."
+   "front": "Dehnungsprofile und Loslager (Dehnungsfugen)",
+   "back": "Die Fassade muss Verformungen durch Längenänderung, etwa aufgrund von Sonneneinstrahlung, über Dehnungsprofile aufnehmen können. Loslager in Form von Dehnungsfugen gewährleisten die Beweglichkeit der Fassadenanschlüsse und vermeiden Lasten aufgrund von Setzungen und Schwinden."
   },
   {
    "id": 126,
    "topic": "Fenster & Fassaden",
-   "front": "Lastabtragung und Auflösung ab 5 m Spannweite",
-   "back": "Lasten können direkt in das Tragwerk oder durch die Glaselemente abgeleitet werden. Eine Abtragung über Riegel/Pfosten erfordert einen engen Stützenabstand, ähnlich wie beim Fachwerk. Ab Spannweiten von etwa 5 m können Pfosten/Riegel aufgelöst und z. B. durch Hinterspannung ersetzt werden, was mehr Transparenz und weniger Eigengewicht bringt."
+   "front": "Sommerlicher Wärmeschutz der Fassade",
+   "back": "Der sommerliche Wärmeschutz muss nach EnEV nachgewiesen werden. Am besten wirken beschichtete Gläser oder außenliegende Sonnenschutzsysteme (Jalousien) in/an den Riegeln; der Sonnenschutz kann auch verglasungsintegriert angebracht werden. Innen angebrachter Sonnenschutz hilft wenig gegen Wärmeeintrag durch Sonneneinstrahlung."
   },
   {
    "id": 127,
    "topic": "Fenster & Fassaden",
-   "front": "Pfosten ohne Riegel bei geringen Abständen",
-   "back": "Bei geringen Abständen können nur Pfosten ohne Riegel als Tragwerk verwendet werden. Diese übernehmen dann alle Lasten, während die Glaselemente nur das Erscheinungsbild bestimmen. Die Fassade kann zudem selbsttragend ausgeführt werden, sitzt dann quasi vor Decken und Wänden und überbrückt diese, was einfachere Tragwerksanschlüsse an das Primärtragwerk ermöglicht."
+   "front": "Schallschutz der Fassade",
+   "back": "Es sind Luftschalldämmung gegen Außenlärm (geschossübergreifend) sowie Längsschalldämmung zwischen Geschossen und Räumen zu berücksichtigen. Es gelten die Standardanforderungen gemäß DIN 4109."
   },
   {
    "id": 128,
    "topic": "Fenster & Fassaden",
-   "front": "Riegelfassaden",
-   "back": "Bei Riegelfassaden können die Riegel an das Primärtragwerk wie Decken und Wände befestigt werden, um Vertikallasten abtragen zu können. Die Lasten werden in das Primärtragwerk abgeleitet. Alternativ können die Lasten z. B. auch über Seile an Decken- oder Dachkonstruktionen abgeleitet werden."
+   "front": "Brandschutz: Glasfassaden als Bauteil",
+   "back": "Glasfassaden gelten im Brandschutz in der Regel als nicht-tragende Außenwände. Die Anforderungen werden grundsätzlich nur mit Alu-/Stahlprofilen erfüllt, während Holzprofile eine Einzelzulassung benötigen. Für Brandschutzverglasungen und Brandschutzfassaden ist eine bauaufsichtliche Zulassung erforderlich."
   },
   {
    "id": 129,
    "topic": "Fenster & Fassaden",
-   "front": "Statische Grundsysteme (Ein-/Mehrfeldträger)",
-   "back": "Die Lastabtragung erfolgt über die Pfosten primär punktuell. Einfeldträgersysteme stehen zwischen den Geschossen, während Mehrfeldträgersysteme über mehrere Stockwerke gehen. Ein Kippen der Riegel durch die Last der Glasscheiben muss verhindert werden."
+   "front": "Brandschutz: konstruktive Umsetzung",
+   "back": "Brandschutzmaßnahmen können auch konstruktiv umgesetzt werden; dann wird keine eigene Brandschutzfassade mehr benötigt (eher in der Baupraxis üblich)."
   },
   {
    "id": 130,
    "topic": "Fenster & Fassaden",
-   "front": "Lastverteilung und Knicksicherung im statischen Grundsystem",
-   "back": "Eigengewichtslasten erfolgen auf die Riegel, Horizontallasten auf die Pfosten. Das Knicken wird über eine hängende Lagerung oder über biegesteife Knotenpunkte zwischen Riegel und Pfosten verhindert."
+   "front": "Tragwerksplanung: Pfosten und Riegel als tragende Bauteile",
+   "back": "Für die Standsicherheit ist ein Nachweis für Eigenlast, Ausfachungs- und Füllelemente erforderlich. Pfosten und Riegel werden zu tragenden Bauteilen. Bauelemente müssen hinsichtlich Konstruktion und Bauphysik aufeinander abgestimmt sein."
   },
   {
    "id": 131,
    "topic": "Fenster & Fassaden",
-   "front": "Befestigung am Bauwerk: Lagerung und Anforderungen",
-   "back": "Die Lastabtragung erfolgt unten bei stehend gelagerten und oben bei hängend gelagerten Tragwerken. Die Lagerung erfolgt in der Regel mit Befestigungen und Lospunkten in Form dreidimensional ausrichtbarer Auflager, und die Fassadenfläche muss sich ungehindert in der Fassadenebene verschieben können, um Verformungen zu vermindern. Die Ausdehnungsmöglichkeit muss gewährleistet sein, die Bauteile müssen korrosionsbeständig sein und Bewegungen geräuscharm aufnehmen."
+   "front": "Beanspruchung der Fassade",
+   "back": "Die Fassade wird beansprucht durch ständige Eigenlast aus Fassadenbauteilen, Ausfachungen, Paneelen und Sonnenschutzeinrichtungen sowie durch Horizontallasten aus Winddruck und Windsog. Lasten können direkt ins Tragwerk oder durch die Glaselemente abgeleitet werden."
   },
   {
    "id": 132,
    "topic": "Fenster & Fassaden",
-   "front": "Ankerschienen und Ankerplatten",
-   "back": "Bauseitig kann die Befestigung durch einbetonierte Ankerschienen erfolgen, die Kräfte nur in eine Richtung, nämlich gegen die Schienenrichtung, übernehmen. Alternativ kommen Ankerschrauben und Ankerplatten zum Einsatz, wobei Ankerplatten mit Bohrungen für Schraubverbindungen oder mit Anschweißplatten ausgeführt werden. Nachträglich können auch eingeschraubte Schwerlastanker verwendet werden."
+   "front": "Auflösung von Pfosten/Riegel bei großen Spannweiten",
+   "back": "Ab größeren Spannweiten können Pfosten und Riegel aufgelöst und z.B. durch Hinterspannung ersetzt werden. Das bringt mehr Transparenz und weniger Eigengewicht. Bei geringen Abständen können auch nur Pfosten ohne Riegel als Tragwerk dienen; die Glaselemente bestimmen dann nur das Erscheinungsbild."
+  },
+  {
+   "id": 133,
+   "topic": "Fenster & Fassaden",
+   "front": "Selbsttragende Fassade",
+   "back": "Eine Fassade kann selbsttragend ausgeführt werden, was einfachere Tragwerksanschlüsse an das Primärtragwerk ermöglicht. Die Fassade überbrückt Decken, Wände etc. und sitzt quasi davor."
+  },
+  {
+   "id": 134,
+   "topic": "Fenster & Fassaden",
+   "front": "Riegelfassaden",
+   "back": "Bei Riegelfassaden können die Riegel am Primärtragwerk (Decken, Wände) befestigt werden, um Vertikallasten abzutragen. Die Lasten werden in das Primärtragwerk abgeleitet; sie können z.B. auch über Seile an Decken- oder Dachkonstruktionen abgeleitet werden."
+  },
+  {
+   "id": 135,
+   "topic": "Fenster & Fassaden",
+   "front": "Statische Grundsysteme: Lastverteilung",
+   "back": "Die Lastabtragung erfolgt über Pfosten primär punktuell. Eigengewichtslasten wirken auf die Riegel, Horizontallasten auf die Pfosten. Ein Kippen der Riegel durch die Last der Glasscheiben muss verhindert werden. Knicken wird über hängende Lagerung oder biegesteife Knotenpunkte zwischen Riegel und Pfosten verhindert."
+  },
+  {
+   "id": 136,
+   "topic": "Fenster & Fassaden",
+   "front": "Ein- und Mehrfeldträgersysteme",
+   "back": "Einfeldträgersysteme stehen zwischen den Geschossen. Mehrfeldträgersysteme gehen über mehrere Stockwerke. Die Lastabtragung erfolgt jeweils über die Pfosten primär punktuell."
+  },
+  {
+   "id": 137,
+   "topic": "Fenster & Fassaden",
+   "front": "Befestigung am Bauwerk – Anforderungen",
+   "back": "Die Lastabtragung erfolgt unten bei stehend gelagerten bzw. oben bei hängend gelagerten Tragwerken. Die Lagerung erfolgt in der Regel mit Befestigungen und Lospunkten in Form dreidimensional ausrichtbarer Auflager. Die Fassadenfläche muss sich ungehindert in der Fassadenebene verschieben können; Bauteile müssen korrosionsbeständig sein und Bewegungen geräuscharm aufnehmen."
+  },
+  {
+   "id": 138,
+   "topic": "Fenster & Fassaden",
+   "front": "Befestigungsmittel: Ankerschienen, Ankerschrauben, Ankerplatten",
+   "back": "Bauseitig werden einbetonierte Ankerschienen verwendet, die Kräfte nur in eine Richtung (gegen die Schienenrichtung) übernehmen. Weiter gibt es Ankerschrauben und Ankerplatten (mit Bohrungen für Schraubverbindungen oder mit Anschweißplatten). Alternativ wird nachträglich mit eingeschraubten Schwerlastankern befestigt."
   }
  ]
 };
